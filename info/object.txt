@@ -1,0 +1,78 @@
+public static final int getXpStyle(int weaponId, int attackStyle) {
+		if (weaponId != -1 && weaponId != -2) {
+			String weaponName = ItemDefinitions.getItemDefinitions(weaponId)
+					.getName().toLowerCase();
+			if (weaponName.contains("whip")) {
+				switch (attackStyle) {
+				case 0:
+					return Skills.ATTACK;
+				case 1:
+					return SHARED;
+				case 2:
+				default:
+					return Skills.DEFENCE;
+				}
+			}
+			if (weaponName.contains("halberd")) {
+				switch (attackStyle) {
+				case 0:
+					return SHARED;
+				case 1:
+					return Skills.STRENGTH;
+				case 2:
+				default:
+					return Skills.DEFENCE;
+				}
+			}
+			if (weaponName.contains("staff")) {
+				switch (attackStyle) {
+				case 0:
+					return Skills.ATTACK;
+				case 1:
+					return Skills.STRENGTH;
+				case 2:
+				default:
+					return Skills.DEFENCE;
+				}
+			}
+			if (weaponName.contains("godsword") || weaponName.contains("sword")
+					|| weaponName.contains("2h")) {
+				switch (attackStyle) {
+				case 0:
+					return Skills.ATTACK;
+				case 1:
+					return Skills.STRENGTH;
+				case 2:
+					return Skills.STRENGTH;
+				case 3:
+				default:
+					return Skills.DEFENCE;
+				}
+			}
+		}
+		switch (weaponId) {
+		case -1:
+		case -2:
+			switch (attackStyle) {
+			case 0:
+				return Skills.ATTACK;
+			case 1:
+				return Skills.STRENGTH;
+			case 2:
+			default:
+				return Skills.DEFENCE;
+			}
+		default:
+			switch (attackStyle) {
+			case 0:
+				return Skills.ATTACK;
+			case 1:
+				return Skills.STRENGTH;
+			case 2:
+				return SHARED;
+			case 3:
+			default:
+				return Skills.DEFENCE;
+			}
+		}
+	}

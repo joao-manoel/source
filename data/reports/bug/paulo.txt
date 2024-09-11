@@ -1,0 +1,7 @@
+Date: 27th Maio
+Category: crash
+Description: jogo crasha quando uso full mithril no stand da warrios guild
+Combat: No
+Controler: com.rs.game.minigames.warriorguild.WarriorsGuild
+Coords: 2845, 3540, 0 and 11319
+

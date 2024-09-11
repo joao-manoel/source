@@ -1,0 +1,16 @@
+[20 Junho 2020 at 08:56:41 BRT] - salt: :home
+[20 Junho 2020 at 08:57:00 BRT] - salt: 'home
+[20 Junho 2020 at 08:57:03 BRT] - salt: ''home
+[20 Junho 2020 at 08:57:53 BRT] - salt: 'home
+[20 Junho 2020 at 08:57:56 BRT] - salt: 'home'
+[20 Junho 2020 at 08:57:59 BRT] - salt: :home
+[20 Junho 2020 at 08:58:11 BRT] - salt: (home)
+[20 Junho 2020 at 08:58:15 BRT] - salt: ''home''
+[20 Junho 2020 at 09:00:08 BRT] - salt: opa
+[20 Junho 2020 at 09:00:31 BRT] - salt: não, eu acho que meu personagem ficou logado porem eu n tava
+[20 Junho 2020 at 09:00:37 BRT] - salt: pq quando entrei a tela tava preta e eu fui trabalhar
+[20 Junho 2020 at 09:00:52 BRT] - salt: precisa não
+[20 Junho 2020 at 09:00:58 BRT] - salt: mas obrigado
+[20 Junho 2020 at 09:01:38 BRT] - salt: certo
+[20 Junho 2020 at 09:01:45 BRT] - salt: agradeço pela introdução.
+[20 Junho 2020 at 09:25:42 BRT] - salt: valeu garanhão

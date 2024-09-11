@@ -1,0 +1,2622 @@
+[25 maio 2021 at 04:31:26 BRT] - ::tele 0,48,54,13,45
+[25 maio 2021 at 04:31:27 BRT] - ::tele 0,48,54,17,37
+[25 maio 2021 at 04:31:29 BRT] - ::tele 0,48,54,21,35
+[25 maio 2021 at 04:31:30 BRT] - ::tele 0,48,54,22,39
+[25 maio 2021 at 04:31:38 BRT] - ::setlevel 1 99
+[25 maio 2021 at 04:31:41 BRT] - ::setlevel 2 99
+[25 maio 2021 at 04:31:43 BRT] - ::setlevel 3 99
+[25 maio 2021 at 04:31:46 BRT] - ::setlevel 4 99
+[25 maio 2021 at 04:31:49 BRT] - ::setlevel 5 99
+[25 maio 2021 at 04:31:53 BRT] - ::setlevel 6 99
+[25 maio 2021 at 04:32:00 BRT] - ::setlevel 7 99
+[25 maio 2021 at 04:32:07 BRT] - ::setlevel 6 88
+[25 maio 2021 at 04:32:13 BRT] - ::setlevel 12 99
+[25 maio 2021 at 04:33:17 BRT] - ::setlevel 0 88
+[25 maio 2021 at 04:33:22 BRT] - ::setlevel 6 99
+[25 maio 2021 at 04:33:26 BRT] - ::setlevel 0 99
+[25 maio 2021 at 04:34:45 BRT] - ::item 52 9999
+[25 maio 2021 at 04:35:07 BRT] - ::item 314 9999
+[25 maio 2021 at 04:35:32 BRT] - ::item 53 9999
+[25 maio 2021 at 04:35:46 BRT] - ::item 11237 999999
+[25 maio 2021 at 04:37:26 BRT] - ::item 23716 29
+[25 maio 2021 at 04:39:54 BRT] - ::item 23777 25
+[25 maio 2021 at 04:41:48 BRT] - ::tele 0,48,54,19,49
+[25 maio 2021 at 04:41:50 BRT] - ::tele 0,48,55,19,0
+[25 maio 2021 at 04:41:51 BRT] - ::tele 0,48,55,19,15
+[25 maio 2021 at 04:41:54 BRT] - ::tele 0,48,55,19,30
+[25 maio 2021 at 04:41:56 BRT] - ::tele 0,48,55,14,46
+[25 maio 2021 at 04:43:47 BRT] - ::item 23793 28
+[25 maio 2021 at 04:44:19 BRT] - ::tele 0,48,53,50,43
+[25 maio 2021 at 04:44:21 BRT] - ::tele 0,48,54,17,31
+[25 maio 2021 at 04:44:29 BRT] - ::item 23793 278
+[25 maio 2021 at 04:44:52 BRT] - ::tele 0,48,54,31,43
+[25 maio 2021 at 04:44:53 BRT] - ::tele 0,48,54,45,42
+[25 maio 2021 at 04:44:54 BRT] - ::tele 0,48,54,60,42
+[25 maio 2021 at 04:44:54 BRT] - ::tele 0,48,54,59,37
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,48,54,58,36
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,49,54,8,31
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,49,54,8,31
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,49,54,8,31
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,49,54,6,30
+[25 maio 2021 at 04:44:55 BRT] - ::tele 0,49,54,16,22
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,54,16,21
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,54,15,21
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,54,23,10
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,54,23,10
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,54,23,10
+[25 maio 2021 at 04:44:56 BRT] - ::tele 0,49,53,30,63
+[25 maio 2021 at 04:44:57 BRT] - ::tele 0,49,54,30,0
+[25 maio 2021 at 04:44:57 BRT] - ::tele 0,49,53,41,55
+[25 maio 2021 at 04:44:59 BRT] - ::tele 0,49,53,50,43
+[25 maio 2021 at 04:45:00 BRT] - ::tele 0,49,53,51,31
+[25 maio 2021 at 04:45:19 BRT] - ::item 2363 20
+[25 maio 2021 at 04:45:30 BRT] - ::item 2347 1
+[25 maio 2021 at 04:48:05 BRT] - ::item 23764 99
+[25 maio 2021 at 04:49:49 BRT] - ::setlevel 24 99
+[25 maio 2021 at 04:54:03 BRT] - ::master 
+[25 maio 2021 at 04:54:21 BRT] - ::god 
+[25 maio 2021 at 05:00:07 BRT] - ::tele 0,48,54,16,36
+[25 maio 2021 at 05:00:09 BRT] - ::tele 0,48,54,22,36
+[25 maio 2021 at 05:01:13 BRT] - ::tonpc 21512
+[25 maio 2021 at 05:01:26 BRT] - ::tonpc 
+[25 maio 2021 at 05:01:33 BRT] - ::tonpc 0
+[25 maio 2021 at 05:01:41 BRT] - ::tonpc 1
+[25 maio 2021 at 05:01:46 BRT] - ::tonpc 10
+[25 maio 2021 at 05:02:07 BRT] - ::tonpc 666
+[25 maio 2021 at 05:02:15 BRT] - ::tonpc 24
+[25 maio 2021 at 05:02:18 BRT] - ::tonpc 20
+[25 maio 2021 at 05:02:20 BRT] - ::tonpc 99
+[25 maio 2021 at 05:02:37 BRT] - ::tele 0,48,54,21,36
+[25 maio 2021 at 05:02:45 BRT] - ::teleto kaway
+[25 maio 2021 at 05:04:53 BRT] - ::teleto kaway
+[25 maio 2021 at 05:06:01 BRT] - ::teleto kaway
+[25 maio 2021 at 05:06:29 BRT] - ::tele 3,72,85,18,39
+[25 maio 2021 at 05:06:32 BRT] - ::tele 3,72,85,24,44
+[25 maio 2021 at 05:06:33 BRT] - ::tele 3,72,85,33,48
+[25 maio 2021 at 05:06:38 BRT] - ::tele 3,72,85,48,49
+[25 maio 2021 at 05:06:42 BRT] - ::tele 3,72,85,45,42
+[25 maio 2021 at 05:06:44 BRT] - ::tele 3,72,85,43,36
+[25 maio 2021 at 05:06:45 BRT] - ::tele 3,72,85,46,29
+[25 maio 2021 at 05:06:46 BRT] - ::tele 3,72,85,45,25
+[25 maio 2021 at 05:06:47 BRT] - ::tele 3,72,85,46,29
+[25 maio 2021 at 05:06:49 BRT] - ::tele 3,72,85,47,34
+[25 maio 2021 at 05:07:10 BRT] - ::tele 3,72,85,45,26
+[25 maio 2021 at 05:07:12 BRT] - ::tele 3,72,85,44,13
+[25 maio 2021 at 05:07:13 BRT] - ::tele 3,72,85,46,7
+[25 maio 2021 at 05:07:15 BRT] - ::tele 3,72,84,46,61
+[25 maio 2021 at 05:07:22 BRT] - ::teleto kaway
+[25 maio 2021 at 05:07:38 BRT] - ::teleto kaway
+[25 maio 2021 at 05:09:41 BRT] - ::teleto kaway
+[25 maio 2021 at 05:09:55 BRT] - ::tele 0,54,153,22,50
+[25 maio 2021 at 05:10:09 BRT] - ::teleto kaway
+[25 maio 2021 at 05:10:19 BRT] - ::teleto kaway
+[25 maio 2021 at 05:10:28 BRT] - ::tele 0,54,153,58,19
+[25 maio 2021 at 05:11:02 BRT] - ::teleto kaway
+[25 maio 2021 at 05:11:06 BRT] - ::tele 0,55,153,27,14
+[25 maio 2021 at 05:11:07 BRT] - ::tele 0,55,153,16,1
+[25 maio 2021 at 05:11:10 BRT] - ::tele 0,55,152,12,54
+[25 maio 2021 at 05:11:13 BRT] - ::tele 0,55,152,17,39
+[25 maio 2021 at 05:11:14 BRT] - ::tele 0,55,152,18,27
+[25 maio 2021 at 05:11:15 BRT] - ::tele 0,55,152,22,14
+[25 maio 2021 at 05:11:15 BRT] - ::tele 0,55,152,30,21
+[25 maio 2021 at 05:11:15 BRT] - ::tele 0,55,152,36,11
+[25 maio 2021 at 05:11:16 BRT] - ::tele 0,55,152,42,20
+[25 maio 2021 at 05:11:17 BRT] - ::tele 0,55,152,46,30
+[25 maio 2021 at 05:11:18 BRT] - ::tele 0,55,152,53,41
+[25 maio 2021 at 05:11:18 BRT] - ::tele 0,55,152,50,53
+[25 maio 2021 at 05:11:19 BRT] - ::tele 0,55,152,39,41
+[25 maio 2021 at 05:11:21 BRT] - ::tele 0,55,152,37,47
+[25 maio 2021 at 05:11:42 BRT] - ::item 1450 1
+[25 maio 2021 at 05:12:02 BRT] - ::item 7936
+[25 maio 2021 at 05:12:09 BRT] - ::item 7936 999
+[25 maio 2021 at 05:12:16 BRT] - ::item 3936 9999
+[25 maio 2021 at 05:12:30 BRT] - ::teleto kaway
+[25 maio 2021 at 05:12:53 BRT] - ::item 16450 1
+[25 maio 2021 at 05:13:06 BRT] - ::item 15454 1
+[25 maio 2021 at 05:13:34 BRT] - ::tonpc -1
+[25 maio 2021 at 05:13:57 BRT] - ::item 15459 1
+[25 maio 2021 at 05:14:43 BRT] - ::item 15795 1
+[25 maio 2021 at 05:14:57 BRT] - ::item 15806 1
+[25 maio 2021 at 05:15:10 BRT] - ::item 15846 1
+[25 maio 2021 at 05:15:22 BRT] - ::item 15901 1
+[25 maio 2021 at 05:15:31 BRT] - ::item 16194 1
+[25 maio 2021 at 05:19:10 BRT] - ::item 16126 1
+[25 maio 2021 at 05:19:56 BRT] - ::item 16713 1
+[25 maio 2021 at 05:20:13 BRT] - ::item 16173 1
+[25 maio 2021 at 05:23:01 BRT] - ::teleto kaway
+[25 maio 2021 at 05:23:55 BRT] - ::tele 0,48,54,15,34
+[25 maio 2021 at 05:26:08 BRT] - ::item 12047 1
+[25 maio 2021 at 05:28:17 BRT] - ::tele 0,45,53,47,43
+[25 maio 2021 at 05:28:24 BRT] - ::teletome kaway
+[25 maio 2021 at 05:28:31 BRT] - ::tele 0,45,53,50,56
+[25 maio 2021 at 05:29:03 BRT] - ::item 3226 1
+[25 maio 2021 at 05:29:14 BRT] - ::item 617 999999999999
+[25 maio 2021 at 05:29:23 BRT] - ::item 617 2147000000
+[25 maio 2021 at 05:29:37 BRT] - ::item 995 1
+[25 maio 2021 at 05:29:45 BRT] - ::item 995 2149999999
+[25 maio 2021 at 05:29:54 BRT] - ::item 2147000000
+[25 maio 2021 at 05:30:03 BRT] - ::item 995 21470000000
+[25 maio 2021 at 05:30:14 BRT] - ::item 995 23123123
+[25 maio 2021 at 05:30:57 BRT] - ::item 12160 1111
+[25 maio 2021 at 05:33:33 BRT] - ::item 995 91829812981
+[25 maio 2021 at 05:33:38 BRT] - ::item 995 9999999
+[25 maio 2021 at 05:33:43 BRT] - ::item 995 9999999999
+[25 maio 2021 at 05:33:48 BRT] - ::item 995 999999999
+[25 maio 2021 at 05:34:41 BRT] - ::item 12163 1
+[25 maio 2021 at 05:34:47 BRT] - ::item 12163 999999
+[25 maio 2021 at 05:36:27 BRT] - ::teleto kaway
+[25 maio 2021 at 05:42:57 BRT] - ::teleto kaway
+[25 maio 2021 at 05:43:48 BRT] - ::tele 0,48,54,32,36
+[25 maio 2021 at 05:43:48 BRT] - ::tele 0,48,54,43,27
+[25 maio 2021 at 05:43:49 BRT] - ::tele 0,48,54,54,18
+[25 maio 2021 at 05:43:49 BRT] - ::tele 0,48,54,54,18
+[25 maio 2021 at 05:43:50 BRT] - ::tele 0,48,54,54,18
+[25 maio 2021 at 05:43:50 BRT] - ::tele 0,49,54,1,9
+[25 maio 2021 at 05:43:50 BRT] - ::tele 0,49,54,12,0
+[25 maio 2021 at 05:43:50 BRT] - ::tele 0,49,54,12,0
+[25 maio 2021 at 05:43:51 BRT] - ::tele 0,49,54,12,0
+[25 maio 2021 at 05:43:51 BRT] - ::tele 0,49,54,12,0
+[25 maio 2021 at 05:43:51 BRT] - ::tele 0,49,53,23,55
+[25 maio 2021 at 05:43:51 BRT] - ::tele 0,49,53,23,55
+[25 maio 2021 at 05:43:51 BRT] - ::tele 0,49,53,23,55
+[25 maio 2021 at 05:43:52 BRT] - ::tele 0,49,53,34,46
+[25 maio 2021 at 05:43:52 BRT] - ::tele 0,49,53,34,46
+[25 maio 2021 at 05:43:52 BRT] - ::tele 0,49,53,34,46
+[25 maio 2021 at 05:43:52 BRT] - ::tele 0,49,53,45,37
+[25 maio 2021 at 05:43:52 BRT] - ::tele 0,49,53,45,37
+[25 maio 2021 at 05:43:53 BRT] - ::tele 0,49,53,56,28
+[25 maio 2021 at 05:43:54 BRT] - ::tele 0,50,53,3,19
+[25 maio 2021 at 05:43:55 BRT] - ::tele 0,50,53,4,34
+[25 maio 2021 at 05:43:59 BRT] - ::tele 0,50,53,5,26
+[25 maio 2021 at 05:44:08 BRT] - ::item 995 123123
+[25 maio 2021 at 05:45:15 BRT] - ::tele 0,50,53,10,11
+[25 maio 2021 at 05:45:17 BRT] - ::tele 0,50,52,2,60
+[25 maio 2021 at 05:45:18 BRT] - ::tele 0,49,52,58,54
+[25 maio 2021 at 05:45:19 BRT] - ::tele 0,49,52,45,63
+[25 maio 2021 at 05:45:19 BRT] - ::tele 0,49,52,45,63
+[25 maio 2021 at 05:45:19 BRT] - ::tele 0,49,52,45,61
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,53,32,6
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,53,31,5
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,53,30,1
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,52,29,61
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,52,14,63
+[25 maio 2021 at 05:45:20 BRT] - ::tele 0,49,52,14,63
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,49,52,14,63
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,48,52,62,61
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,48,52,62,61
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,48,52,62,61
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,48,52,62,61
+[25 maio 2021 at 05:45:21 BRT] - ::tele 0,48,52,46,59
+[25 maio 2021 at 05:45:22 BRT] - ::tele 0,48,52,46,59
+[25 maio 2021 at 05:45:22 BRT] - ::tele 0,48,52,46,59
+[25 maio 2021 at 05:45:22 BRT] - ::tele 0,48,52,30,57
+[25 maio 2021 at 05:45:22 BRT] - ::tele 0,48,52,30,57
+[25 maio 2021 at 05:45:22 BRT] - ::tele 0,48,52,30,57
+[25 maio 2021 at 05:45:23 BRT] - ::tele 0,48,52,14,55
+[25 maio 2021 at 05:45:23 BRT] - ::tele 0,48,52,14,55
+[25 maio 2021 at 05:45:23 BRT] - ::tele 0,48,52,14,55
+[25 maio 2021 at 05:45:23 BRT] - ::tele 0,47,52,62,53
+[25 maio 2021 at 05:45:23 BRT] - ::tele 0,47,52,62,53
+[25 maio 2021 at 05:45:24 BRT] - ::tele 0,47,52,62,53
+[25 maio 2021 at 05:45:24 BRT] - ::tele 0,47,52,46,51
+[25 maio 2021 at 05:45:24 BRT] - ::tele 0,47,52,46,51
+[25 maio 2021 at 05:45:24 BRT] - ::tele 0,47,52,46,51
+[25 maio 2021 at 05:45:24 BRT] - ::tele 0,47,52,30,49
+[25 maio 2021 at 05:45:25 BRT] - ::tele 0,47,52,30,49
+[25 maio 2021 at 05:45:25 BRT] - ::tele 0,47,52,30,49
+[25 maio 2021 at 05:45:25 BRT] - ::tele 0,47,52,14,47
+[25 maio 2021 at 05:45:25 BRT] - ::tele 0,47,52,14,47
+[25 maio 2021 at 05:45:26 BRT] - ::tele 0,46,52,62,45
+[25 maio 2021 at 05:45:26 BRT] - ::tele 0,46,52,46,43
+[25 maio 2021 at 05:45:27 BRT] - ::tele 0,46,52,42,58
+[25 maio 2021 at 05:45:27 BRT] - ::tele 0,46,53,38,9
+[25 maio 2021 at 05:45:28 BRT] - ::tele 0,46,53,38,9
+[25 maio 2021 at 05:45:29 BRT] - ::tele 0,46,53,27,8
+[25 maio 2021 at 05:45:29 BRT] - ::tele 0,46,53,26,8
+[25 maio 2021 at 05:45:30 BRT] - ::tele 0,46,53,15,12
+[25 maio 2021 at 05:45:30 BRT] - ::tele 0,46,53,14,9
+[25 maio 2021 at 05:45:30 BRT] - ::tele 0,46,53,14,8
+[25 maio 2021 at 05:45:31 BRT] - ::tele 0,46,53,29,8
+[25 maio 2021 at 05:45:31 BRT] - ::tele 0,46,53,29,8
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,44,8
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,44,8
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,44,8
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,58,7
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,58,7
+[25 maio 2021 at 05:45:32 BRT] - ::tele 0,46,53,58,7
+[25 maio 2021 at 05:45:33 BRT] - ::tele 0,47,53,8,5
+[25 maio 2021 at 05:45:33 BRT] - ::tele 0,47,53,7,4
+[25 maio 2021 at 05:45:33 BRT] - ::tele 0,47,52,0,63
+[25 maio 2021 at 05:45:33 BRT] - ::tele 0,46,52,61,59
+[25 maio 2021 at 05:45:33 BRT] - ::tele 0,47,52,3,51
+[25 maio 2021 at 05:45:34 BRT] - ::tele 0,47,52,3,51
+[25 maio 2021 at 05:45:34 BRT] - ::tele 0,47,52,3,51
+[25 maio 2021 at 05:45:34 BRT] - ::tele 0,47,52,6,39
+[25 maio 2021 at 05:45:34 BRT] - ::tele 0,47,52,6,39
+[25 maio 2021 at 05:45:34 BRT] - ::tele 0,47,52,6,39
+[25 maio 2021 at 05:45:35 BRT] - ::tele 0,47,52,6,39
+[25 maio 2021 at 05:45:35 BRT] - ::tele 0,47,52,9,27
+[25 maio 2021 at 05:45:35 BRT] - ::tele 0,47,52,9,27
+[25 maio 2021 at 05:45:35 BRT] - ::tele 0,47,52,9,27
+[25 maio 2021 at 05:45:35 BRT] - ::tele 0,47,52,12,15
+[25 maio 2021 at 05:45:37 BRT] - ::tele 0,47,52,15,3
+[25 maio 2021 at 05:45:39 BRT] - ::tele 0,47,52,17,16
+[25 maio 2021 at 05:45:40 BRT] - ::tele 0,47,52,5,19
+[25 maio 2021 at 05:45:41 BRT] - ::tele 0,47,52,15,28
+[25 maio 2021 at 05:45:41 BRT] - ::tele 0,47,52,18,28
+[25 maio 2021 at 05:45:42 BRT] - ::tele 0,47,52,29,33
+[25 maio 2021 at 05:45:43 BRT] - ::tele 0,47,52,12,31
+[25 maio 2021 at 05:45:44 BRT] - ::tele 0,46,52,62,34
+[25 maio 2021 at 05:45:45 BRT] - ::tele 0,46,52,47,31
+[25 maio 2021 at 05:45:45 BRT] - ::tele 0,46,52,32,32
+[25 maio 2021 at 05:45:47 BRT] - ::tele 0,46,52,24,44
+[25 maio 2021 at 05:45:52 BRT] - ::tele 0,46,52,13,45
+[25 maio 2021 at 05:45:58 BRT] - ::tele 0,46,52,3,40
+[25 maio 2021 at 05:46:00 BRT] - ::tele 0,46,52,15,48
+[25 maio 2021 at 05:46:01 BRT] - ::tele 0,46,52,22,54
+[25 maio 2021 at 05:46:07 BRT] - ::tele 0,46,52,5,53
+[25 maio 2021 at 05:46:40 BRT] - ::teleto kaway
+[25 maio 2021 at 05:47:04 BRT] - ::tele 1,56,50,26,45
+[25 maio 2021 at 05:47:06 BRT] - ::tele 1,56,50,29,44
+[25 maio 2021 at 05:47:16 BRT] - ::tele 1,56,50,27,44
+[25 maio 2021 at 05:47:23 BRT] - ::teleto kaway
+[25 maio 2021 at 05:47:30 BRT] - ::tele 0,56,50,16,44
+[25 maio 2021 at 05:47:33 BRT] - ::tele 0,56,50,16,46
+[25 maio 2021 at 05:47:40 BRT] - ::tele 0,59,55,23,29
+[25 maio 2021 at 05:48:19 BRT] - ::item 32153 1
+[25 maio 2021 at 05:48:29 BRT] - ::teleto kaway
+[25 maio 2021 at 05:48:36 BRT] - ::teleto kaway
+[25 maio 2021 at 05:50:01 BRT] - ::teleto kaway
+[25 maio 2021 at 05:51:05 BRT] - ::teleto kaway
+[25 maio 2021 at 05:51:29 BRT] - ::item 995 214700000
+[25 maio 2021 at 05:51:49 BRT] - ::item 995 2147000000
+[25 maio 2021 at 05:51:54 BRT] - ::teleto kaway
+[25 maio 2021 at 05:52:00 BRT] - ::tele 3,28,68,35,51
+[25 maio 2021 at 05:53:19 BRT] - ::teleto kaway
+[25 maio 2021 at 05:53:38 BRT] - ::tele 0,29,68,27,14
+[25 maio 2021 at 05:53:40 BRT] - ::tele 0,29,68,23,25
+[25 maio 2021 at 05:54:16 BRT] - ::tele 0,29,68,38,60
+[25 maio 2021 at 05:54:25 BRT] - ::tele 0,29,68,32,57
+[25 maio 2021 at 05:54:35 BRT] - ::teleto kaway
+[25 maio 2021 at 05:54:47 BRT] - ::tele 2,29,68,7,27
+[25 maio 2021 at 05:54:52 BRT] - ::tele 1,29,68,7,17
+[25 maio 2021 at 05:55:08 BRT] - ::tele 1,28,68,22,12
+[25 maio 2021 at 05:55:10 BRT] - ::tele 1,28,68,17,12
+[25 maio 2021 at 05:55:11 BRT] - ::tele 1,28,68,12,12
+[25 maio 2021 at 05:55:11 BRT] - ::tele 1,28,68,12,12
+[25 maio 2021 at 05:55:19 BRT] - ::teleto kaway
+[25 maio 2021 at 05:55:33 BRT] - ::tele 1,28,68,6,29
+[25 maio 2021 at 05:55:44 BRT] - ::tele 1,28,68,6,38
+[25 maio 2021 at 05:55:49 BRT] - ::tele 1,28,68,12,41
+[25 maio 2021 at 05:56:09 BRT] - ::tele 3,28,68,42,42
+[25 maio 2021 at 05:56:10 BRT] - ::tele 3,28,68,50,49
+[25 maio 2021 at 05:56:10 BRT] - ::tele 3,28,68,50,50
+[25 maio 2021 at 05:56:19 BRT] - ::tele 2,28,68,26,51
+[25 maio 2021 at 05:56:25 BRT] - ::tele 3,28,68,9,53
+[25 maio 2021 at 05:57:49 BRT] - ::teleto kaway
+[25 maio 2021 at 06:00:45 BRT] - ::teleto kaway
+[25 maio 2021 at 06:00:52 BRT] - ::tele 0,48,54,15,39
+[25 maio 2021 at 06:00:52 BRT] - ::tele 0,48,54,22,37
+[25 maio 2021 at 06:00:55 BRT] - ::tele 0,48,54,26,34
+[25 maio 2021 at 06:00:58 BRT] - ::tele 0,48,54,22,34
+[25 maio 2021 at 06:01:03 BRT] - ::tele 0,48,54,26,34
+[25 maio 2021 at 06:01:06 BRT] - ::tele 0,48,54,25,34
+[25 maio 2021 at 06:01:08 BRT] - ::tele 0,48,54,25,36
+[25 maio 2021 at 06:01:23 BRT] - ::tele 0,48,54,24,37
+[25 maio 2021 at 06:02:12 BRT] - ::tele 0,48,54,26,32
+[25 maio 2021 at 06:02:15 BRT] - ::tele 0,48,54,24,37
+[25 maio 2021 at 04:45:18 BRT] - ::tele 0,48,54,21,39
+[25 maio 2021 at 04:56:19 BRT] - ::item 100034 999
+[25 maio 2021 at 04:56:31 BRT] - ::item 10034 9999
+[25 maio 2021 at 04:58:01 BRT] - ::tele 0,48,54,31,48
+[25 maio 2021 at 04:58:02 BRT] - ::tele 0,48,54,23,46
+[25 maio 2021 at 04:58:04 BRT] - ::tele 0,48,54,20,39
+[25 maio 2021 at 04:58:14 BRT] - ::tele 0,48,54,30,56
+[25 maio 2021 at 04:58:15 BRT] - ::tele 0,48,54,43,59
+[25 maio 2021 at 04:58:16 BRT] - ::tele 0,48,54,49,61
+[25 maio 2021 at 04:59:43 BRT] - ::tele 0,48,54,39,51
+[25 maio 2021 at 04:59:44 BRT] - ::tele 0,48,54,30,39
+[25 maio 2021 at 04:59:45 BRT] - ::tele 0,48,54,18,37
+[25 maio 2021 at 05:00:44 BRT] - ::tele 0,48,54,16,43
+[25 maio 2021 at 05:01:26 BRT] - ::tele 0,48,54,20,34
+[25 maio 2021 at 05:03:09 BRT] - ::god 
+[25 maio 2021 at 05:03:23 BRT] - ::tele 0,48,54,16,58
+[25 maio 2021 at 05:03:24 BRT] - ::tele 0,48,54,17,56
+[25 maio 2021 at 05:03:24 BRT] - ::tele 0,48,55,22,7
+[25 maio 2021 at 05:03:24 BRT] - ::tele 0,48,55,20,8
+[25 maio 2021 at 05:03:24 BRT] - ::tele 0,48,55,18,4
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,21,20
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,22,19
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,22,19
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,24,30
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,24,30
+[25 maio 2021 at 05:03:25 BRT] - ::tele 0,48,55,24,30
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,24,30
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,25,42
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,25,42
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,25,42
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,26,54
+[25 maio 2021 at 05:03:26 BRT] - ::tele 0,48,55,26,54
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,55,26,54
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,55,26,54
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,56,27,2
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,56,27,2
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,56,27,2
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,56,27,2
+[25 maio 2021 at 05:03:27 BRT] - ::tele 0,48,56,28,14
+[25 maio 2021 at 05:03:28 BRT] - ::tele 0,48,56,28,14
+[25 maio 2021 at 05:03:28 BRT] - ::tele 0,48,56,28,14
+[25 maio 2021 at 05:03:28 BRT] - ::tele 0,48,56,28,14
+[25 maio 2021 at 05:03:28 BRT] - ::tele 0,48,56,29,26
+[25 maio 2021 at 05:03:28 BRT] - ::tele 0,48,56,29,26
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,29,26
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,30,38
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,30,38
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,30,38
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,30,38
+[25 maio 2021 at 05:03:29 BRT] - ::tele 0,48,56,31,50
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,31,50
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,31,50
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,32,62
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,32,62
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,32,62
+[25 maio 2021 at 05:03:30 BRT] - ::tele 0,48,56,32,62
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,33,10
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,33,10
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,33,10
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,33,10
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,34,22
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,34,22
+[25 maio 2021 at 05:03:31 BRT] - ::tele 0,48,57,34,22
+[25 maio 2021 at 05:03:32 BRT] - ::tele 0,48,57,35,34
+[25 maio 2021 at 05:03:33 BRT] - ::tele 0,48,57,36,46
+[25 maio 2021 at 05:03:33 BRT] - ::tele 0,48,57,36,46
+[25 maio 2021 at 05:03:34 BRT] - ::tele 0,48,57,49,54
+[25 maio 2021 at 05:03:37 BRT] - ::tele 0,48,57,49,54
+[25 maio 2021 at 05:03:37 BRT] - ::tele 0,48,57,49,54
+[25 maio 2021 at 05:03:37 BRT] - ::tele 0,48,57,49,54
+[25 maio 2021 at 05:03:37 BRT] - ::tele 0,48,57,49,54
+[25 maio 2021 at 05:03:47 BRT] - ::tele 0,48,57,62,61
+[25 maio 2021 at 05:03:51 BRT] - ::tele 0,49,58,2,10
+[25 maio 2021 at 05:03:51 BRT] - ::tele 0,49,58,0,19
+[25 maio 2021 at 05:03:52 BRT] - ::tele 0,49,58,2,24
+[25 maio 2021 at 05:03:52 BRT] - ::tele 0,49,58,2,39
+[25 maio 2021 at 05:03:52 BRT] - ::tele 0,48,58,63,40
+[25 maio 2021 at 05:03:53 BRT] - ::tele 0,48,58,63,40
+[25 maio 2021 at 05:03:54 BRT] - ::tele 0,49,58,2,55
+[25 maio 2021 at 05:03:55 BRT] - ::tele 0,49,59,5,6
+[25 maio 2021 at 05:03:55 BRT] - ::tele 0,49,59,5,6
+[25 maio 2021 at 05:03:55 BRT] - ::tele 0,49,59,5,6
+[25 maio 2021 at 05:03:56 BRT] - ::tele 0,49,59,5,6
+[25 maio 2021 at 05:03:56 BRT] - ::tele 0,49,59,8,21
+[25 maio 2021 at 05:03:56 BRT] - ::tele 0,49,59,8,21
+[25 maio 2021 at 05:03:56 BRT] - ::tele 0,49,59,8,21
+[25 maio 2021 at 05:03:58 BRT] - ::tele 0,49,59,7,29
+[25 maio 2021 at 05:03:59 BRT] - ::tele 0,49,59,7,38
+[25 maio 2021 at 05:03:59 BRT] - ::tele 0,49,59,8,42
+[25 maio 2021 at 05:04:00 BRT] - ::tele 0,49,59,8,42
+[25 maio 2021 at 05:04:00 BRT] - ::tele 0,49,59,5,42
+[25 maio 2021 at 05:04:00 BRT] - ::tele 0,49,59,6,40
+[25 maio 2021 at 05:04:00 BRT] - ::tele 0,49,59,6,40
+[25 maio 2021 at 05:04:01 BRT] - ::tele 0,49,59,10,51
+[25 maio 2021 at 05:04:01 BRT] - ::tele 0,49,59,11,56
+[25 maio 2021 at 05:04:01 BRT] - ::tele 0,49,60,15,3
+[25 maio 2021 at 05:04:05 BRT] - ::tele 0,49,59,12,59
+[25 maio 2021 at 05:04:06 BRT] - ::tele 0,49,59,7,47
+[25 maio 2021 at 05:04:07 BRT] - ::tele 0,49,59,1,35
+[25 maio 2021 at 05:04:10 BRT] - ::tele 0,49,59,6,31
+[25 maio 2021 at 05:04:17 BRT] - ::tele 0,49,59,5,37
+[25 maio 2021 at 05:04:17 BRT] - ::tele 0,49,59,5,37
+[25 maio 2021 at 05:04:17 BRT] - ::tele 0,49,59,5,37
+[25 maio 2021 at 05:04:17 BRT] - ::tele 0,49,59,6,39
+[25 maio 2021 at 05:04:18 BRT] - ::tele 0,49,59,4,46
+[25 maio 2021 at 05:04:18 BRT] - ::tele 0,49,59,4,46
+[25 maio 2021 at 05:04:18 BRT] - ::tele 0,49,59,4,54
+[25 maio 2021 at 05:04:18 BRT] - ::tele 0,49,59,3,54
+[25 maio 2021 at 05:04:18 BRT] - ::tele 0,49,59,2,54
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,49,59,2,54
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,49,59,0,62
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,49,59,0,62
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,49,59,0,62
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,48,60,62,6
+[25 maio 2021 at 05:04:19 BRT] - ::tele 0,48,60,62,6
+[25 maio 2021 at 05:04:20 BRT] - ::tele 0,48,60,62,6
+[25 maio 2021 at 05:04:20 BRT] - ::tele 0,49,60,1,10
+[25 maio 2021 at 05:04:20 BRT] - ::tele 0,48,60,63,18
+[25 maio 2021 at 05:04:20 BRT] - ::tele 0,48,60,63,18
+[25 maio 2021 at 05:04:20 BRT] - ::tele 0,48,60,63,18
+[25 maio 2021 at 05:04:21 BRT] - ::tele 0,49,60,0,30
+[25 maio 2021 at 05:04:21 BRT] - ::tele 0,49,60,0,30
+[25 maio 2021 at 05:04:21 BRT] - ::tele 0,49,60,0,30
+[25 maio 2021 at 05:04:21 BRT] - ::tele 0,49,60,1,42
+[25 maio 2021 at 05:04:21 BRT] - ::tele 0,49,60,1,42
+[25 maio 2021 at 05:04:22 BRT] - ::tele 0,49,60,2,54
+[25 maio 2021 at 05:04:22 BRT] - ::tele 0,49,60,2,54
+[25 maio 2021 at 05:04:22 BRT] - ::tele 0,49,61,3,2
+[25 maio 2021 at 05:04:23 BRT] - ::tele 0,49,61,3,2
+[25 maio 2021 at 05:04:24 BRT] - ::tele 0,49,61,4,14
+[25 maio 2021 at 05:04:24 BRT] - ::tele 0,49,61,4,14
+[25 maio 2021 at 05:04:25 BRT] - ::tele 0,49,61,15,22
+[25 maio 2021 at 05:04:25 BRT] - ::tele 0,49,61,15,22
+[25 maio 2021 at 05:04:25 BRT] - ::tele 0,49,61,15,22
+[25 maio 2021 at 05:04:26 BRT] - ::tele 0,49,61,23,31
+[25 maio 2021 at 05:04:26 BRT] - ::tele 0,49,61,23,31
+[25 maio 2021 at 05:04:27 BRT] - ::tele 0,49,61,33,40
+[25 maio 2021 at 05:04:27 BRT] - ::tele 0,49,61,33,40
+[25 maio 2021 at 05:04:27 BRT] - ::tele 0,49,61,33,40
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,61,40,51
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,61,38,52
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,61,38,52
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,61,35,54
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,61,35,54
+[25 maio 2021 at 05:04:28 BRT] - ::tele 0,49,62,37,4
+[25 maio 2021 at 05:04:29 BRT] - ::tele 0,49,62,37,4
+[25 maio 2021 at 05:04:30 BRT] - ::tele 0,49,61,40,62
+[25 maio 2021 at 05:04:30 BRT] - ::tele 0,49,61,43,60
+[25 maio 2021 at 05:04:30 BRT] - ::tele 0,49,61,46,60
+[25 maio 2021 at 05:04:30 BRT] - ::tele 0,49,61,54,51
+[25 maio 2021 at 05:04:33 BRT] - ::tele 0,50,61,1,42
+[25 maio 2021 at 05:04:34 BRT] - ::tele 0,50,61,2,43
+[25 maio 2021 at 05:04:34 BRT] - ::tele 0,50,61,14,35
+[25 maio 2021 at 05:04:34 BRT] - ::tele 0,50,61,14,35
+[25 maio 2021 at 05:04:34 BRT] - ::tele 0,50,61,15,35
+[25 maio 2021 at 05:04:35 BRT] - ::tele 0,50,61,25,29
+[25 maio 2021 at 05:04:36 BRT] - ::tele 0,50,61,35,42
+[25 maio 2021 at 05:04:37 BRT] - ::tele 0,50,61,43,41
+[25 maio 2021 at 05:04:40 BRT] - ::tele 0,50,61,57,50
+[25 maio 2021 at 05:04:41 BRT] - ::tele 0,51,61,10,57
+[25 maio 2021 at 05:04:42 BRT] - ::tele 0,51,61,8,50
+[25 maio 2021 at 05:04:42 BRT] - ::tele 0,51,61,24,56
+[25 maio 2021 at 05:04:42 BRT] - ::tele 0,51,61,25,53
+[25 maio 2021 at 05:04:42 BRT] - ::tele 0,51,61,23,48
+[25 maio 2021 at 05:04:44 BRT] - ::tele 0,51,61,21,36
+[25 maio 2021 at 05:04:45 BRT] - ::tele 0,51,61,18,25
+[25 maio 2021 at 05:04:47 BRT] - ::tele 0,51,61,21,20
+[25 maio 2021 at 05:04:49 BRT] - ::tele 0,51,61,21,24
+[25 maio 2021 at 05:04:53 BRT] - ::tele 0,51,61,26,12
+[25 maio 2021 at 05:04:54 BRT] - ::tele 0,51,61,35,18
+[25 maio 2021 at 05:05:13 BRT] - ::tele 0,49,56,15,45
+[25 maio 2021 at 05:05:13 BRT] - ::tele 0,49,56,15,45
+[25 maio 2021 at 05:05:13 BRT] - ::tele 0,49,56,16,46
+[25 maio 2021 at 05:05:13 BRT] - ::tele 0,49,56,16,46
+[25 maio 2021 at 05:05:14 BRT] - ::tele 0,49,56,1,52
+[25 maio 2021 at 05:05:14 BRT] - ::tele 0,49,56,1,52
+[25 maio 2021 at 05:05:14 BRT] - ::tele 0,49,56,1,52
+[25 maio 2021 at 05:05:14 BRT] - ::tele 0,48,56,50,58
+[25 maio 2021 at 05:05:15 BRT] - ::tele 0,48,56,36,63
+[25 maio 2021 at 05:05:15 BRT] - ::tele 0,48,56,36,63
+[25 maio 2021 at 05:05:15 BRT] - ::tele 0,48,56,36,63
+[25 maio 2021 at 05:05:15 BRT] - ::tele 0,48,56,36,63
+[25 maio 2021 at 05:05:16 BRT] - ::tele 0,48,57,23,2
+[25 maio 2021 at 05:05:16 BRT] - ::tele 0,48,57,23,2
+[25 maio 2021 at 05:05:17 BRT] - ::tele 0,48,57,10,5
+[25 maio 2021 at 05:05:17 BRT] - ::tele 0,48,57,10,5
+[25 maio 2021 at 05:05:17 BRT] - ::tele 0,48,57,10,4
+[25 maio 2021 at 05:05:17 BRT] - ::tele 0,47,57,61,7
+[25 maio 2021 at 05:05:17 BRT] - ::tele 0,47,57,61,7
+[25 maio 2021 at 05:05:23 BRT] - ::tele 0,48,157,15,31
+[25 maio 2021 at 05:07:25 BRT] - ::tele 0,51,61,27,12
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,27,12
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,27,12
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,10,11
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,10,11
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,10,11
+[25 maio 2021 at 05:07:26 BRT] - ::tele 0,51,61,10,11
+[25 maio 2021 at 05:07:27 BRT] - ::tele 0,50,61,57,10
+[25 maio 2021 at 05:07:28 BRT] - ::tele 0,51,61,1,20
+[25 maio 2021 at 05:07:33 BRT] - ::god 
+[25 maio 2021 at 05:11:32 BRT] - ::god 
+[25 maio 2021 at 05:11:33 BRT] - ::tele 0,50,61,50,32
+[25 maio 2021 at 05:11:35 BRT] - ::tele 0,50,61,37,37
+[25 maio 2021 at 05:11:37 BRT] - ::tele 0,50,61,28,22
+[25 maio 2021 at 05:11:38 BRT] - ::tele 0,50,61,22,6
+[25 maio 2021 at 05:11:38 BRT] - ::tele 0,50,61,22,6
+[25 maio 2021 at 05:11:38 BRT] - ::tele 0,50,61,22,6
+[25 maio 2021 at 05:11:38 BRT] - ::tele 0,50,61,23,6
+[25 maio 2021 at 05:11:39 BRT] - ::tele 0,50,60,17,54
+[25 maio 2021 at 05:11:39 BRT] - ::tele 0,50,60,17,54
+[25 maio 2021 at 05:11:39 BRT] - ::tele 0,50,60,18,54
+[25 maio 2021 at 05:11:40 BRT] - ::tele 0,50,60,14,41
+[25 maio 2021 at 05:11:40 BRT] - ::tele 0,50,60,11,28
+[25 maio 2021 at 05:12:17 BRT] - ::item 34365 1
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,9,14
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,9,14
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,9,14
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,7,0
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,7,0
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,7,0
+[25 maio 2021 at 05:12:25 BRT] - ::tele 0,50,60,7,0
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,5,50
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,5,50
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,5,50
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,5,50
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,3,36
+[25 maio 2021 at 05:12:26 BRT] - ::tele 0,50,59,3,36
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,3,36
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,3,36
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,1,22
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,1,22
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,1,22
+[25 maio 2021 at 05:12:27 BRT] - ::tele 0,50,59,1,22
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,59,63,8
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,59,63,8
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,59,63,8
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,59,63,8
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,58,61,58
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,58,61,58
+[25 maio 2021 at 05:12:28 BRT] - ::tele 0,49,58,61,58
+[25 maio 2021 at 05:12:29 BRT] - ::tele 0,49,58,61,58
+[25 maio 2021 at 05:12:29 BRT] - ::tele 0,49,58,59,44
+[25 maio 2021 at 05:12:29 BRT] - ::tele 0,49,58,59,44
+[25 maio 2021 at 05:12:29 BRT] - ::tele 0,49,58,59,44
+[25 maio 2021 at 05:12:29 BRT] - ::tele 0,49,58,57,30
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,57,30
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,57,30
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,55,16
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,55,16
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,55,16
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,55,16
+[25 maio 2021 at 05:12:30 BRT] - ::tele 0,49,58,53,2
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,58,53,2
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,58,53,2
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,58,53,2
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,57,51,52
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,57,51,52
+[25 maio 2021 at 05:12:31 BRT] - ::tele 0,49,57,51,52
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,51,52
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,49,38
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,49,38
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,49,38
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,47,24
+[25 maio 2021 at 05:12:32 BRT] - ::tele 0,49,57,47,24
+[25 maio 2021 at 05:12:33 BRT] - ::tele 0,49,57,45,10
+[25 maio 2021 at 05:12:33 BRT] - ::tele 0,49,57,45,10
+[25 maio 2021 at 05:12:36 BRT] - ::tele 0,49,55,41,42
+[25 maio 2021 at 05:12:37 BRT] - ::tele 0,49,54,36,7
+[25 maio 2021 at 05:12:52 BRT] - ::item 34358 1
+[25 maio 2021 at 05:13:04 BRT] - ::item 28702 1
+[25 maio 2021 at 05:13:12 BRT] - ::item 13535 12
+[25 maio 2021 at 05:14:24 BRT] - ::item 995 2147000000
+[25 maio 2021 at 05:14:32 BRT] - ::item 994 2147000000
+[25 maio 2021 at 05:14:55 BRT] - ::item 989 123123
+[25 maio 2021 at 05:14:58 BRT] - ::tele 0,48,54,22,41
+[25 maio 2021 at 05:16:42 BRT] - ::item 994 2147000000
+[25 maio 2021 at 05:16:54 BRT] - ::item 995 2147000000
+[25 maio 2021 at 05:17:27 BRT] - ::setruby 99999
+[25 maio 2021 at 05:17:33 BRT] - ::setruby bamf 91923919912
+[25 maio 2021 at 05:17:39 BRT] - ::setruby bamf 999
+[25 maio 2021 at 05:17:48 BRT] - ::setruby bamf 2145633
+[25 maio 2021 at 05:29:31 BRT] - ::item 995 12398123
+[25 maio 2021 at 05:29:36 BRT] - ::item 995 9129219129
+[25 maio 2021 at 05:29:40 BRT] - ::item 994 9998888
+[25 maio 2021 at 05:29:53 BRT] - ::item 995 2100000000
+[25 maio 2021 at 05:31:41 BRT] - ::setruby bamf 299292
+[25 maio 2021 at 05:36:36 BRT] - ::setlevel 0 1
+[25 maio 2021 at 05:36:43 BRT] - ::setlevel 1 1
+[25 maio 2021 at 05:36:45 BRT] - ::setlevel 0 1
+[25 maio 2021 at 05:36:49 BRT] - ::setlevel 2 1 ]
+[25 maio 2021 at 05:36:52 BRT] - ::setlevel 3 1
+[25 maio 2021 at 05:36:54 BRT] - ::setlevel 4 1
+[25 maio 2021 at 05:36:57 BRT] - ::setlevel 5 1
+[25 maio 2021 at 05:36:59 BRT] - ::setlevel 6 1
+[25 maio 2021 at 05:37:40 BRT] - ::setlevel 3 80
+[25 maio 2021 at 05:37:46 BRT] - ::setlevel 3 80
+[25 maio 2021 at 05:37:50 BRT] - ::setlevel 3 1
+[25 maio 2021 at 05:37:52 BRT] - ::setlevel 2 1
+[25 maio 2021 at 05:37:55 BRT] - ::setlevel 2 1
+[25 maio 2021 at 05:38:00 BRT] - ::setlevel 4 90
+[25 maio 2021 at 05:38:08 BRT] - ::setlevel 5 90
+[25 maio 2021 at 05:38:11 BRT] - ::setlevel 4 1
+[25 maio 2021 at 05:38:13 BRT] - ::setlevel 5 1
+[25 maio 2021 at 05:38:16 BRT] - ::setlevel 6 2
+[25 maio 2021 at 05:38:19 BRT] - ::setlevel 5 1
+[25 maio 2021 at 05:38:23 BRT] - ::setlevel 6 1
+[25 maio 2021 at 05:38:27 BRT] - ::setlevel 3 80
+[25 maio 2021 at 05:38:30 BRT] - ::setlevel 2 80
+[25 maio 2021 at 05:38:32 BRT] - ::setlevel 1 80
+[25 maio 2021 at 05:38:36 BRT] - ::setlevel 3 1
+[25 maio 2021 at 05:38:44 BRT] - ::setlevel 4 1
+[25 maio 2021 at 05:38:47 BRT] - ::setlevel 1 1
+[25 maio 2021 at 05:38:49 BRT] - ::setlevel 1 80
+[25 maio 2021 at 05:38:53 BRT] - ::setlevel 2 1
+[25 maio 2021 at 05:39:00 BRT] - ::setlevel 1 90
+[25 maio 2021 at 05:39:10 BRT] - ::setlevel 1 99
+[25 maio 2021 at 05:39:22 BRT] - ::setlevel 0 99
+[25 maio 2021 at 05:39:27 BRT] - ::setlevel 1 99
+[25 maio 2021 at 05:39:36 BRT] - ::setlevel 0 99
+[25 maio 2021 at 05:39:39 BRT] - ::setlevel 2 99
+[25 maio 2021 at 05:39:40 BRT] - ::setlevel 3 99
+[25 maio 2021 at 05:39:43 BRT] - ::setlevel 4 99
+[25 maio 2021 at 05:39:45 BRT] - ::setlevel 5 99
+[25 maio 2021 at 05:39:49 BRT] - ::setlevel 6 99
+[25 maio 2021 at 05:40:54 BRT] - ::god 
+[25 maio 2021 at 05:40:58 BRT] - ::god 
+[25 maio 2021 at 05:41:07 BRT] - ::god 
+[25 maio 2021 at 05:41:10 BRT] - ::god 
+[25 maio 2021 at 05:41:54 BRT] - ::tele 1,1,3,36,28
+[25 maio 2021 at 05:41:55 BRT] - ::tele 1,1,3,41,27
+[25 maio 2021 at 05:41:56 BRT] - ::tele 1,1,3,41,31
+[25 maio 2021 at 05:41:57 BRT] - ::tele 1,1,3,29,34
+[25 maio 2021 at 05:41:58 BRT] - ::tele 1,1,3,17,37
+[25 maio 2021 at 05:41:58 BRT] - ::tele 1,1,3,11,44
+[25 maio 2021 at 05:42:00 BRT] - ::tele 1,1,3,17,44
+[25 maio 2021 at 05:42:01 BRT] - ::tele 1,1,3,26,43
+[25 maio 2021 at 05:42:38 BRT] - ::item 868 888888
+[25 maio 2021 at 05:45:13 BRT] - ::item 556 9129219
+[25 maio 2021 at 05:46:10 BRT] - ::god 
+[25 maio 2021 at 05:46:16 BRT] - ::god 
+[25 maio 2021 at 05:47:37 BRT] - ::item 1272 1
+[25 maio 2021 at 05:47:43 BRT] - ::item 1271 1
+[25 maio 2021 at 05:48:38 BRT] - ::item 15259 1
+[25 maio 2021 at 05:51:17 BRT] - ::tele 1,1,3,47,25
+[25 maio 2021 at 05:51:22 BRT] - ::tele 1,1,3,40,42
+[25 maio 2021 at 05:51:23 BRT] - ::tele 1,1,3,31,46
+[25 maio 2021 at 05:55:15 BRT] - ::checkbank sean
+[25 maio 2021 at 06:02:28 BRT] - ::tele 1,1,3,31,37
+[25 maio 2021 at 06:02:29 BRT] - ::tele 1,1,3,36,37
+[25 maio 2021 at 06:02:30 BRT] - ::tele 1,1,3,36,33
+[25 maio 2021 at 06:02:31 BRT] - ::tele 1,1,3,36,29
+[25 maio 2021 at 06:02:31 BRT] - ::tele 1,1,3,36,25
+[25 maio 2021 at 06:02:32 BRT] - ::tele 1,1,3,35,21
+[25 maio 2021 at 06:02:33 BRT] - ::tele 1,1,3,31,24
+[25 maio 2021 at 06:02:33 BRT] - ::tele 1,1,3,31,24
+[25 maio 2021 at 06:02:33 BRT] - ::tele 1,1,3,27,28
+[25 maio 2021 at 06:02:33 BRT] - ::tele 1,1,3,27,28
+[25 maio 2021 at 06:02:34 BRT] - ::tele 1,1,3,28,30
+[25 maio 2021 at 06:02:34 BRT] - ::tele 1,1,3,26,34
+[25 maio 2021 at 06:02:34 BRT] - ::tele 1,1,3,28,35
+[25 maio 2021 at 06:02:34 BRT] - ::tele 1,1,3,30,36
+[25 maio 2021 at 06:02:34 BRT] - ::tele 1,1,3,33,34
+[25 maio 2021 at 06:02:35 BRT] - ::tele 1,1,3,36,40
+[25 maio 2021 at 06:02:36 BRT] - ::tele 1,1,3,36,37
+[25 maio 2021 at 06:02:36 BRT] - ::tele 1,1,3,34,36
+[25 maio 2021 at 06:02:37 BRT] - ::tele 1,1,3,32,33
+[25 maio 2021 at 06:02:39 BRT] - ::tele 1,1,3,32,33
+[25 maio 2021 at 06:03:07 BRT] - ::item 9977 214700000
+[25 maio 2021 at 06:03:20 BRT] - ::item 10034 123123123
+[25 maio 2021 at 06:04:48 BRT] - ::item 15259 1
+[25 maio 2021 at 06:17:43 BRT] - ::tele 1,1,3,39,30
+[25 maio 2021 at 06:19:18 BRT] - ::god 
+[25 maio 2021 at 06:26:36 BRT] - ::tele 1,1,3,33,34
+[25 maio 2021 at 06:26:36 BRT] - ::tele 1,1,3,20,38
+[25 maio 2021 at 06:26:37 BRT] - ::tele 1,1,3,17,47
+[25 maio 2021 at 06:26:38 BRT] - ::tele 1,1,3,30,38
+[25 maio 2021 at 06:26:39 BRT] - ::tele 1,1,3,40,28
+[25 maio 2021 at 06:26:40 BRT] - ::tele 1,1,3,38,18
+[25 maio 2021 at 06:26:40 BRT] - ::tele 1,1,3,32,21
+[25 maio 2021 at 06:26:41 BRT] - ::tele 1,1,3,31,26
+[25 maio 2021 at 06:26:41 BRT] - ::tele 1,1,3,25,30
+[25 maio 2021 at 06:27:08 BRT] - ::tele 1,1,3,31,31
+[25 maio 2021 at 06:27:09 BRT] - ::tele 1,1,3,27,35
+[25 maio 2021 at 06:28:02 BRT] - ::tele 1,1,3,31,35
+[25 maio 2021 at 06:28:03 BRT] - ::tele 1,1,3,33,35
+[25 maio 2021 at 06:28:04 BRT] - ::tele 1,1,3,32,31
+[25 maio 2021 at 06:28:04 BRT] - ::tele 1,1,3,31,26
+[25 maio 2021 at 06:28:05 BRT] - ::tele 1,1,3,30,22
+[25 maio 2021 at 06:28:05 BRT] - ::tele 1,1,3,24,27
+[25 maio 2021 at 06:28:06 BRT] - ::tele 1,1,3,11,28
+[25 maio 2021 at 06:28:06 BRT] - ::tele 1,1,3,19,24
+[25 maio 2021 at 06:28:07 BRT] - ::tele 1,1,3,7,24
+[25 maio 2021 at 06:28:07 BRT] - ::tele 1,1,3,1,25
+[25 maio 2021 at 06:28:09 BRT] - ::tele 1,1,3,11,28
+[25 maio 2021 at 06:28:09 BRT] - ::tele 1,1,3,12,26
+[25 maio 2021 at 06:28:09 BRT] - ::tele 1,1,3,13,25
+[25 maio 2021 at 06:28:09 BRT] - ::tele 1,1,3,14,24
+[25 maio 2021 at 06:28:11 BRT] - ::tele 1,1,3,26,29
+[25 maio 2021 at 06:28:12 BRT] - ::tele 1,1,3,26,29
+[25 maio 2021 at 06:28:12 BRT] - ::tele 1,1,3,38,34
+[25 maio 2021 at 06:28:12 BRT] - ::tele 1,1,3,38,34
+[25 maio 2021 at 07:01:42 BRT] - ::tele 1,1,3,25,32
+[25 maio 2021 at 07:05:17 BRT] - ::teletome sean
+[25 maio 2021 at 07:08:22 BRT] - ::teletome sean
+[25 maio 2021 at 08:21:43 BRT] - ::title 
+[25 maio 2021 at 08:21:48 BRT] - ::title developer
+[25 maio 2021 at 08:21:51 BRT] - ::title 1
+[25 maio 2021 at 08:21:53 BRT] - ::title 5
+[25 maio 2021 at 08:21:56 BRT] - ::title 0
+[25 maio 2021 at 08:21:59 BRT] - ::title 0
+[25 maio 2021 at 09:42:41 BRT] - ::teleto kaway
+[25 maio 2021 at 09:42:56 BRT] - ::tele 0,40,56,29,23
+[25 maio 2021 at 09:42:57 BRT] - ::tele 0,40,56,22,20
+[25 maio 2021 at 09:43:00 BRT] - ::tele 0,40,56,9,27
+[25 maio 2021 at 09:43:01 BRT] - ::tele 0,39,56,60,26
+[25 maio 2021 at 09:43:02 BRT] - ::tele 0,39,56,53,36
+[25 maio 2021 at 09:43:04 BRT] - ::tele 0,40,56,1,30
+[25 maio 2021 at 09:43:04 BRT] - ::tele 0,40,56,1,32
+[25 maio 2021 at 09:43:05 BRT] - ::tele 0,40,56,8,30
+[25 maio 2021 at 09:43:09 BRT] - ::teleto kaway
+[25 maio 2021 at 09:43:16 BRT] - ::tele 0,39,56,13,45
+[25 maio 2021 at 09:43:17 BRT] - ::tele 0,39,56,12,52
+[25 maio 2021 at 09:43:18 BRT] - ::tele 0,39,56,13,47
+[25 maio 2021 at 09:43:19 BRT] - ::tele 0,39,56,13,37
+[25 maio 2021 at 09:43:19 BRT] - ::tele 0,39,56,16,37
+[25 maio 2021 at 09:43:21 BRT] - ::tele 0,39,56,19,24
+[25 maio 2021 at 09:43:22 BRT] - ::tele 0,39,56,21,9
+[25 maio 2021 at 09:43:27 BRT] - ::tele 0,39,56,22,26
+[25 maio 2021 at 09:43:29 BRT] - ::tele 0,39,56,16,33
+[25 maio 2021 at 09:43:29 BRT] - ::tele 0,39,56,17,35
+[25 maio 2021 at 09:43:32 BRT] - ::teleto kaway
+[25 maio 2021 at 09:43:56 BRT] - ::teleto kaway
+[25 maio 2021 at 09:43:59 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:03 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:07 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:11 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:15 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:19 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:25 BRT] - ::tele 0,39,56,20,30
+[25 maio 2021 at 09:44:29 BRT] - ::tele 0,39,56,20,29
+[25 maio 2021 at 09:44:29 BRT] - ::tele 0,39,56,20,29
+[25 maio 2021 at 09:44:30 BRT] - ::tele 0,39,56,19,28
+[25 maio 2021 at 09:44:31 BRT] - ::teleto kaway
+[25 maio 2021 at 09:44:57 BRT] - ::teleto kaway
+[25 maio 2021 at 09:45:02 BRT] - ::tele 0,37,56,6,25
+[25 maio 2021 at 09:45:32 BRT] - ::teleto kaway
+[25 maio 2021 at 09:46:20 BRT] - ::tele 0,37,56,6,6
+[25 maio 2021 at 09:46:21 BRT] - ::tele 0,37,56,5,12
+[25 maio 2021 at 09:46:21 BRT] - ::tele 0,37,56,5,12
+[25 maio 2021 at 09:46:22 BRT] - ::tele 0,37,56,7,12
+[25 maio 2021 at 09:46:22 BRT] - ::tele 0,37,56,6,10
+[25 maio 2021 at 09:46:23 BRT] - ::tele 0,37,56,6,10
+[25 maio 2021 at 09:46:23 BRT] - ::tele 0,37,56,4,9
+[25 maio 2021 at 09:46:23 BRT] - ::tele 0,37,56,3,11
+[25 maio 2021 at 09:46:23 BRT] - ::tele 0,37,56,4,13
+[25 maio 2021 at 09:46:24 BRT] - ::tele 0,37,56,7,12
+[25 maio 2021 at 09:46:24 BRT] - ::tele 0,37,56,7,10
+[25 maio 2021 at 09:46:24 BRT] - ::tele 0,37,56,8,10
+[25 maio 2021 at 09:46:24 BRT] - ::tele 0,37,56,6,10
+[25 maio 2021 at 09:46:24 BRT] - ::tele 0,37,56,4,11
+[25 maio 2021 at 09:46:25 BRT] - ::tele 0,37,56,3,11
+[25 maio 2021 at 09:46:25 BRT] - ::tele 0,37,56,6,8
+[25 maio 2021 at 09:46:25 BRT] - ::tele 0,37,56,9,11
+[25 maio 2021 at 09:46:26 BRT] - ::tele 0,37,56,3,11
+[25 maio 2021 at 09:46:26 BRT] - ::tele 0,37,56,0,8
+[25 maio 2021 at 09:46:27 BRT] - ::tele 0,37,56,7,11
+[25 maio 2021 at 09:46:28 BRT] - ::tele 0,37,56,13,10
+[25 maio 2021 at 09:46:28 BRT] - ::tele 0,37,56,11,12
+[25 maio 2021 at 09:46:29 BRT] - ::tele 0,37,56,9,11
+[25 maio 2021 at 09:46:29 BRT] - ::tele 0,37,56,8,10
+[25 maio 2021 at 09:46:30 BRT] - ::tele 0,37,56,7,10
+[25 maio 2021 at 09:46:30 BRT] - ::tele 0,37,56,6,13
+[25 maio 2021 at 09:46:31 BRT] - ::tele 0,37,56,4,9
+[25 maio 2021 at 09:46:31 BRT] - ::tele 0,37,56,5,7
+[25 maio 2021 at 09:46:32 BRT] - ::tele 0,37,56,4,13
+[25 maio 2021 at 09:46:32 BRT] - ::tele 0,37,56,8,11
+[25 maio 2021 at 09:46:33 BRT] - ::tele 0,37,56,4,12
+[25 maio 2021 at 09:46:33 BRT] - ::tele 0,37,56,4,8
+[25 maio 2021 at 09:46:34 BRT] - ::tele 0,37,56,2,8
+[25 maio 2021 at 09:46:34 BRT] - ::tele 0,37,56,7,12
+[25 maio 2021 at 09:46:35 BRT] - ::tele 0,37,56,7,16
+[25 maio 2021 at 09:46:36 BRT] - ::tele 0,37,56,6,11
+[25 maio 2021 at 09:46:37 BRT] - ::tele 0,37,56,8,8
+[25 maio 2021 at 09:46:38 BRT] - ::tele 0,37,56,3,12
+[25 maio 2021 at 09:46:38 BRT] - ::tele 0,37,56,9,8
+[25 maio 2021 at 09:46:39 BRT] - ::tele 0,36,56,62,14
+[25 maio 2021 at 09:46:39 BRT] - ::tele 0,37,56,2,12
+[25 maio 2021 at 09:46:40 BRT] - ::tele 0,37,56,5,9
+[25 maio 2021 at 09:46:40 BRT] - ::tele 0,37,56,5,9
+[25 maio 2021 at 09:46:40 BRT] - ::tele 0,37,56,5,9
+[25 maio 2021 at 09:46:40 BRT] - ::tele 0,36,56,63,15
+[25 maio 2021 at 09:46:41 BRT] - ::tele 0,37,56,2,12
+[25 maio 2021 at 09:46:41 BRT] - ::tele 0,37,56,0,16
+[25 maio 2021 at 09:46:41 BRT] - ::tele 0,37,56,2,15
+[25 maio 2021 at 09:46:41 BRT] - ::tele 0,37,56,6,10
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,6,10
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,7,10
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,6,11
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,10,6
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,9,5
+[25 maio 2021 at 09:46:42 BRT] - ::tele 0,37,56,7,8
+[25 maio 2021 at 09:46:43 BRT] - ::tele 0,37,56,6,4
+[25 maio 2021 at 09:46:43 BRT] - ::tele 0,37,56,5,6
+[25 maio 2021 at 09:46:43 BRT] - ::tele 0,37,56,5,6
+[25 maio 2021 at 09:46:43 BRT] - ::tele 0,37,56,1,7
+[25 maio 2021 at 09:46:44 BRT] - ::tele 0,37,56,1,7
+[25 maio 2021 at 09:46:44 BRT] - ::tele 0,36,56,63,10
+[25 maio 2021 at 09:46:44 BRT] - ::tele 0,37,56,0,10
+[25 maio 2021 at 09:46:45 BRT] - ::tele 0,37,56,2,12
+[25 maio 2021 at 09:46:45 BRT] - ::tele 0,37,56,4,11
+[25 maio 2021 at 09:46:45 BRT] - ::tele 0,37,56,5,11
+[25 maio 2021 at 09:46:45 BRT] - ::teleto kaway
+[25 maio 2021 at 09:46:51 BRT] - ::tele 0,37,44,47,18
+[25 maio 2021 at 09:46:52 BRT] - ::tele 0,37,44,45,12
+[25 maio 2021 at 09:47:05 BRT] - ::tele 0,37,44,47,10
+[25 maio 2021 at 09:47:08 BRT] - ::tele 0,37,44,44,12
+[25 maio 2021 at 09:47:09 BRT] - ::tele 0,37,44,46,14
+[25 maio 2021 at 09:47:10 BRT] - ::tele 0,37,44,41,16
+[25 maio 2021 at 09:47:11 BRT] - ::tele 0,37,44,35,27
+[25 maio 2021 at 09:47:16 BRT] - ::tele 0,37,44,50,26
+[25 maio 2021 at 09:47:16 BRT] - ::tele 0,37,44,51,27
+[25 maio 2021 at 09:47:21 BRT] - ::tele 0,37,44,60,19
+[25 maio 2021 at 09:47:24 BRT] - ::tele 0,37,44,48,27
+[25 maio 2021 at 09:47:32 BRT] - ::tele 0,37,44,34,20
+[25 maio 2021 at 09:47:32 BRT] - ::tele 0,37,44,27,14
+[25 maio 2021 at 09:47:34 BRT] - ::tele 0,37,44,29,12
+[25 maio 2021 at 09:47:35 BRT] - ::tele 0,37,44,35,13
+[25 maio 2021 at 09:48:27 BRT] - ::teleto kaway
+[25 maio 2021 at 09:50:06 BRT] - ::tele 0,42,58,32,12
+[25 maio 2021 at 09:50:10 BRT] - ::tele 0,42,58,48,15
+[25 maio 2021 at 09:50:24 BRT] - ::teleto kaway
+[25 maio 2021 at 09:50:32 BRT] - ::tele 0,42,58,50,15
+[25 maio 2021 at 09:52:23 BRT] - ::tele 0,40,46,6,49
+[25 maio 2021 at 09:52:30 BRT] - ::teleto kaway
+[25 maio 2021 at 09:52:36 BRT] - ::god 
+[25 maio 2021 at 09:52:49 BRT] - ::tele 0,42,155,40,56
+[25 maio 2021 at 09:52:52 BRT] - ::teleto kaway
+[25 maio 2021 at 09:53:36 BRT] - ::teleto kaway
+[25 maio 2021 at 09:54:32 BRT] - ::teleto kaway
+[25 maio 2021 at 09:55:08 BRT] - ::tele 2,46,68,47,30
+[25 maio 2021 at 09:56:12 BRT] - ::item 11716 1
+[25 maio 2021 at 09:57:09 BRT] - ::teleto kaway
+[25 maio 2021 at 09:57:42 BRT] - ::tele 0,42,156,39,20
+[25 maio 2021 at 09:57:44 BRT] - ::tele 0,42,156,34,8
+[25 maio 2021 at 09:57:44 BRT] - ::tele 0,42,156,31,11
+[25 maio 2021 at 09:57:45 BRT] - ::tele 0,42,155,32,60
+[25 maio 2021 at 09:57:46 BRT] - ::tele 0,42,155,31,48
+[25 maio 2021 at 09:57:48 BRT] - ::tele 0,42,155,29,39
+[25 maio 2021 at 09:57:49 BRT] - ::tele 0,42,155,18,49
+[25 maio 2021 at 09:57:49 BRT] - ::tele 0,42,155,18,50
+[25 maio 2021 at 09:57:49 BRT] - ::tele 0,42,155,22,52
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,155,23,52
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,155,20,62
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,155,22,61
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,155,23,61
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,155,23,61
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,156,24,6
+[25 maio 2021 at 09:57:50 BRT] - ::tele 0,42,156,24,6
+[25 maio 2021 at 09:57:51 BRT] - ::tele 0,42,156,23,6
+[25 maio 2021 at 09:57:51 BRT] - ::tele 0,42,156,24,7
+[25 maio 2021 at 09:57:51 BRT] - ::tele 0,42,156,17,12
+[25 maio 2021 at 09:57:52 BRT] - ::tele 0,42,156,15,13
+[25 maio 2021 at 09:58:01 BRT] - ::teleto kaway
+[25 maio 2021 at 09:58:14 BRT] - ::tele 2,45,83,11,2
+[25 maio 2021 at 09:58:14 BRT] - ::tele 2,45,83,10,5
+[25 maio 2021 at 09:58:14 BRT] - ::tele 2,45,83,10,5
+[25 maio 2021 at 09:58:15 BRT] - ::tele 2,45,83,17,11
+[25 maio 2021 at 09:58:16 BRT] - ::tele 2,45,82,7,62
+[25 maio 2021 at 09:58:16 BRT] - ::tele 2,45,82,7,62
+[25 maio 2021 at 09:58:16 BRT] - ::tele 2,45,82,7,62
+[25 maio 2021 at 09:58:17 BRT] - ::tele 2,45,82,7,62
+[25 maio 2021 at 09:58:17 BRT] - ::tele 2,44,82,61,49
+[25 maio 2021 at 09:58:17 BRT] - ::tele 2,44,82,62,51
+[25 maio 2021 at 09:58:17 BRT] - ::tele 2,44,82,52,38
+[25 maio 2021 at 09:58:18 BRT] - ::tele 2,44,82,52,38
+[25 maio 2021 at 09:58:18 BRT] - ::tele 2,44,82,52,38
+[25 maio 2021 at 09:58:18 BRT] - ::tele 2,44,82,43,27
+[25 maio 2021 at 09:58:19 BRT] - ::tele 2,44,82,47,23
+[25 maio 2021 at 09:58:20 BRT] - ::tele 2,44,82,40,19
+[25 maio 2021 at 09:58:20 BRT] - ::tele 2,44,82,43,16
+[25 maio 2021 at 09:58:20 BRT] - ::tele 2,44,82,43,16
+[25 maio 2021 at 09:58:21 BRT] - ::tele 2,44,82,31,19
+[25 maio 2021 at 09:58:21 BRT] - ::tele 2,44,82,19,22
+[25 maio 2021 at 09:58:22 BRT] - ::tele 2,44,82,13,34
+[25 maio 2021 at 09:58:22 BRT] - ::tele 2,44,82,15,48
+[25 maio 2021 at 09:58:22 BRT] - ::tele 2,44,82,14,49
+[25 maio 2021 at 09:58:24 BRT] - ::tele 2,44,82,15,53
+[25 maio 2021 at 09:58:45 BRT] - ::tele 2,44,82,35,58
+[25 maio 2021 at 09:58:46 BRT] - ::tele 2,44,83,40,0
+[25 maio 2021 at 09:58:47 BRT] - ::tele 2,44,83,43,13
+[25 maio 2021 at 09:58:48 BRT] - ::tele 2,44,83,28,17
+[25 maio 2021 at 09:58:50 BRT] - ::tele 2,44,83,26,21
+[25 maio 2021 at 09:58:51 BRT] - ::tele 2,44,83,27,32
+[25 maio 2021 at 09:58:52 BRT] - ::tele 2,44,83,37,42
+[25 maio 2021 at 09:58:53 BRT] - ::tele 2,44,83,50,49
+[25 maio 2021 at 09:59:08 BRT] - ::tele 2,45,83,2,49
+[25 maio 2021 at 09:59:09 BRT] - ::tele 2,45,83,14,46
+[25 maio 2021 at 09:59:10 BRT] - ::tele 2,45,83,26,43
+[25 maio 2021 at 09:59:11 BRT] - ::tele 2,45,83,39,41
+[25 maio 2021 at 09:59:12 BRT] - ::tele 2,45,83,52,38
+[25 maio 2021 at 09:59:13 BRT] - ::tele 2,45,83,47,25
+[25 maio 2021 at 09:59:14 BRT] - ::tele 2,45,83,47,14
+[25 maio 2021 at 09:59:23 BRT] - ::tele 2,45,83,32,17
+[25 maio 2021 at 09:59:23 BRT] - ::tele 2,45,83,32,17
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,32,17
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,19,14
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,19,14
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,19,14
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,19,14
+[25 maio 2021 at 09:59:24 BRT] - ::tele 2,45,83,6,11
+[25 maio 2021 at 09:59:25 BRT] - ::tele 2,45,83,0,4
+[25 maio 2021 at 09:59:25 BRT] - ::tele 2,45,83,3,3
+[25 maio 2021 at 09:59:26 BRT] - ::tele 2,45,83,4,2
+[25 maio 2021 at 09:59:26 BRT] - ::tele 2,45,83,5,0
+[25 maio 2021 at 09:59:26 BRT] - ::tele 2,45,82,5,54
+[25 maio 2021 at 09:59:26 BRT] - ::tele 2,45,82,6,54
+[25 maio 2021 at 09:59:26 BRT] - ::tele 2,45,82,7,54
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,7,54
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,10,42
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,10,42
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,10,42
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,13,30
+[25 maio 2021 at 09:59:27 BRT] - ::tele 2,45,82,13,30
+[25 maio 2021 at 09:59:29 BRT] - ::tele 2,45,82,19,38
+[25 maio 2021 at 09:59:29 BRT] - ::tele 2,45,82,19,39
+[25 maio 2021 at 09:59:29 BRT] - ::tele 2,45,82,19,40
+[25 maio 2021 at 09:59:30 BRT] - ::tele 2,45,82,24,45
+[25 maio 2021 at 09:59:31 BRT] - ::tele 2,45,82,24,47
+[25 maio 2021 at 09:59:32 BRT] - ::tele 2,45,82,14,45
+[25 maio 2021 at 09:59:32 BRT] - ::tele 2,45,82,14,45
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,45,82,14,45
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,45,82,4,43
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,45,82,4,43
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,45,82,3,42
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,44,82,56,40
+[25 maio 2021 at 09:59:33 BRT] - ::tele 2,44,82,56,39
+[25 maio 2021 at 09:59:34 BRT] - ::tele 2,44,82,56,39
+[25 maio 2021 at 09:59:34 BRT] - ::tele 2,44,82,44,35
+[25 maio 2021 at 09:59:35 BRT] - ::tele 2,44,82,44,25
+[25 maio 2021 at 09:59:36 BRT] - ::tele 2,44,82,48,22
+[25 maio 2021 at 09:59:36 BRT] - ::tele 2,44,82,52,9
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,45,8
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,41,12
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,29,16
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,28,16
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,28,16
+[25 maio 2021 at 09:59:37 BRT] - ::tele 2,44,82,29,15
+[25 maio 2021 at 09:59:38 BRT] - ::tele 2,44,82,17,18
+[25 maio 2021 at 09:59:38 BRT] - ::tele 2,44,82,17,18
+[25 maio 2021 at 09:59:38 BRT] - ::tele 2,44,82,17,18
+[25 maio 2021 at 09:59:42 BRT] - ::tele 2,44,82,27,19
+[25 maio 2021 at 09:59:48 BRT] - ::tele 0,45,82,20,19
+[25 maio 2021 at 10:00:04 BRT] - ::teleto kaway
+[25 maio 2021 at 10:00:24 BRT] - ::teleto kaway
+[25 maio 2021 at 10:00:35 BRT] - ::teleto kaway
+[25 maio 2021 at 10:01:24 BRT] - ::teleto kaway
+[25 maio 2021 at 10:01:31 BRT] - ::tele 0,50,60,54,42
+[25 maio 2021 at 10:01:32 BRT] - ::tele 0,50,60,42,41
+[25 maio 2021 at 10:01:32 BRT] - ::tele 0,50,60,30,35
+[25 maio 2021 at 10:01:33 BRT] - ::tele 0,50,60,23,29
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,20,27
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,20,27
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,10,19
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,10,19
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,10,19
+[25 maio 2021 at 10:01:34 BRT] - ::tele 0,50,60,11,19
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,49,60,63,10
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,49,60,63,10
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,50,60,0,10
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,49,60,53,1
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,49,60,56,2
+[25 maio 2021 at 10:01:35 BRT] - ::tele 0,49,60,59,2
+[25 maio 2021 at 10:01:36 BRT] - ::tele 0,49,59,54,59
+[25 maio 2021 at 10:01:36 BRT] - ::tele 0,49,59,53,58
+[25 maio 2021 at 10:01:36 BRT] - ::tele 0,49,59,54,59
+[25 maio 2021 at 10:01:36 BRT] - ::tele 0,49,59,49,48
+[25 maio 2021 at 10:01:36 BRT] - ::tele 0,49,59,48,48
+[25 maio 2021 at 10:01:37 BRT] - ::tele 0,49,59,47,48
+[25 maio 2021 at 10:01:37 BRT] - ::tele 0,49,59,46,48
+[25 maio 2021 at 10:01:37 BRT] - ::tele 0,49,59,43,39
+[25 maio 2021 at 10:01:37 BRT] - ::tele 0,49,59,44,39
+[25 maio 2021 at 10:01:37 BRT] - ::tele 0,49,59,45,40
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,38,28
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,39,28
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,39,28
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,38,28
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,37,20
+[25 maio 2021 at 10:01:38 BRT] - ::tele 0,49,59,36,20
+[25 maio 2021 at 10:01:39 BRT] - ::tele 0,49,59,36,20
+[25 maio 2021 at 10:01:39 BRT] - ::tele 0,49,59,32,11
+[25 maio 2021 at 10:01:39 BRT] - ::tele 0,49,59,31,11
+[25 maio 2021 at 10:01:39 BRT] - ::tele 0,49,59,31,10
+[25 maio 2021 at 10:01:40 BRT] - ::tele 0,49,58,20,62
+[25 maio 2021 at 10:01:40 BRT] - ::tele 0,49,58,20,62
+[25 maio 2021 at 10:01:40 BRT] - ::tele 0,49,58,13,53
+[25 maio 2021 at 10:01:40 BRT] - ::tele 0,49,58,13,54
+[25 maio 2021 at 10:01:40 BRT] - ::tele 0,49,58,13,54
+[25 maio 2021 at 10:01:41 BRT] - ::tele 0,48,58,63,43
+[25 maio 2021 at 10:01:41 BRT] - ::tele 0,49,58,0,43
+[25 maio 2021 at 10:01:42 BRT] - ::tele 0,49,58,9,48
+[25 maio 2021 at 10:01:42 BRT] - ::tele 0,49,58,10,48
+[25 maio 2021 at 10:01:42 BRT] - ::tele 0,49,58,0,38
+[25 maio 2021 at 10:01:43 BRT] - ::tele 0,49,58,1,39
+[25 maio 2021 at 10:01:43 BRT] - ::tele 0,49,58,2,39
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,58,33
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,59,32
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,59,30
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,60,29
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,55,20
+[25 maio 2021 at 10:01:44 BRT] - ::tele 0,48,58,55,20
+[25 maio 2021 at 10:01:45 BRT] - ::tele 0,48,58,49,10
+[25 maio 2021 at 10:01:46 BRT] - ::tele 0,48,58,46,0
+[25 maio 2021 at 10:01:47 BRT] - ::tele 0,48,58,46,0
+[25 maio 2021 at 10:01:47 BRT] - ::tele 0,48,58,46,0
+[25 maio 2021 at 10:01:47 BRT] - ::tele 0,48,58,46,0
+[25 maio 2021 at 10:01:47 BRT] - ::tele 0,48,58,46,0
+[25 maio 2021 at 10:01:48 BRT] - ::tele 0,48,57,42,53
+[25 maio 2021 at 10:01:49 BRT] - ::tele 0,48,57,41,51
+[25 maio 2021 at 10:01:49 BRT] - ::tele 0,48,57,39,44
+[25 maio 2021 at 10:01:49 BRT] - ::tele 0,48,57,39,44
+[25 maio 2021 at 10:01:50 BRT] - ::tele 0,48,57,37,36
+[25 maio 2021 at 10:01:50 BRT] - ::tele 0,48,57,37,36
+[25 maio 2021 at 10:01:50 BRT] - ::tele 0,48,57,37,36
+[25 maio 2021 at 10:01:50 BRT] - ::tele 0,48,57,33,26
+[25 maio 2021 at 10:01:50 BRT] - ::tele 0,48,57,33,26
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,33,26
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,32,19
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,32,19
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,32,19
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,32,19
+[25 maio 2021 at 10:01:51 BRT] - ::tele 0,48,57,21,3
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,57,21,3
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,57,21,3
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,57,21,3
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,56,14,54
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,56,14,54
+[25 maio 2021 at 10:01:52 BRT] - ::tele 0,48,56,14,54
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,8,42
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,8,42
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,8,42
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,8,42
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,2,31
+[25 maio 2021 at 10:01:53 BRT] - ::tele 0,48,56,2,31
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,48,56,2,31
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,48,56,2,31
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,47,56,61,21
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,47,56,61,21
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,47,56,61,21
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,47,56,61,21
+[25 maio 2021 at 10:01:54 BRT] - ::tele 0,47,56,56,11
+[25 maio 2021 at 10:01:55 BRT] - ::tele 0,47,56,56,11
+[25 maio 2021 at 10:01:55 BRT] - ::tele 0,47,56,56,11
+[25 maio 2021 at 10:01:55 BRT] - ::tele 0,47,56,56,11
+[25 maio 2021 at 10:02:09 BRT] - ::item 1452 1
+[25 maio 2021 at 10:02:14 BRT] - ::tele 0,48,56,3,6
+[25 maio 2021 at 10:02:15 BRT] - ::tele 0,48,56,14,3
+[25 maio 2021 at 10:02:16 BRT] - ::tele 0,48,55,28,63
+[25 maio 2021 at 10:02:16 BRT] - ::tele 0,48,55,43,54
+[25 maio 2021 at 10:02:17 BRT] - ::tele 0,48,55,55,46
+[25 maio 2021 at 10:02:18 BRT] - ::tele 0,49,55,4,38
+[25 maio 2021 at 10:02:18 BRT] - ::tele 0,49,55,19,29
+[25 maio 2021 at 10:02:19 BRT] - ::tele 0,49,55,32,23
+[25 maio 2021 at 10:02:19 BRT] - ::tele 0,49,55,32,23
+[25 maio 2021 at 10:02:20 BRT] - ::tele 0,49,55,52,19
+[25 maio 2021 at 10:02:21 BRT] - ::tele 0,49,55,59,8
+[25 maio 2021 at 10:02:21 BRT] - ::tele 0,50,55,3,13
+[25 maio 2021 at 10:02:21 BRT] - ::tele 0,50,55,3,13
+[25 maio 2021 at 10:02:21 BRT] - ::tele 0,49,55,63,13
+[25 maio 2021 at 10:02:22 BRT] - ::tele 0,50,55,18,5
+[25 maio 2021 at 10:02:22 BRT] - ::tele 0,50,55,19,5
+[25 maio 2021 at 10:02:22 BRT] - ::tele 0,50,55,19,6
+[25 maio 2021 at 10:02:22 BRT] - ::tele 0,50,55,18,7
+[25 maio 2021 at 10:02:22 BRT] - ::tele 0,50,55,29,3
+[25 maio 2021 at 10:02:25 BRT] - ::teleto kaway
+[25 maio 2021 at 10:02:28 BRT] - ::tele 0,51,61,7,31
+[25 maio 2021 at 10:02:29 BRT] - ::tele 0,50,61,62,23
+[25 maio 2021 at 10:02:29 BRT] - ::tele 0,51,61,2,18
+[25 maio 2021 at 10:02:40 BRT] - ::teletome kaway
+[25 maio 2021 at 10:02:47 BRT] - ::teletome kaway
+[25 maio 2021 at 10:04:32 BRT] - ::teleto kaway
+[25 maio 2021 at 10:04:37 BRT] - ::teleto kaway
+[25 maio 2021 at 10:04:40 BRT] - ::tele 0,50,61,59,9
+[25 maio 2021 at 10:04:40 BRT] - ::tele 0,50,61,50,0
+[25 maio 2021 at 10:04:40 BRT] - ::tele 0,50,61,50,0
+[25 maio 2021 at 10:04:40 BRT] - ::tele 0,50,61,51,0
+[25 maio 2021 at 10:04:41 BRT] - ::tele 0,50,61,51,4
+[25 maio 2021 at 10:04:41 BRT] - ::tele 0,50,60,43,59
+[25 maio 2021 at 10:04:41 BRT] - ::tele 0,50,60,43,59
+[25 maio 2021 at 10:04:41 BRT] - ::tele 0,50,60,43,59
+[25 maio 2021 at 10:04:41 BRT] - ::tele 0,50,60,35,54
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,35,54
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,35,54
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,31,48
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,31,48
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,32,46
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,33,46
+[25 maio 2021 at 10:04:42 BRT] - ::tele 0,50,60,33,45
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,30,37
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,30,37
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,30,37
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,30,37
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,28,28
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,28,28
+[25 maio 2021 at 10:04:43 BRT] - ::tele 0,50,60,28,28
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,28,28
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,26,19
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,26,19
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,26,19
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,26,19
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,24,10
+[25 maio 2021 at 10:04:44 BRT] - ::tele 0,50,60,24,10
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,60,24,10
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,60,24,10
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,60,22,1
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,60,22,1
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,60,22,1
+[25 maio 2021 at 10:04:45 BRT] - ::tele 0,50,59,20,56
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,20,56
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,20,56
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,20,56
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,18,47
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,18,47
+[25 maio 2021 at 10:04:46 BRT] - ::tele 0,50,59,18,47
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,18,47
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,16,38
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,16,38
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,16,38
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,14,29
+[25 maio 2021 at 10:04:47 BRT] - ::tele 0,50,59,14,29
+[25 maio 2021 at 10:04:48 BRT] - ::tele 0,50,59,32,44
+[25 maio 2021 at 10:04:48 BRT] - ::tele 0,50,59,31,38
+[25 maio 2021 at 10:04:49 BRT] - ::tele 0,50,59,30,43
+[25 maio 2021 at 10:04:49 BRT] - ::tele 0,50,59,28,43
+[25 maio 2021 at 10:04:53 BRT] - ::teleto kaway
+[25 maio 2021 at 10:04:55 BRT] - ::tele 0,50,59,32,29
+[25 maio 2021 at 10:04:55 BRT] - ::tele 0,50,59,32,30
+[25 maio 2021 at 10:04:55 BRT] - ::tele 0,50,59,32,30
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,32,30
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,32,30
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,35,15
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,31,17
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,29,17
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,27,4
+[25 maio 2021 at 10:04:56 BRT] - ::tele 0,50,59,27,4
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,59,27,4
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,59,27,4
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,58,23,55
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,58,23,54
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,58,23,54
+[25 maio 2021 at 10:04:57 BRT] - ::tele 0,50,58,23,54
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,19,40
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,19,40
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,19,40
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,19,40
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,15,26
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,15,26
+[25 maio 2021 at 10:04:58 BRT] - ::tele 0,50,58,15,26
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,58,15,26
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,58,11,12
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,58,11,12
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,58,11,11
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,58,10,11
+[25 maio 2021 at 10:04:59 BRT] - ::tele 0,50,57,6,61
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,6,61
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,6,61
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,8,61
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,3,46
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,3,46
+[25 maio 2021 at 10:05:00 BRT] - ::tele 0,50,57,2,46
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,1,30
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,1,30
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,1,30
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,1,30
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,0,14
+[25 maio 2021 at 10:05:01 BRT] - ::tele 0,50,57,0,14
+[25 maio 2021 at 10:05:02 BRT] - ::tele 0,50,57,0,14
+[25 maio 2021 at 10:05:02 BRT] - ::tele 0,49,56,63,62
+[25 maio 2021 at 10:05:02 BRT] - ::tele 0,49,56,63,62
+[25 maio 2021 at 10:05:02 BRT] - ::tele 0,49,56,61,63
+[25 maio 2021 at 10:05:03 BRT] - ::tele 0,49,56,60,47
+[25 maio 2021 at 10:05:03 BRT] - ::tele 0,49,56,60,47
+[25 maio 2021 at 10:05:03 BRT] - ::tele 0,49,56,60,47
+[25 maio 2021 at 10:05:03 BRT] - ::tele 0,49,56,57,32
+[25 maio 2021 at 10:05:03 BRT] - ::tele 0,49,56,57,32
+[25 maio 2021 at 10:05:04 BRT] - ::tele 0,49,56,57,32
+[25 maio 2021 at 10:05:04 BRT] - ::tele 0,49,56,54,17
+[25 maio 2021 at 10:05:04 BRT] - ::tele 0,49,56,54,17
+[25 maio 2021 at 10:05:04 BRT] - ::tele 0,49,56,54,17
+[25 maio 2021 at 10:05:04 BRT] - ::tele 0,49,56,51,2
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,56,51,2
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,56,51,2
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,55,48,51
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,55,48,51
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,55,49,52
+[25 maio 2021 at 10:05:05 BRT] - ::tele 0,49,55,48,34
+[25 maio 2021 at 10:05:06 BRT] - ::tele 0,49,55,48,34
+[25 maio 2021 at 10:05:06 BRT] - ::tele 0,49,55,48,34
+[25 maio 2021 at 10:05:08 BRT] - ::tele 0,49,54,48,44
+[25 maio 2021 at 10:05:12 BRT] - ::teleto kaway
+[25 maio 2021 at 10:07:01 BRT] - ::tele 0,50,54,28,42
+[25 maio 2021 at 10:07:27 BRT] - ::item 15259 1
+[25 maio 2021 at 10:07:44 BRT] - ::item 6739 1
+[25 maio 2021 at 10:07:48 BRT] - ::teleto kaway
+[25 maio 2021 at 10:07:52 BRT] - ::tele 0,50,56,28,28
+[25 maio 2021 at 10:08:02 BRT] - ::tele 0,50,56,37,28
+[25 maio 2021 at 10:08:03 BRT] - ::tele 0,50,56,41,26
+[25 maio 2021 at 10:08:06 BRT] - ::tele 0,50,56,29,28
+[25 maio 2021 at 10:09:27 BRT] - ::item 534 1
+[25 maio 2021 at 10:09:30 BRT] - ::tele 0,50,54,37,43
+[25 maio 2021 at 10:09:38 BRT] - ::item 534 1
+[25 maio 2021 at 10:09:42 BRT] - ::item 534 12
+[25 maio 2021 at 10:09:44 BRT] - ::teleto kaway
+[25 maio 2021 at 10:10:18 BRT] - ::teleto kaway
+[25 maio 2021 at 10:10:26 BRT] - ::tele 0,48,54,30,25
+[25 maio 2021 at 10:10:27 BRT] - ::teleto kaway
+[25 maio 2021 at 10:11:29 BRT] - ::tele 0,45,58,33,48
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,33,49
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,33,49
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,33,49
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,16,46
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,17,46
+[25 maio 2021 at 10:11:30 BRT] - ::tele 0,45,58,17,46
+[25 maio 2021 at 10:11:31 BRT] - ::tele 0,45,58,17,46
+[25 maio 2021 at 10:11:31 BRT] - ::tele 0,45,58,1,43
+[25 maio 2021 at 10:11:32 BRT] - ::tele 0,45,58,11,50
+[25 maio 2021 at 10:11:32 BRT] - ::tele 0,45,58,15,50
+[25 maio 2021 at 10:11:32 BRT] - ::tele 0,45,58,16,49
+[25 maio 2021 at 10:11:32 BRT] - ::tele 0,45,58,16,46
+[25 maio 2021 at 10:11:33 BRT] - ::tele 0,45,58,30,51
+[25 maio 2021 at 10:11:33 BRT] - ::tele 0,45,58,39,50
+[25 maio 2021 at 10:11:35 BRT] - ::tele 0,45,58,38,38
+[25 maio 2021 at 10:11:43 BRT] - ::teleto kaway
+[25 maio 2021 at 10:12:42 BRT] - ::tele 0,46,58,10,55
+[25 maio 2021 at 10:12:43 BRT] - ::tele 0,46,58,4,55
+[25 maio 2021 at 10:12:44 BRT] - ::tele 0,45,58,62,55
+[25 maio 2021 at 10:12:46 BRT] - ::tele 0,46,58,4,56
+[25 maio 2021 at 10:12:47 BRT] - ::tele 0,46,58,11,56
+[25 maio 2021 at 10:12:58 BRT] - ::tele 0,47,54,10,10
+[25 maio 2021 at 10:13:04 BRT] - ::teleto kaway
+[25 maio 2021 at 10:13:14 BRT] - ::tele 0,47,54,11,41
+[25 maio 2021 at 10:13:20 BRT] - ::teleto kaway
+[25 maio 2021 at 10:13:27 BRT] - ::tele 0,46,57,48,2
+[25 maio 2021 at 10:13:28 BRT] - ::tele 0,47,55,2,27
+[25 maio 2021 at 10:13:28 BRT] - ::tele 0,47,55,1,27
+[25 maio 2021 at 10:13:28 BRT] - ::tele 0,47,55,1,27
+[25 maio 2021 at 10:13:28 BRT] - ::tele 0,47,53,16,47
+[25 maio 2021 at 10:13:29 BRT] - ::tele 0,47,53,16,47
+[25 maio 2021 at 10:13:29 BRT] - ::tele 0,47,53,16,47
+[25 maio 2021 at 10:13:29 BRT] - ::tele 0,47,53,16,47
+[25 maio 2021 at 10:13:29 BRT] - ::tele 0,47,52,32,0
+[25 maio 2021 at 10:13:35 BRT] - ::teleto kaway
+[25 maio 2021 at 10:14:17 BRT] - ::tele 0,46,57,26,50
+[25 maio 2021 at 10:14:18 BRT] - ::tele 0,46,57,24,54
+[25 maio 2021 at 10:14:19 BRT] - ::tele 0,46,57,24,55
+[25 maio 2021 at 10:14:20 BRT] - ::tele 0,46,57,23,58
+[25 maio 2021 at 10:14:20 BRT] - ::tele 0,46,57,23,57
+[25 maio 2021 at 10:14:32 BRT] - ::tele 0,46,57,21,57
+[25 maio 2021 at 10:14:43 BRT] - ::tele 0,46,57,23,48
+[25 maio 2021 at 10:14:43 BRT] - ::tele 0,46,57,21,42
+[25 maio 2021 at 10:14:44 BRT] - ::tele 0,46,57,14,35
+[25 maio 2021 at 10:14:44 BRT] - ::tele 0,46,57,15,29
+[25 maio 2021 at 10:14:45 BRT] - ::tele 0,46,57,15,29
+[25 maio 2021 at 10:14:45 BRT] - ::tele 0,46,57,8,16
+[25 maio 2021 at 10:14:45 BRT] - ::tele 0,46,57,8,16
+[25 maio 2021 at 10:14:46 BRT] - ::tele 0,46,57,10,27
+[25 maio 2021 at 10:14:47 BRT] - ::tele 0,46,57,15,21
+[25 maio 2021 at 10:14:47 BRT] - ::tele 0,46,57,14,16
+[25 maio 2021 at 10:14:47 BRT] - ::tele 0,46,57,13,13
+[25 maio 2021 at 10:14:47 BRT] - ::tele 0,46,57,16,23
+[25 maio 2021 at 10:14:47 BRT] - ::tele 0,46,57,13,25
+[25 maio 2021 at 10:14:48 BRT] - ::tele 0,46,57,11,29
+[25 maio 2021 at 10:14:48 BRT] - ::tele 0,46,57,10,41
+[25 maio 2021 at 10:14:50 BRT] - ::tele 0,46,57,9,37
+[25 maio 2021 at 10:14:51 BRT] - ::tele 0,46,57,11,35
+[25 maio 2021 at 10:14:51 BRT] - ::tele 0,46,57,10,35
+[25 maio 2021 at 10:14:59 BRT] - ::tele 0,46,57,6,36
+[25 maio 2021 at 10:15:12 BRT] - ::tele 0,45,57,56,36
+[25 maio 2021 at 10:15:12 BRT] - ::tele 0,45,57,53,39
+[25 maio 2021 at 10:15:13 BRT] - ::tele 0,45,57,52,39
+[25 maio 2021 at 10:15:13 BRT] - ::tele 0,45,57,48,40
+[25 maio 2021 at 10:15:14 BRT] - ::tele 0,45,57,48,38
+[25 maio 2021 at 10:15:14 BRT] - ::tele 0,45,57,42,36
+[25 maio 2021 at 10:15:15 BRT] - ::tele 0,45,57,35,32
+[25 maio 2021 at 10:15:16 BRT] - ::tele 0,45,57,35,27
+[25 maio 2021 at 10:15:17 BRT] - ::tele 0,45,57,41,26
+[25 maio 2021 at 10:15:20 BRT] - ::tele 0,45,57,40,28
+[25 maio 2021 at 10:15:20 BRT] - ::tele 0,45,57,41,29
+[25 maio 2021 at 10:15:21 BRT] - ::tele 0,45,57,40,25
+[25 maio 2021 at 10:15:22 BRT] - ::tele 0,45,57,41,24
+[25 maio 2021 at 10:15:22 BRT] - ::tele 0,45,57,40,29
+[25 maio 2021 at 10:15:23 BRT] - ::tele 0,45,57,41,23
+[25 maio 2021 at 10:15:23 BRT] - ::tele 0,45,57,40,28
+[25 maio 2021 at 10:15:23 BRT] - ::tele 0,45,57,39,34
+[25 maio 2021 at 10:15:24 BRT] - ::tele 0,45,57,39,28
+[25 maio 2021 at 10:15:25 BRT] - ::tele 0,45,57,41,19
+[25 maio 2021 at 10:15:25 BRT] - ::tele 0,45,57,42,22
+[25 maio 2021 at 10:15:26 BRT] - ::tele 0,45,57,40,25
+[25 maio 2021 at 10:15:27 BRT] - ::tele 0,45,57,42,9
+[25 maio 2021 at 10:15:31 BRT] - ::tele 0,43,156,46,15
+[25 maio 2021 at 10:15:31 BRT] - ::tele 0,43,156,46,15
+[25 maio 2021 at 10:15:31 BRT] - ::tele 0,43,156,46,15
+[25 maio 2021 at 10:15:31 BRT] - ::tele 0,43,156,38,12
+[25 maio 2021 at 10:15:31 BRT] - ::tele 0,43,156,38,12
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,38,12
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,38,13
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,31,11
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,31,11
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,32,12
+[25 maio 2021 at 10:15:32 BRT] - ::tele 0,43,156,33,14
+[25 maio 2021 at 10:15:33 BRT] - ::tele 0,43,156,27,14
+[25 maio 2021 at 10:15:33 BRT] - ::tele 0,43,156,27,14
+[25 maio 2021 at 10:15:33 BRT] - ::tele 0,43,156,30,16
+[25 maio 2021 at 10:15:35 BRT] - ::tele 0,43,156,33,7
+[25 maio 2021 at 10:15:37 BRT] - ::tele 0,43,156,33,13
+[25 maio 2021 at 10:15:38 BRT] - ::tele 0,43,156,33,14
+[25 maio 2021 at 10:15:38 BRT] - ::tele 0,43,156,33,14
+[25 maio 2021 at 10:15:38 BRT] - ::tele 0,43,156,32,21
+[25 maio 2021 at 10:15:39 BRT] - ::tele 0,43,156,28,25
+[25 maio 2021 at 10:15:39 BRT] - ::tele 0,43,156,28,25
+[25 maio 2021 at 10:15:39 BRT] - ::tele 0,43,156,28,25
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,28,25
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,24,30
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,24,30
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,24,30
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,26,30
+[25 maio 2021 at 10:15:40 BRT] - ::tele 0,43,156,23,36
+[25 maio 2021 at 10:15:41 BRT] - ::tele 0,43,156,27,33
+[25 maio 2021 at 10:15:41 BRT] - ::tele 0,43,156,29,39
+[25 maio 2021 at 10:15:41 BRT] - ::tele 0,43,156,29,39
+[25 maio 2021 at 10:15:41 BRT] - ::tele 0,43,156,33,33
+[25 maio 2021 at 10:15:42 BRT] - ::tele 0,43,156,38,37
+[25 maio 2021 at 10:15:42 BRT] - ::tele 0,43,156,39,35
+[25 maio 2021 at 10:15:42 BRT] - ::tele 0,43,156,46,34
+[25 maio 2021 at 10:15:43 BRT] - ::tele 0,43,156,46,35
+[25 maio 2021 at 10:15:43 BRT] - ::tele 0,43,156,54,33
+[25 maio 2021 at 10:15:49 BRT] - ::teleto kaway
+[25 maio 2021 at 10:16:06 BRT] - ::tele 0,45,57,61,6
+[25 maio 2021 at 10:16:07 BRT] - ::tele 0,46,57,0,2
+[25 maio 2021 at 10:16:09 BRT] - ::tele 0,45,56,61,59
+[25 maio 2021 at 10:16:12 BRT] - ::tele 0,46,56,2,60
+[25 maio 2021 at 10:16:14 BRT] - ::tele 0,46,57,0,0
+[25 maio 2021 at 10:16:14 BRT] - ::tele 0,46,57,0,1
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,46,57,0,1
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,45,57,62,5
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,45,57,62,5
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,45,57,62,5
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,45,57,60,10
+[25 maio 2021 at 10:16:15 BRT] - ::tele 0,45,57,60,10
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,59,8
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,60,7
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,57,13
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,57,13
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,57,12
+[25 maio 2021 at 10:16:16 BRT] - ::tele 0,45,57,57,13
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,55,14
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,55,14
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,54,14
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,54,15
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,53,16
+[25 maio 2021 at 10:16:17 BRT] - ::tele 0,45,57,53,16
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,52,16
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,52,17
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,51,18
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,51,18
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,50,19
+[25 maio 2021 at 10:16:18 BRT] - ::tele 0,45,57,49,19
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,48,19
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,48,20
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,48,21
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,47,21
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,46,21
+[25 maio 2021 at 10:16:19 BRT] - ::tele 0,45,57,46,22
+[25 maio 2021 at 10:16:20 BRT] - ::tele 0,45,57,46,23
+[25 maio 2021 at 10:16:20 BRT] - ::tele 0,45,57,46,24
+[25 maio 2021 at 10:16:20 BRT] - ::tele 0,45,57,46,24
+[25 maio 2021 at 10:16:20 BRT] - ::tele 0,45,57,45,25
+[25 maio 2021 at 10:16:20 BRT] - ::tele 0,45,57,45,26
+[25 maio 2021 at 10:16:21 BRT] - ::tele 0,45,57,45,27
+[25 maio 2021 at 10:16:21 BRT] - ::tele 0,45,57,45,28
+[25 maio 2021 at 10:16:21 BRT] - ::tele 0,45,57,45,29
+[25 maio 2021 at 10:16:21 BRT] - ::tele 0,45,57,45,29
+[25 maio 2021 at 10:16:21 BRT] - ::tele 0,45,57,45,31
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,32
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,32
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,33
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,34
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,35
+[25 maio 2021 at 10:16:22 BRT] - ::tele 0,45,57,45,35
+[25 maio 2021 at 10:16:23 BRT] - ::tele 0,45,57,45,36
+[25 maio 2021 at 10:16:23 BRT] - ::tele 0,45,57,45,37
+[25 maio 2021 at 10:16:23 BRT] - ::tele 0,45,57,45,37
+[25 maio 2021 at 10:16:23 BRT] - ::tele 0,45,57,45,38
+[25 maio 2021 at 10:16:23 BRT] - ::tele 0,45,57,45,39
+[25 maio 2021 at 10:16:29 BRT] - ::tele 0,45,57,48,29
+[25 maio 2021 at 10:16:30 BRT] - ::tele 0,45,57,53,24
+[25 maio 2021 at 10:16:30 BRT] - ::tele 0,45,57,61,17
+[25 maio 2021 at 10:16:31 BRT] - ::tele 0,45,57,60,17
+[25 maio 2021 at 10:16:31 BRT] - ::tele 0,45,57,60,18
+[25 maio 2021 at 10:16:33 BRT] - ::teleto kaway
+[25 maio 2021 at 10:16:38 BRT] - ::tele 0,47,54,16,9
+[25 maio 2021 at 10:16:41 BRT] - ::teleto kaway
+[25 maio 2021 at 10:17:35 BRT] - ::teleto kaway
+[25 maio 2021 at 10:17:41 BRT] - ::tele 0,46,54,45,60
+[25 maio 2021 at 10:17:45 BRT] - ::teleto kaway
+[25 maio 2021 at 10:17:56 BRT] - ::god 
+[25 maio 2021 at 10:18:14 BRT] - ::god 
+[25 maio 2021 at 10:18:15 BRT] - ::tele 0,48,157,17,39
+[25 maio 2021 at 10:18:40 BRT] - ::tele 0,48,158,21,13
+[25 maio 2021 at 10:18:52 BRT] - ::god 
+[25 maio 2021 at 10:19:09 BRT] - ::tele 0,48,158,49,34
+[25 maio 2021 at 10:19:13 BRT] - ::tele 0,48,158,50,34
+[25 maio 2021 at 10:19:16 BRT] - ::tele 0,48,158,50,34
+[25 maio 2021 at 10:19:25 BRT] - ::tele 0,48,158,37,36
+[25 maio 2021 at 10:19:26 BRT] - ::tele 0,48,158,34,36
+[25 maio 2021 at 10:19:26 BRT] - ::tele 0,48,158,34,34
+[25 maio 2021 at 10:19:27 BRT] - ::tele 0,48,158,32,38
+[25 maio 2021 at 10:19:27 BRT] - ::tele 0,48,158,32,38
+[25 maio 2021 at 10:19:27 BRT] - ::tele 0,48,158,32,38
+[25 maio 2021 at 10:19:27 BRT] - ::tele 0,48,158,31,38
+[25 maio 2021 at 10:19:28 BRT] - ::tele 0,48,158,29,42
+[25 maio 2021 at 10:19:28 BRT] - ::tele 0,48,158,24,39
+[25 maio 2021 at 10:19:29 BRT] - ::tele 0,48,158,24,39
+[25 maio 2021 at 10:19:29 BRT] - ::tele 0,48,158,24,39
+[25 maio 2021 at 10:19:29 BRT] - ::tele 0,48,158,24,38
+[25 maio 2021 at 10:19:29 BRT] - ::tele 0,48,158,23,38
+[25 maio 2021 at 10:19:29 BRT] - ::tele 0,48,158,18,38
+[25 maio 2021 at 10:19:31 BRT] - ::tele 0,48,158,22,42
+[25 maio 2021 at 10:19:31 BRT] - ::tele 0,48,158,22,42
+[25 maio 2021 at 10:19:34 BRT] - ::tele 0,48,158,24,45
+[25 maio 2021 at 10:19:45 BRT] - ::tele 0,48,158,25,51
+[25 maio 2021 at 10:19:46 BRT] - ::tele 0,48,158,26,53
+[25 maio 2021 at 10:19:48 BRT] - ::tele 0,48,158,28,52
+[25 maio 2021 at 10:19:50 BRT] - ::tele 0,48,158,28,56
+[25 maio 2021 at 10:19:51 BRT] - ::tele 0,48,158,31,54
+[25 maio 2021 at 10:19:53 BRT] - ::tele 0,48,158,31,48
+[25 maio 2021 at 10:19:53 BRT] - ::tele 0,48,158,31,40
+[25 maio 2021 at 10:19:56 BRT] - ::tele 0,48,158,37,37
+[25 maio 2021 at 10:20:03 BRT] - ::tele 0,48,158,45,41
+[25 maio 2021 at 10:20:16 BRT] - ::teleto kaway
+[25 maio 2021 at 10:20:17 BRT] - ::tele 0,48,158,36,35
+[25 maio 2021 at 10:32:42 BRT] - ::tele 0,47,158,29,53
+[25 maio 2021 at 10:32:47 BRT] - ::tele 0,50,54,25,2
+[25 maio 2021 at 10:32:49 BRT] - ::tele 0,49,54,52,51
+[25 maio 2021 at 10:33:06 BRT] - ::teleto kaway
+[25 maio 2021 at 10:33:15 BRT] - ::god 
+[25 maio 2021 at 10:33:18 BRT] - ::god 
+[25 maio 2021 at 10:33:56 BRT] - ::teleto kaway
+[25 maio 2021 at 10:34:41 BRT] - ::tele 0,38,45,37,18
+[25 maio 2021 at 10:34:41 BRT] - ::tele 0,38,45,37,18
+[25 maio 2021 at 10:34:42 BRT] - ::tele 0,38,45,38,18
+[25 maio 2021 at 10:34:42 BRT] - ::tele 0,38,45,50,22
+[25 maio 2021 at 10:34:42 BRT] - ::tele 0,38,45,50,22
+[25 maio 2021 at 10:34:42 BRT] - ::tele 0,38,45,49,22
+[25 maio 2021 at 10:34:42 BRT] - ::tele 0,38,45,48,21
+[25 maio 2021 at 10:34:46 BRT] - ::teleto kaway
+[25 maio 2021 at 10:36:08 BRT] - ::teleto kaway
+[25 maio 2021 at 10:42:29 BRT] - ::teleto kaway
+[25 maio 2021 at 10:45:51 BRT] - ::teleto kaway
+[25 maio 2021 at 10:46:31 BRT] - ::tele 0,20,101,52,12
+[25 maio 2021 at 10:46:33 BRT] - ::tele 0,20,101,57,24
+[25 maio 2021 at 10:46:36 BRT] - ::tele 0,20,101,59,24
+[25 maio 2021 at 10:47:32 BRT] - ::teleto kaway
+[25 maio 2021 at 10:47:38 BRT] - ::tele 0,20,99,62,44
+[25 maio 2021 at 10:47:39 BRT] - ::tele 0,20,99,62,44
+[25 maio 2021 at 10:47:39 BRT] - ::tele 0,20,99,62,44
+[25 maio 2021 at 10:47:40 BRT] - ::tele 0,20,99,60,44
+[25 maio 2021 at 10:47:41 BRT] - ::teleto kaway
+[25 maio 2021 at 10:48:01 BRT] - ::tele 0,17,101,19,26
+[25 maio 2021 at 10:48:02 BRT] - ::tele 0,17,101,19,19
+[25 maio 2021 at 10:48:07 BRT] - ::teletome kaway
+[25 maio 2021 at 10:48:13 BRT] - ::teleto kaway
+[25 maio 2021 at 10:48:44 BRT] - ::teleto kaway
+[25 maio 2021 at 10:49:08 BRT] - ::tele 0,18,101,53,42
+[25 maio 2021 at 10:49:08 BRT] - ::tele 0,18,101,52,43
+[25 maio 2021 at 10:49:09 BRT] - ::tele 0,18,101,53,41
+[25 maio 2021 at 10:49:09 BRT] - ::tele 0,18,101,53,44
+[25 maio 2021 at 10:49:09 BRT] - ::tele 0,18,101,53,42
+[25 maio 2021 at 10:49:36 BRT] - ::teleto kaway
+[25 maio 2021 at 10:50:47 BRT] - ::teleto kaway
+[25 maio 2021 at 10:51:23 BRT] - ::teleto kaway
+[25 maio 2021 at 10:54:54 BRT] - ::teleto kaway
+[25 maio 2021 at 11:04:33 BRT] - ::teleto kaway
+[25 maio 2021 at 11:05:46 BRT] - ::teleto kaway
+[25 maio 2021 at 11:06:06 BRT] - ::teleto kaway
+[25 maio 2021 at 11:06:41 BRT] - ::item 952 1
+[25 maio 2021 at 11:11:20 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:23 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:26 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:28 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:30 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:32 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:34 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:38 BRT] - ::teleto kaway
+[25 maio 2021 at 11:11:54 BRT] - ::teleto kaway
+[25 maio 2021 at 11:12:14 BRT] - ::tele 0,53,54,13,46
+[25 maio 2021 at 11:12:15 BRT] - ::tele 0,53,54,13,43
+[25 maio 2021 at 11:12:15 BRT] - ::tele 0,53,54,13,42
+[25 maio 2021 at 11:12:15 BRT] - ::tele 0,53,54,13,42
+[25 maio 2021 at 11:12:16 BRT] - ::tele 0,53,54,13,42
+[25 maio 2021 at 11:12:16 BRT] - ::tele 0,53,54,13,42
+[25 maio 2021 at 11:12:16 BRT] - ::tele 0,53,54,13,38
+[25 maio 2021 at 11:12:16 BRT] - ::tele 0,53,54,13,38
+[25 maio 2021 at 11:12:16 BRT] - ::tele 0,53,54,13,38
+[25 maio 2021 at 11:12:17 BRT] - ::tele 0,53,54,12,35
+[25 maio 2021 at 11:12:24 BRT] - ::teleto kaway
+[25 maio 2021 at 11:12:30 BRT] - ::tele 0,52,54,59,38
+[25 maio 2021 at 11:12:31 BRT] - ::tele 0,52,54,44,37
+[25 maio 2021 at 11:12:32 BRT] - ::tele 0,52,54,33,38
+[25 maio 2021 at 11:12:34 BRT] - ::tele 0,52,54,33,48
+[25 maio 2021 at 11:12:35 BRT] - ::tele 0,52,54,28,37
+[25 maio 2021 at 11:12:36 BRT] - ::tele 0,52,54,25,36
+[25 maio 2021 at 11:12:36 BRT] - ::tele 0,52,54,21,25
+[25 maio 2021 at 11:12:36 BRT] - ::tele 0,52,54,21,25
+[25 maio 2021 at 11:12:37 BRT] - ::tele 0,52,54,11,25
+[25 maio 2021 at 11:12:37 BRT] - ::tele 0,52,54,11,31
+[25 maio 2021 at 11:12:37 BRT] - ::tele 0,52,54,0,31
+[25 maio 2021 at 11:12:37 BRT] - ::tele 0,52,54,0,31
+[25 maio 2021 at 11:12:38 BRT] - ::tele 0,51,54,57,36
+[25 maio 2021 at 11:12:38 BRT] - ::tele 0,51,54,56,37
+[25 maio 2021 at 11:12:38 BRT] - ::tele 0,51,54,56,37
+[25 maio 2021 at 11:12:38 BRT] - ::tele 0,51,54,56,37
+[25 maio 2021 at 11:12:39 BRT] - ::tele 0,51,54,56,37
+[25 maio 2021 at 11:12:39 BRT] - ::tele 0,51,54,48,43
+[25 maio 2021 at 11:12:40 BRT] - ::tele 0,51,54,46,49
+[25 maio 2021 at 11:12:40 BRT] - ::tele 0,51,54,46,50
+[25 maio 2021 at 11:12:40 BRT] - ::tele 0,51,54,46,50
+[25 maio 2021 at 11:12:41 BRT] - ::tele 0,51,54,43,52
+[25 maio 2021 at 11:12:41 BRT] - ::tele 0,51,54,42,52
+[25 maio 2021 at 11:12:41 BRT] - ::tele 0,51,54,42,52
+[25 maio 2021 at 11:12:41 BRT] - ::tele 0,51,54,42,52
+[25 maio 2021 at 11:12:42 BRT] - ::tele 0,51,54,42,52
+[25 maio 2021 at 11:12:42 BRT] - ::tele 0,51,54,38,54
+[25 maio 2021 at 11:12:42 BRT] - ::tele 0,51,54,38,54
+[25 maio 2021 at 11:12:42 BRT] - ::tele 0,51,54,38,54
+[25 maio 2021 at 11:12:43 BRT] - ::teleto kaway
+[25 maio 2021 at 11:13:48 BRT] - ::teleto kaway
+[25 maio 2021 at 11:15:02 BRT] - ::teleto kaway
+[25 maio 2021 at 11:31:12 BRT] - ::teleto kaway
+[25 maio 2021 at 11:35:39 BRT] - ::item 21790 123
+[25 maio 2021 at 11:35:54 BRT] - ::item 21787 123
+[25 maio 2021 at 11:36:17 BRT] - ::item 19335 123
+[25 maio 2021 at 11:37:01 BRT] - ::item 2943 123
+[25 maio 2021 at 11:37:08 BRT] - ::item 3799 123
+[25 maio 2021 at 11:37:36 BRT] - ::item 22363 12
+[25 maio 2021 at 11:38:47 BRT] - ::item 15220 123123
+[25 maio 2021 at 11:39:07 BRT] - ::item 22358 123
+[25 maio 2021 at 11:41:25 BRT] - ::item 26750 999999
+[25 maio 2021 at 11:41:31 BRT] - ::item 23531 123
+[25 maio 2021 at 11:47:56 BRT] - ::god 
+[25 maio 2021 at 11:47:58 BRT] - ::god 
+[25 maio 2021 at 11:48:24 BRT] - ::item 16045 1
+[25 maio 2021 at 11:48:32 BRT] - ::god 
+[25 maio 2021 at 11:48:33 BRT] - ::god 
+[25 maio 2021 at 11:48:39 BRT] - ::god 
+[25 maio 2021 at 11:48:44 BRT] - ::god 
+[25 maio 2021 at 11:49:03 BRT] - ::god 
+[25 maio 2021 at 11:49:05 BRT] - ::god 
+[25 maio 2021 at 11:49:18 BRT] - ::god 
+[25 maio 2021 at 11:50:18 BRT] - ::tele 2,46,68,30,32
+[25 maio 2021 at 11:50:25 BRT] - ::teleto kaway
+[25 maio 2021 at 11:50:34 BRT] - ::tele 0,48,54,17,44
+[25 maio 2021 at 11:50:50 BRT] - ::tele 2,46,68,45,30
+[25 maio 2021 at 11:50:55 BRT] - ::god 
+[25 maio 2021 at 11:51:00 BRT] - ::god 
+[25 maio 2021 at 11:51:22 BRT] - ::tele 2,46,68,34,31
+[25 maio 2021 at 11:51:22 BRT] - ::tele 2,46,68,37,31
+[25 maio 2021 at 11:51:22 BRT] - ::tele 2,46,68,38,32
+[25 maio 2021 at 11:51:23 BRT] - ::tele 2,46,68,39,32
+[25 maio 2021 at 11:51:23 BRT] - ::tele 2,46,68,54,32
+[25 maio 2021 at 11:51:32 BRT] - ::god 
+[25 maio 2021 at 11:52:15 BRT] - ::teleto kaway
+[25 maio 2021 at 11:52:24 BRT] - ::tele 0,48,54,17,43
+[25 maio 2021 at 11:52:30 BRT] - ::tele 2,46,68,10,32
+[25 maio 2021 at 11:52:31 BRT] - ::tele 2,46,68,27,30
+[25 maio 2021 at 11:52:31 BRT] - ::tele 2,46,68,32,30
+[25 maio 2021 at 11:52:31 BRT] - ::tele 2,46,68,34,31
+[25 maio 2021 at 11:52:31 BRT] - ::tele 2,46,68,44,30
+[25 maio 2021 at 11:52:31 BRT] - ::tele 2,46,68,45,30
+[25 maio 2021 at 11:52:32 BRT] - ::tele 2,46,68,54,30
+[25 maio 2021 at 11:52:32 BRT] - ::tele 2,46,68,55,30
+[25 maio 2021 at 11:52:32 BRT] - ::tele 2,46,68,55,30
+[25 maio 2021 at 11:52:36 BRT] - ::tele 2,46,68,53,28
+[25 maio 2021 at 11:53:14 BRT] - ::teleto kaway
+[25 maio 2021 at 11:55:51 BRT] - ::item 11858 123
+[25 maio 2021 at 11:56:04 BRT] - ::item 11861 123
+[25 maio 2021 at 11:56:16 BRT] - ::item 11863 123123
+[25 maio 2021 at 11:59:24 BRT] - ::bank 
+[26 maio 2021 at 12:14:00 BRT] - ::teleto kaway
+[26 maio 2021 at 12:14:08 BRT] - ::teleto kaway
+[26 maio 2021 at 12:14:22 BRT] - ::god 
+[26 maio 2021 at 12:14:26 BRT] - ::god 
+[26 maio 2021 at 12:14:57 BRT] - ::teleto kaway
+[26 maio 2021 at 12:15:04 BRT] - ::teleto kaway
+[26 maio 2021 at 12:15:22 BRT] - ::teleto kaway
+[26 maio 2021 at 06:34:05 BRT] - ::item 123 3
+[26 maio 2021 at 06:34:11 BRT] - ::item 12388 12
+[26 maio 2021 at 06:34:17 BRT] - ::item 98292 1
+[26 maio 2021 at 06:34:20 BRT] - ::item 9298 12
+[26 maio 2021 at 06:34:25 BRT] - ::item 9292 123
+[26 maio 2021 at 06:34:32 BRT] - ::item 2437 8588585
+[26 maio 2021 at 06:34:45 BRT] - ::item 8238 123123
+[26 maio 2021 at 06:34:52 BRT] - ::item 8282 123123
+[26 maio 2021 at 06:35:30 BRT] - ::item 1 1
+[26 maio 2021 at 06:35:33 BRT] - ::item 2 1
+[26 maio 2021 at 06:35:36 BRT] - ::item 3 1
+[26 maio 2021 at 06:35:38 BRT] - ::item 4 1
+[26 maio 2021 at 06:35:40 BRT] - ::item 5 1
+[26 maio 2021 at 06:35:44 BRT] - ::item 2923 45453345345
+[26 maio 2021 at 06:35:52 BRT] - ::item 3423 896896
+[26 maio 2021 at 06:36:26 BRT] - ::item 990 123
+[26 maio 2021 at 06:36:34 BRT] - ::item 990 9823458
+[26 maio 2021 at 06:36:38 BRT] - ::item 4747 324232342
+[26 maio 2021 at 06:36:56 BRT] - ::item 2374 214124
+[26 maio 2021 at 06:37:10 BRT] - ::item 5756 2232
+[26 maio 2021 at 06:39:04 BRT] - ::item 1043 2147000000
+[26 maio 2021 at 06:39:22 BRT] - ::item 1049 2147000000
+[26 maio 2021 at 06:39:36 BRT] - ::item 1041 2147000000
+[26 maio 2021 at 06:39:53 BRT] - ::item 1047 2147000000
+[26 maio 2021 at 06:40:06 BRT] - ::item 1039 2147000000
+[26 maio 2021 at 06:40:18 BRT] - ::item 1051 2147000000
+[26 maio 2021 at 06:40:36 BRT] - ::item 1045 2147000000
+[26 maio 2021 at 06:40:53 BRT] - ::item 1054 2147000000
+[26 maio 2021 at 06:41:20 BRT] - ::item 1052 1
+[26 maio 2021 at 06:41:26 BRT] - ::item 1055 21470000000
+[26 maio 2021 at 06:41:36 BRT] - ::item 1054 2147000000
+[26 maio 2021 at 06:41:57 BRT] - ::item 1056 2147000000
+[26 maio 2021 at 06:42:04 BRT] - ::item 1058 2147000000
+[26 maio 2021 at 06:44:10 BRT] - ::item 11234 2147000000
+[26 maio 2021 at 06:44:25 BRT] - ::tele 2,46,68,38,32
+[26 maio 2021 at 06:44:31 BRT] - ::god 
+[26 maio 2021 at 06:45:55 BRT] - ::item 4153 1
+[26 maio 2021 at 06:46:17 BRT] - ::tele 0,48,54,17,43
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,39,31
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,39,31
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,39,31
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,39,31
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,40,31
+[26 maio 2021 at 06:46:26 BRT] - ::tele 2,46,68,56,31
+[26 maio 2021 at 06:46:27 BRT] - ::tele 2,46,68,56,31
+[26 maio 2021 at 06:46:28 BRT] - ::tele 2,46,68,52,31
+[26 maio 2021 at 06:47:35 BRT] - ::tele 2,46,68,36,29
+[26 maio 2021 at 06:47:36 BRT] - ::tele 2,46,68,36,29
+[26 maio 2021 at 06:47:36 BRT] - ::tele 2,46,68,50,27
+[26 maio 2021 at 06:47:36 BRT] - ::tele 2,46,68,50,27
+[26 maio 2021 at 06:47:36 BRT] - ::tele 2,46,68,50,28
+[26 maio 2021 at 06:48:28 BRT] - ::item 2550 10
+[26 maio 2021 at 06:48:49 BRT] - ::tele 0,48,54,17,44
+[26 maio 2021 at 06:48:55 BRT] - ::tele 2,46,68,36,29
+[26 maio 2021 at 06:48:56 BRT] - ::tele 2,46,68,37,29
+[26 maio 2021 at 06:48:57 BRT] - ::tele 2,46,68,43,32
+[26 maio 2021 at 06:49:44 BRT] - ::tele 0,48,54,17,43
+[26 maio 2021 at 06:49:50 BRT] - ::tele 0,48,54,27,42
+[26 maio 2021 at 06:49:51 BRT] - ::tele 0,48,54,49,35
+[26 maio 2021 at 06:49:52 BRT] - ::tele 0,48,54,35,33
+[26 maio 2021 at 06:49:53 BRT] - ::tele 0,48,54,30,47
+[26 maio 2021 at 06:49:55 BRT] - ::tele 0,48,54,17,42
+[26 maio 2021 at 06:50:02 BRT] - ::tele 2,46,68,33,32
+[26 maio 2021 at 06:50:03 BRT] - ::tele 2,46,68,48,30
+[26 maio 2021 at 06:51:06 BRT] - ::tele 2,46,68,41,31
+[26 maio 2021 at 06:51:07 BRT] - ::tele 2,46,68,46,29
+[26 maio 2021 at 06:52:28 BRT] - ::item 995 7000000
+[26 maio 2021 at 06:52:36 BRT] - ::item 995 500000
+[26 maio 2021 at 06:52:46 BRT] - ::item 995 300000
+[26 maio 2021 at 06:52:51 BRT] - ::item 2147 1
+[26 maio 2021 at 06:53:11 BRT] - ::item 2143 2
+[26 maio 2021 at 06:53:17 BRT] - ::item 753 123
+[26 maio 2021 at 07:01:21 BRT] - ::teleto sean
+[26 maio 2021 at 07:03:35 BRT] - ::item 9254 21333
+[26 maio 2021 at 07:03:44 BRT] - ::item 9245 213123
+[26 maio 2021 at 07:04:11 BRT] - ::item 13427 12
+[26 maio 2021 at 07:04:23 BRT] - ::item 13427 1
+[26 maio 2021 at 07:04:32 BRT] - ::item 6734 2147123
+[26 maio 2021 at 07:08:56 BRT] - ::teleto sean
+[26 maio 2021 at 07:08:58 BRT] - ::tele 0,1,8,35,5
+[26 maio 2021 at 07:09:02 BRT] - ::teletome sean
+[26 maio 2021 at 07:09:32 BRT] - ::tele 0,1,7,39,58
+[26 maio 2021 at 07:09:57 BRT] - ::teleto sean
+[26 maio 2021 at 07:10:24 BRT] - ::teleto sean
+[26 maio 2021 at 07:10:35 BRT] - ::tele 1,1,7,41,54
+[26 maio 2021 at 07:10:36 BRT] - ::tele 1,1,7,47,60
+[26 maio 2021 at 07:10:37 BRT] - ::tele 1,1,8,49,5
+[26 maio 2021 at 07:10:38 BRT] - ::tele 1,1,8,48,9
+[26 maio 2021 at 07:10:52 BRT] - ::teletome sean
+[26 maio 2021 at 07:10:59 BRT] - ::tele 1,1,7,49,60
+[26 maio 2021 at 07:11:00 BRT] - ::tele 1,1,7,49,60
+[26 maio 2021 at 07:11:00 BRT] - ::tele 1,1,7,50,47
+[26 maio 2021 at 07:11:00 BRT] - ::tele 1,1,7,50,47
+[26 maio 2021 at 07:11:01 BRT] - ::tele 1,1,7,50,47
+[26 maio 2021 at 07:11:01 BRT] - ::tele 1,1,7,46,36
+[26 maio 2021 at 07:11:01 BRT] - ::tele 1,1,7,45,36
+[26 maio 2021 at 07:11:01 BRT] - ::tele 1,1,7,43,42
+[26 maio 2021 at 07:11:03 BRT] - ::tele 1,1,7,40,39
+[26 maio 2021 at 07:13:40 BRT] - ::teleto sean
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,1,8,58,5
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,1,8,60,9
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,2,8,6,5
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,2,8,6,5
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,2,8,2,3
+[26 maio 2021 at 07:13:46 BRT] - ::tele 1,2,7,13,60
+[26 maio 2021 at 07:13:47 BRT] - ::tele 1,2,7,13,60
+[26 maio 2021 at 07:13:47 BRT] - ::tele 1,2,7,8,59
+[26 maio 2021 at 07:13:47 BRT] - ::tele 1,2,7,15,50
+[26 maio 2021 at 07:13:47 BRT] - ::tele 1,2,7,15,49
+[26 maio 2021 at 07:13:47 BRT] - ::tele 1,2,7,14,49
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,2,7,6,51
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,2,7,7,40
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,2,7,6,40
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,2,7,5,40
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,1,7,62,31
+[26 maio 2021 at 07:13:48 BRT] - ::tele 1,1,7,62,31
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,0,31
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,4,31
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,2,20
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,2,19
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,4,18
+[26 maio 2021 at 07:13:49 BRT] - ::tele 1,2,7,6,6
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,2,7,5,6
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,2,7,3,7
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,1,7,63,7
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,1,6,63,59
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,1,6,62,61
+[26 maio 2021 at 07:13:50 BRT] - ::tele 1,1,6,58,62
+[26 maio 2021 at 07:13:51 BRT] - ::tele 1,1,6,53,52
+[26 maio 2021 at 07:13:51 BRT] - ::tele 1,1,6,53,52
+[26 maio 2021 at 07:13:51 BRT] - ::tele 1,1,6,54,53
+[26 maio 2021 at 07:13:51 BRT] - ::tele 1,1,6,43,46
+[26 maio 2021 at 07:13:51 BRT] - ::tele 1,1,6,42,49
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,6,41,58
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,6,41,58
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,7,30,2
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,7,32,2
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,7,35,5
+[26 maio 2021 at 07:13:52 BRT] - ::tele 1,1,7,29,13
+[26 maio 2021 at 07:13:53 BRT] - ::tele 1,1,7,31,11
+[26 maio 2021 at 07:13:53 BRT] - ::tele 1,1,7,32,8
+[26 maio 2021 at 07:13:53 BRT] - ::tele 1,1,7,28,15
+[26 maio 2021 at 07:13:53 BRT] - ::tele 1,1,7,28,13
+[26 maio 2021 at 07:13:53 BRT] - ::tele 1,1,7,25,14
+[26 maio 2021 at 07:13:54 BRT] - ::tele 1,1,7,19,17
+[26 maio 2021 at 07:13:54 BRT] - ::tele 1,1,7,21,19
+[26 maio 2021 at 07:13:54 BRT] - ::tele 1,1,7,25,20
+[26 maio 2021 at 07:13:54 BRT] - ::tele 1,1,7,29,24
+[26 maio 2021 at 07:13:54 BRT] - ::tele 1,1,7,27,30
+[26 maio 2021 at 07:14:00 BRT] - ::kill 
+[26 maio 2021 at 07:14:01 BRT] - ::kill 
+[26 maio 2021 at 07:14:06 BRT] - ::kill 
+[26 maio 2021 at 07:15:40 BRT] - ::tele 1,1,7,35,33
+[26 maio 2021 at 07:15:55 BRT] - ::tele 1,1,7,34,34
+[26 maio 2021 at 07:16:14 BRT] - ::tele 1,1,7,47,36
+[26 maio 2021 at 07:16:15 BRT] - ::tele 1,1,7,48,36
+[26 maio 2021 at 07:16:15 BRT] - ::tele 1,1,7,59,39
+[26 maio 2021 at 07:16:15 BRT] - ::tele 1,2,7,7,42
+[26 maio 2021 at 07:16:16 BRT] - ::tele 1,2,7,7,42
+[26 maio 2021 at 07:16:18 BRT] - ::teletome sean
+[26 maio 2021 at 07:16:22 BRT] - ::tele 1,1,7,56,42
+[26 maio 2021 at 07:16:22 BRT] - ::tele 1,1,7,55,43
+[26 maio 2021 at 07:16:22 BRT] - ::tele 1,1,7,55,43
+[26 maio 2021 at 07:16:22 BRT] - ::tele 1,1,7,55,43
+[26 maio 2021 at 07:16:23 BRT] - ::tele 1,1,7,39,44
+[26 maio 2021 at 07:16:23 BRT] - ::tele 1,1,7,39,44
+[26 maio 2021 at 07:16:23 BRT] - ::tele 1,1,7,39,44
+[26 maio 2021 at 07:16:24 BRT] - ::tele 1,1,7,33,38
+[26 maio 2021 at 07:16:47 BRT] - ::tele 1,1,7,32,30
+[26 maio 2021 at 07:16:49 BRT] - ::tele 1,1,7,31,33
+[26 maio 2021 at 07:16:50 BRT] - ::tele 1,1,7,30,31
+[26 maio 2021 at 07:16:58 BRT] - ::tele 1,1,7,18,20
+[26 maio 2021 at 07:17:01 BRT] - ::tele 1,1,7,23,25
+[26 maio 2021 at 07:18:22 BRT] - ::tele 1,1,7,32,32
+[26 maio 2021 at 07:20:35 BRT] - ::tele 1,1,7,13,33
+[26 maio 2021 at 07:20:36 BRT] - ::tele 1,1,7,12,33
+[26 maio 2021 at 07:20:36 BRT] - ::tele 1,1,7,12,33
+[26 maio 2021 at 07:20:37 BRT] - ::tele 1,0,7,60,32
+[26 maio 2021 at 07:20:44 BRT] - ::teletome sean
+[26 maio 2021 at 07:20:46 BRT] - ::tele 1,1,7,6,28
+[26 maio 2021 at 07:20:46 BRT] - ::tele 1,1,7,7,29
+[26 maio 2021 at 07:20:46 BRT] - ::tele 1,1,7,7,29
+[26 maio 2021 at 07:20:47 BRT] - ::tele 1,1,7,18,26
+[26 maio 2021 at 07:20:47 BRT] - ::tele 1,1,7,18,26
+[26 maio 2021 at 07:20:48 BRT] - ::tele 1,1,7,29,23
+[26 maio 2021 at 07:22:22 BRT] - ::tele 1,1,7,31,34
+[26 maio 2021 at 07:22:23 BRT] - ::tele 1,1,7,31,32
+[26 maio 2021 at 07:22:24 BRT] - ::tele 1,1,7,31,34
+[26 maio 2021 at 07:22:24 BRT] - ::tele 1,1,7,31,33
+[26 maio 2021 at 07:22:25 BRT] - ::tele 1,1,7,32,33
+[26 maio 2021 at 07:22:26 BRT] - ::tele 1,1,7,32,33
+[26 maio 2021 at 07:22:27 BRT] - ::tele 1,1,7,31,33
+[26 maio 2021 at 07:26:00 BRT] - ::tele 1,1,7,38,16
+[26 maio 2021 at 07:26:01 BRT] - ::tele 1,1,7,40,17
+[26 maio 2021 at 07:26:01 BRT] - ::tele 1,1,7,38,2
+[26 maio 2021 at 07:26:02 BRT] - ::tele 1,1,6,37,52
+[26 maio 2021 at 07:26:04 BRT] - ::teletome sean
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,4
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,4
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,4
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,4
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,20
+[26 maio 2021 at 07:26:06 BRT] - ::tele 1,1,7,37,20
+[26 maio 2021 at 07:26:07 BRT] - ::tele 1,1,7,37,19
+[26 maio 2021 at 07:26:07 BRT] - ::tele 1,1,7,37,35
+[26 maio 2021 at 07:26:07 BRT] - ::tele 1,1,7,37,34
+[26 maio 2021 at 07:27:01 BRT] - ::tele 1,1,7,31,33
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,7,30,51
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,7,28,51
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,7,28,53
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,8,25,0
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,8,25,0
+[26 maio 2021 at 07:27:19 BRT] - ::tele 1,1,8,25,0
+[26 maio 2021 at 07:27:20 BRT] - ::tele 1,1,8,25,0
+[26 maio 2021 at 07:27:20 BRT] - ::tele 1,1,8,22,13
+[26 maio 2021 at 07:27:22 BRT] - ::teletome sean
+[26 maio 2021 at 07:27:23 BRT] - ::tele 1,1,8,28,3
+[26 maio 2021 at 07:27:23 BRT] - ::tele 1,1,8,22,0
+[26 maio 2021 at 07:27:23 BRT] - ::tele 1,1,8,21,0
+[26 maio 2021 at 07:27:23 BRT] - ::tele 1,1,7,21,51
+[26 maio 2021 at 07:27:24 BRT] - ::tele 1,1,7,21,51
+[26 maio 2021 at 07:27:24 BRT] - ::tele 1,1,7,21,51
+[26 maio 2021 at 07:27:24 BRT] - ::tele 1,1,7,20,38
+[26 maio 2021 at 07:27:33 BRT] - ::tele 1,1,7,26,38
+[26 maio 2021 at 07:28:22 BRT] - ::tele 1,1,7,39,29
+[26 maio 2021 at 07:29:09 BRT] - ::teleto sean
+[26 maio 2021 at 07:29:32 BRT] - ::teletome sean
+[26 maio 2021 at 07:29:47 BRT] - ::teleto sean
+[26 maio 2021 at 07:29:49 BRT] - ::teletome sean
+[26 maio 2021 at 07:30:18 BRT] - ::teletome sean
+[26 maio 2021 at 07:32:55 BRT] - ::tele 0,48,54,12,43
+[26 maio 2021 at 07:32:55 BRT] - ::tele 0,48,54,25,35
+[26 maio 2021 at 07:32:58 BRT] - ::tele 0,48,54,20,36
+[26 maio 2021 at 07:33:02 BRT] - ::teletome sean
+[26 maio 2021 at 07:33:41 BRT] - ::kill sean
+[26 maio 2021 at 07:34:00 BRT] - ::teleto sean
+[26 maio 2021 at 07:34:12 BRT] - ::teleto sean
+[26 maio 2021 at 07:34:39 BRT] - ::tele 1,1,3,15,32
+[26 maio 2021 at 07:34:39 BRT] - ::tele 1,1,3,15,32
+[26 maio 2021 at 07:34:39 BRT] - ::tele 1,1,3,15,32
+[26 maio 2021 at 07:34:39 BRT] - ::tele 1,1,3,15,32
+[26 maio 2021 at 07:34:40 BRT] - ::tele 1,1,3,0,31
+[26 maio 2021 at 07:34:40 BRT] - ::tele 1,0,3,63,30
+[26 maio 2021 at 07:34:40 BRT] - ::tele 1,1,3,0,30
+[26 maio 2021 at 07:34:41 BRT] - ::tele 1,0,3,55,28
+[26 maio 2021 at 07:34:49 BRT] - ::teletome sean
+[26 maio 2021 at 07:34:54 BRT] - ::tele 1,1,3,5,29
+[26 maio 2021 at 07:34:55 BRT] - ::tele 1,1,3,6,29
+[26 maio 2021 at 07:34:56 BRT] - ::tele 1,1,3,21,29
+[26 maio 2021 at 07:34:56 BRT] - ::tele 1,1,3,21,29
+[26 maio 2021 at 07:35:03 BRT] - ::god 
+[26 maio 2021 at 07:35:06 BRT] - ::kill kiln
+[26 maio 2021 at 07:36:36 BRT] - ::kill tokhaar-hur
+[26 maio 2021 at 07:39:00 BRT] - ::tele 1,1,3,28,37
+[26 maio 2021 at 07:41:28 BRT] - ::tele 1,1,3,35,7
+[26 maio 2021 at 07:41:29 BRT] - ::tele 1,1,2,35,58
+[26 maio 2021 at 07:41:30 BRT] - ::tele 1,1,2,35,45
+[26 maio 2021 at 07:41:33 BRT] - ::teletome sean
+[26 maio 2021 at 07:41:37 BRT] - ::tele 1,1,2,29,56
+[26 maio 2021 at 07:41:37 BRT] - ::tele 1,1,2,29,56
+[26 maio 2021 at 07:41:37 BRT] - ::tele 1,1,3,23,3
+[26 maio 2021 at 07:41:38 BRT] - ::tele 1,1,3,23,4
+[26 maio 2021 at 07:41:38 BRT] - ::tele 1,1,3,23,4
+[26 maio 2021 at 07:41:38 BRT] - ::tele 1,1,3,19,15
+[26 maio 2021 at 07:41:38 BRT] - ::tele 1,1,3,20,15
+[26 maio 2021 at 07:41:38 BRT] - ::tele 1,1,3,24,26
+[26 maio 2021 at 07:44:50 BRT] - ::tele 1,1,3,40,25
+[26 maio 2021 at 07:44:54 BRT] - ::tele 1,1,3,25,28
+[26 maio 2021 at 07:44:59 BRT] - ::tele 1,1,3,36,40
+[26 maio 2021 at 07:45:05 BRT] - ::tele 1,1,3,33,34
+[26 maio 2021 at 07:45:13 BRT] - ::tele 1,1,3,22,22
+[26 maio 2021 at 07:45:18 BRT] - ::tele 1,1,3,35,26
+[26 maio 2021 at 07:45:34 BRT] - ::tele 1,1,3,28,39
+[26 maio 2021 at 07:46:18 BRT] - ::tele 1,1,3,28,13
+[26 maio 2021 at 07:46:19 BRT] - ::tele 1,1,3,28,13
+[26 maio 2021 at 07:46:19 BRT] - ::tele 1,1,2,26,61
+[26 maio 2021 at 07:46:20 BRT] - ::tele 1,1,2,26,51
+[26 maio 2021 at 07:46:20 BRT] - ::teletome sean
+[26 maio 2021 at 07:46:21 BRT] - ::tele 1,1,3,22,4
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,22,3
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,18,19
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,18,19
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,19,18
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,20,18
+[26 maio 2021 at 07:46:22 BRT] - ::tele 1,1,3,21,31
+[26 maio 2021 at 07:46:23 BRT] - ::tele 1,1,3,27,43
+[26 maio 2021 at 07:47:27 BRT] - ::teletome sean
+[26 maio 2021 at 07:47:40 BRT] - ::tele 1,1,3,47,30
+[26 maio 2021 at 07:47:41 BRT] - ::tele 1,1,3,57,30
+[26 maio 2021 at 07:47:42 BRT] - ::tele 1,2,3,0,30
+[26 maio 2021 at 07:47:46 BRT] - ::teletome sean
+[26 maio 2021 at 07:47:48 BRT] - ::tele 1,1,3,48,28
+[26 maio 2021 at 07:47:49 BRT] - ::tele 1,1,3,48,28
+[26 maio 2021 at 07:47:50 BRT] - ::tele 1,1,3,44,27
+[26 maio 2021 at 07:53:34 BRT] - ::tele 1,1,3,31,49
+[26 maio 2021 at 07:53:35 BRT] - ::tele 1,1,3,31,48
+[26 maio 2021 at 07:53:35 BRT] - ::tele 1,1,4,30,1
+[26 maio 2021 at 07:53:35 BRT] - ::tele 1,1,4,30,1
+[26 maio 2021 at 07:53:35 BRT] - ::tele 1,1,4,29,16
+[26 maio 2021 at 07:53:36 BRT] - ::teletome sean
+[26 maio 2021 at 07:53:39 BRT] - ::tele 1,1,4,28,2
+[26 maio 2021 at 07:53:39 BRT] - ::tele 1,1,4,28,2
+[26 maio 2021 at 07:53:39 BRT] - ::tele 1,1,4,28,2
+[26 maio 2021 at 07:53:39 BRT] - ::tele 1,1,3,27,52
+[26 maio 2021 at 07:53:39 BRT] - ::tele 1,1,3,27,52
+[26 maio 2021 at 07:53:40 BRT] - ::tele 1,1,3,26,40
+[26 maio 2021 at 07:53:40 BRT] - ::tele 1,1,3,28,38
+[26 maio 2021 at 07:56:52 BRT] - ::tele 1,1,3,32,46
+[26 maio 2021 at 07:56:53 BRT] - ::tele 1,1,3,34,61
+[26 maio 2021 at 07:56:53 BRT] - ::tele 1,1,3,34,61
+[26 maio 2021 at 07:57:01 BRT] - ::teletome sean
+[26 maio 2021 at 07:57:03 BRT] - ::tele 1,1,3,36,50
+[26 maio 2021 at 07:57:04 BRT] - ::tele 1,1,3,38,39
+[26 maio 2021 at 07:58:36 BRT] - ::tele 1,1,3,32,54
+[26 maio 2021 at 07:58:36 BRT] - ::tele 1,1,4,34,5
+[26 maio 2021 at 07:58:39 BRT] - ::teletome sean
+[26 maio 2021 at 07:58:41 BRT] - ::tele 1,1,3,35,55
+[26 maio 2021 at 07:58:42 BRT] - ::tele 1,1,3,36,41
+[26 maio 2021 at 07:58:42 BRT] - ::tele 1,1,3,36,41
+[26 maio 2021 at 07:58:43 BRT] - ::tele 1,1,3,33,31
+[26 maio 2021 at 07:59:20 BRT] - ::teletome sean
+[26 maio 2021 at 07:59:52 BRT] - ::teleto sean
+[26 maio 2021 at 08:05:49 BRT] - ::teletome sean
+[26 maio 2021 at 08:05:59 BRT] - ::tele 2,46,68,36,31
+[26 maio 2021 at 08:06:00 BRT] - ::tele 2,46,68,45,32
+[27 maio 2021 at 12:51:13 BRT] - ::teleto manoel
+[27 maio 2021 at 12:51:20 BRT] - ::kill manoel
+[27 maio 2021 at 12:51:37 BRT] - ::teleto kaway
+[27 maio 2021 at 12:53:49 BRT] - ::kill kaway
+[27 maio 2021 at 12:53:53 BRT] - ::teleto kaway
+[27 maio 2021 at 12:54:54 BRT] - ::teleto kaway
+[27 maio 2021 at 12:56:28 BRT] - ::setruby bamf 32123
+[27 maio 2021 at 06:20:50 BRT] - ::item 23677 1
+[27 maio 2021 at 06:22:38 BRT] - ::teletome sean
+[27 maio 2021 at 06:23:18 BRT] - ::giveitem sean 23677 1
+[27 maio 2021 at 06:24:59 BRT] - ::giveitem sean 236661
+[27 maio 2021 at 06:25:05 BRT] - ::giveitem sean 23666 1
+[27 maio 2021 at 06:26:15 BRT] - ::giveitem sean 23671 1
+[27 maio 2021 at 06:26:45 BRT] - ::item 23671 1
+[27 maio 2021 at 06:27:05 BRT] - ::item 24154 123123
+[27 maio 2021 at 06:27:37 BRT] - ::item 23675 1
+[27 maio 2021 at 06:27:45 BRT] - ::giveitem sean 23675 1
+[27 maio 2021 at 06:28:33 BRT] - ::item 23645 1
+[27 maio 2021 at 06:28:38 BRT] - ::item 23655 1
+[27 maio 2021 at 06:28:53 BRT] - ::item 23687 1
+[27 maio 2021 at 06:29:18 BRT] - ::item 23672 1
+[27 maio 2021 at 06:29:22 BRT] - ::item 23674 1
+[27 maio 2021 at 06:29:45 BRT] - ::giveitem sean 23672 1
+[27 maio 2021 at 06:29:52 BRT] - ::giveitem sean 23674 1
+[27 maio 2021 at 06:30:02 BRT] - ::giveitem 23676 1
+[27 maio 2021 at 06:30:11 BRT] - ::giveitem 23678 1
+[27 maio 2021 at 06:30:16 BRT] - ::giveitem sean 23678 1
+[27 maio 2021 at 06:30:24 BRT] - ::giveitem 23680 1
+[27 maio 2021 at 06:30:31 BRT] - ::giveitem sean 23680 1
+[27 maio 2021 at 06:32:43 BRT] - ::giveitem sean 12197 1
+[27 maio 2021 at 06:32:48 BRT] - ::giveitem sean 12469 1
+[27 maio 2021 at 06:32:55 BRT] - ::giveitem sean 12471 1
+[27 maio 2021 at 06:33:00 BRT] - ::giveitem sean 12473 1
+[27 maio 2021 at 06:33:06 BRT] - ::giveitem 12475 1
+[27 maio 2021 at 06:33:10 BRT] - ::giveitem 33801 1
+[27 maio 2021 at 06:36:15 BRT] - ::item 33828 1
+[27 maio 2021 at 06:37:51 BRT] - ::item 23892 1
+[27 maio 2021 at 06:38:15 BRT] - ::item 29102 1
+[27 maio 2021 at 06:38:25 BRT] - ::item 29103 1
+[27 maio 2021 at 06:38:31 BRT] - ::item 23908 1
+[27 maio 2021 at 06:38:36 BRT] - ::item 23893 1
+[27 maio 2021 at 06:40:23 BRT] - ::item 22889 1
+[27 maio 2021 at 06:41:11 BRT] - ::giveitem sean 23673 1
+[27 maio 2021 at 06:41:34 BRT] - ::giveitem sean 23667 1
+[27 maio 2021 at 07:27:01 BRT] - ::god 
+[27 maio 2021 at 07:27:05 BRT] - ::tele 0,40,89,23,36
+[27 maio 2021 at 07:27:31 BRT] - ::item 876 2147000000
+[29 maio 2021 at 01:03:28 BRT] - ::giveitem sean 23748 28
+[29 maio 2021 at 01:04:35 BRT] - ::giveitem sean 23781 28
+[29 maio 2021 at 01:05:03 BRT] - ::giveitem sean 23781 28
+[29 maio 2021 at 01:05:30 BRT] - ::giveitem sean 23781 28
+[29 maio 2021 at 01:05:52 BRT] - ::giveitem sean 23781 28
+[29 maio 2021 at 01:06:41 BRT] - ::giveitem sean 23777 28
+[29 maio 2021 at 01:06:59 BRT] - ::giveitem sean 23777 28
+[29 maio 2021 at 01:07:22 BRT] - ::giveitem sean 23777 28
+[29 maio 2021 at 01:07:43 BRT] - ::giveitem 23777 28
+[29 maio 2021 at 01:07:50 BRT] - ::giveitem sean 23777 28
+[29 maio 2021 at 01:08:15 BRT] - ::giveitem sean 23777 10
+[29 maio 2021 at 04:02:06 BRT] - ::giveitem manoel 23671 1
+[29 maio 2021 at 04:02:28 BRT] - ::giveitem manoel 23677 1
+[29 maio 2021 at 04:05:10 BRT] - ::giveitem 962 2
+[29 maio 2021 at 04:05:15 BRT] - ::giveitem manoel 962 2
+[29 maio 2021 at 04:05:20 BRT] - ::item 962 2
+[29 maio 2021 at 04:05:38 BRT] - ::item 693 2147000000
+[29 maio 2021 at 04:05:53 BRT] - ::item 963 2
+[29 maio 2021 at 04:06:04 BRT] - ::item 963 2147000000
+[29 maio 2021 at 04:09:27 BRT] - ::item 20771 1
+[29 maio 2021 at 04:11:35 BRT] - ::item 32153 1
+[29 maio 2021 at 04:17:38 BRT] - ::tele 3,72,85,20,22
+[29 maio 2021 at 04:17:43 BRT] - ::tele 3,72,85,17,22
+[29 maio 2021 at 04:18:18 BRT] - ::tele 3,73,85,18,36
+[29 maio 2021 at 04:19:35 BRT] - ::teleto manoel
+[29 maio 2021 at 04:21:54 BRT] - ::teleto manoel
+[29 maio 2021 at 04:22:23 BRT] - ::setlevel 0 12
+[29 maio 2021 at 04:23:43 BRT] - ::item 20172 2147000000
+[29 maio 2021 at 04:27:19 BRT] - ::tele 0,48,54,9,23
+[29 maio 2021 at 04:27:26 BRT] - ::tele 0,48,54,14,35
+[29 maio 2021 at 04:27:27 BRT] - ::tele 0,48,54,15,41
+[29 maio 2021 at 04:27:29 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:29 BRT] - ::tele 0,48,54,16,37
+[29 maio 2021 at 04:27:30 BRT] - ::tele 0,48,54,15,44
+[29 maio 2021 at 04:27:32 BRT] - ::tele 0,48,54,15,43
+[29 maio 2021 at 04:27:33 BRT] - ::tele 0,48,54,15,45
+[29 maio 2021 at 04:27:33 BRT] - ::tele 0,48,54,15,44
+[29 maio 2021 at 04:27:34 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:34 BRT] - ::tele 0,48,54,15,44
+[29 maio 2021 at 04:27:35 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:35 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:35 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:36 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:36 BRT] - ::tele 0,48,54,15,43
+[29 maio 2021 at 04:27:37 BRT] - ::tele 0,48,54,15,47
+[29 maio 2021 at 04:27:37 BRT] - ::tele 0,48,54,15,44
+[29 maio 2021 at 04:27:38 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:38 BRT] - ::tele 0,48,54,15,43
+[29 maio 2021 at 04:27:39 BRT] - ::tele 0,48,54,15,46
+[29 maio 2021 at 04:27:39 BRT] - ::tele 0,48,54,15,43
+[29 maio 2021 at 04:27:40 BRT] - ::tele 0,48,54,15,44
+[29 maio 2021 at 04:27:41 BRT] - ::tele 0,48,54,12,31
+[29 maio 2021 at 04:27:43 BRT] - ::tele 0,48,54,11,20
+[29 maio 2021 at 04:27:47 BRT] - ::teletome manoel
+[29 maio 2021 at 04:27:49 BRT] - ::tele 0,48,54,15,34
+[29 maio 2021 at 04:27:50 BRT] - ::tele 0,48,54,15,41
+[29 maio 2021 at 04:29:01 BRT] - ::god 
+[29 maio 2021 at 04:29:47 BRT] - ::god 
+[29 maio 2021 at 04:29:52 BRT] - ::god 
+[29 maio 2021 at 04:29:55 BRT] - ::tele 0,45,81,48,10
+[29 maio 2021 at 04:29:58 BRT] - ::tele 0,45,81,33,22
+[29 maio 2021 at 04:29:59 BRT] - ::tele 0,45,81,45,18
+[29 maio 2021 at 04:30:02 BRT] - ::tele 0,45,81,33,16
+[29 maio 2021 at 04:30:03 BRT] - ::tele 0,45,81,23,16
+[29 maio 2021 at 04:30:06 BRT] - ::tele 0,45,81,25,19
+[29 maio 2021 at 04:30:33 BRT] - ::god 
+[29 maio 2021 at 04:31:15 BRT] - ::item 892 2147123
+[29 maio 2021 at 04:33:35 BRT] - ::item 811 1
+[29 maio 2021 at 04:33:38 BRT] - ::item 911 123123
+[29 maio 2021 at 04:33:47 BRT] - ::item 811 123123
+[29 maio 2021 at 04:34:32 BRT] - ::tele 0,45,81,55,10
+[29 maio 2021 at 04:35:00 BRT] - ::tele 0,45,81,46,7
+[29 maio 2021 at 04:35:33 BRT] - ::tele 0,45,81,36,22
+[29 maio 2021 at 04:35:34 BRT] - ::tele 0,45,81,37,30
+[29 maio 2021 at 04:35:35 BRT] - ::tele 0,45,81,39,29
+[29 maio 2021 at 04:35:36 BRT] - ::tele 0,45,81,44,30
+[29 maio 2021 at 04:35:36 BRT] - ::tele 0,45,81,50,31
+[29 maio 2021 at 04:35:37 BRT] - ::tele 0,45,81,56,31
+[29 maio 2021 at 04:35:41 BRT] - ::tele 0,45,81,56,18
+[29 maio 2021 at 04:35:49 BRT] - ::tele 0,45,81,35,9
+[29 maio 2021 at 04:41:25 BRT] - ::teleto manoel
+[29 maio 2021 at 04:41:29 BRT] - ::kill manoel
+[29 maio 2021 at 04:41:42 BRT] - ::tele 0,48,54,22,37
+[29 maio 2021 at 04:41:53 BRT] - ::teleto manoel
+[29 maio 2021 at 04:43:48 BRT] - ::item 995 9123912
+[29 maio 2021 at 04:43:56 BRT] - ::item 995 123123
+[29 maio 2021 at 04:44:12 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:44:27 BRT] - ::item 995 123
+[29 maio 2021 at 04:44:31 BRT] - ::item 995 123123
+[29 maio 2021 at 04:44:39 BRT] - ::item 995 407k
+[29 maio 2021 at 04:44:46 BRT] - ::item 995 407000
+[29 maio 2021 at 04:45:41 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:45:51 BRT] - ::tele 0,48,54,13,62
+[29 maio 2021 at 04:45:52 BRT] - ::tele 0,48,55,12,8
+[29 maio 2021 at 04:45:52 BRT] - ::tele 0,48,55,12,19
+[29 maio 2021 at 04:45:55 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:46:02 BRT] - ::tele 0,48,55,12,4
+[29 maio 2021 at 04:46:03 BRT] - ::tele 0,48,54,12,53
+[29 maio 2021 at 04:46:04 BRT] - ::tele 0,48,54,14,48
+[29 maio 2021 at 04:46:19 BRT] - ::item 995 21470000000
+[29 maio 2021 at 04:47:03 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:48:16 BRT] - ::item 995 21470000000
+[29 maio 2021 at 04:48:23 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:48:48 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:48:59 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:49:06 BRT] - ::item 2147000000
+[29 maio 2021 at 04:49:12 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:49:46 BRT] - ::item 995 2147000000
+[29 maio 2021 at 04:50:42 BRT] - ::item 20711 1
+[29 maio 2021 at 04:51:04 BRT] - ::item 10732 1
+[29 maio 2021 at 04:51:25 BRT] - ::item 525 1
+[29 maio 2021 at 04:51:46 BRT] - ::item 4566 1
+[29 maio 2021 at 04:52:09 BRT] - ::item 30392 1
+[29 maio 2021 at 05:14:14 BRT] - ::teleto manoel
+[29 maio 2021 at 05:18:00 BRT] - ::tele 0,48,54,63,58
+[29 maio 2021 at 05:23:42 BRT] - ::item 995 2147000000
+[29 maio 2021 at 05:23:55 BRT] - ::teleto manoel
+[29 maio 2021 at 05:24:27 BRT] - ::hide 
+[29 maio 2021 at 05:24:30 BRT] - ::hide 
+[29 maio 2021 at 05:24:39 BRT] - ::hide 
+[29 maio 2021 at 05:24:40 BRT] - ::hide 
+[29 maio 2021 at 05:25:34 BRT] - ::npc 17011
+[29 maio 2021 at 05:25:40 BRT] - ::npc 15972
+[29 maio 2021 at 05:27:48 BRT] - ::tonpc 17077 1
+[29 maio 2021 at 05:28:00 BRT] - ::tonpc 15972
+[29 maio 2021 at 05:28:07 BRT] - ::tonpc 15972
+[29 maio 2021 at 05:28:12 BRT] - ::tonpc 0
+[29 maio 2021 at 05:28:29 BRT] - ::tonpc 10982
+[29 maio 2021 at 05:28:44 BRT] - ::tonpc 15208
+[29 maio 2021 at 05:29:04 BRT] - ::tonpc 14221
+[29 maio 2021 at 05:29:10 BRT] - ::tele 0,48,54,18,47
+[29 maio 2021 at 05:29:11 BRT] - ::tele 0,48,54,19,48
+[29 maio 2021 at 05:29:11 BRT] - ::tele 0,48,54,18,50
+[29 maio 2021 at 05:29:12 BRT] - ::tele 0,48,54,18,50
+[29 maio 2021 at 05:29:15 BRT] - ::tele 0,48,54,11,47
+[29 maio 2021 at 05:29:16 BRT] - ::tele 0,48,54,20,42
+[29 maio 2021 at 05:29:18 BRT] - ::tele 0,48,54,16,40
+[29 maio 2021 at 05:29:43 BRT] - ::tonpc 14497
+[29 maio 2021 at 05:29:56 BRT] - ::tonpc 833
+[29 maio 2021 at 05:30:03 BRT] - ::tonpc 8528
+[29 maio 2021 at 05:30:07 BRT] - ::tonpc 14499
+[29 maio 2021 at 05:30:35 BRT] - ::tonpc 2566
+[29 maio 2021 at 05:30:44 BRT] - ::tonpc 2253
+[29 maio 2021 at 05:30:53 BRT] - ::tonpc 2567
+[29 maio 2021 at 05:31:01 BRT] - ::tonpc 7090
+[29 maio 2021 at 05:31:08 BRT] - ::tonpc 3821
+[29 maio 2021 at 05:31:13 BRT] - ::tonpc 14576
+[29 maio 2021 at 05:32:03 BRT] - ::tonpc 3594
+[29 maio 2021 at 05:33:01 BRT] - ::tonpc 5455
+[29 maio 2021 at 05:33:51 BRT] - ::tonpc 2066
+[29 maio 2021 at 05:35:38 BRT] - ::tonpc 5993
+[29 maio 2021 at 05:35:49 BRT] - ::tele 0,48,54,16,62
+[29 maio 2021 at 05:35:50 BRT] - ::tele 0,48,54,15,61
+[29 maio 2021 at 05:35:50 BRT] - ::tele 0,48,54,15,60
+[29 maio 2021 at 05:35:50 BRT] - ::tele 0,48,55,14,12
+[29 maio 2021 at 05:35:50 BRT] - ::tele 0,48,55,14,12
+[29 maio 2021 at 05:35:50 BRT] - ::tele 0,48,55,14,12
+[29 maio 2021 at 05:35:51 BRT] - ::tele 0,48,55,13,27
+[29 maio 2021 at 05:35:51 BRT] - ::tele 0,48,55,14,27
+[29 maio 2021 at 05:37:05 BRT] - ::tele 0,48,55,27,12
+[29 maio 2021 at 05:37:06 BRT] - ::tele 0,48,55,32,1
+[29 maio 2021 at 05:37:06 BRT] - ::tele 0,48,55,32,0
+[29 maio 2021 at 05:37:07 BRT] - ::tele 0,48,54,34,51
+[29 maio 2021 at 05:37:09 BRT] - ::tele 0,48,54,18,48
+[29 maio 2021 at 05:37:20 BRT] - ::teleto manoel
+[29 maio 2021 at 05:38:37 BRT] - ::tonpc 3594
+[29 maio 2021 at 05:38:51 BRT] - ::teleto manoel
+[29 maio 2021 at 05:45:08 BRT] - ::teleto manoel
+[29 maio 2021 at 05:48:16 BRT] - ::tonpc -1
+[29 maio 2021 at 05:48:24 BRT] - ::tonpc 2147
+[29 maio 2021 at 05:49:33 BRT] - ::teleto manoel
+[29 maio 2021 at 05:49:37 BRT] - ::tele 0,44,80,44,22
+[29 maio 2021 at 05:49:40 BRT] - ::tele 0,44,80,44,21
+[29 maio 2021 at 05:49:41 BRT] - ::tele 0,44,80,46,21
+[29 maio 2021 at 05:49:43 BRT] - ::tele 0,44,80,40,4
+[29 maio 2021 at 05:49:44 BRT] - ::tele 0,44,79,39,63
+[29 maio 2021 at 05:49:46 BRT] - ::tele 0,44,79,36,55
+[29 maio 2021 at 05:49:47 BRT] - ::tele 0,44,79,35,50
+[29 maio 2021 at 05:49:48 BRT] - ::tele 0,44,79,34,41
+[29 maio 2021 at 05:49:51 BRT] - ::tele 0,44,79,31,26
+[29 maio 2021 at 05:49:52 BRT] - ::tele 0,44,79,27,9
+[29 maio 2021 at 05:49:53 BRT] - ::tele 0,44,79,30,11
+[29 maio 2021 at 05:49:54 BRT] - ::tele 0,44,79,29,19
+[29 maio 2021 at 05:49:55 BRT] - ::tele 0,44,79,31,22
+[29 maio 2021 at 05:50:10 BRT] - ::tele 0,44,79,28,35
+[29 maio 2021 at 05:50:21 BRT] - ::teleto manoel
+[29 maio 2021 at 05:50:23 BRT] - ::tele 0,44,80,35,25
+[29 maio 2021 at 05:50:23 BRT] - ::tele 0,44,80,35,25
+[29 maio 2021 at 05:50:25 BRT] - ::tele 0,44,80,38,13
+[29 maio 2021 at 05:50:25 BRT] - ::tele 0,44,80,38,13
+[29 maio 2021 at 05:50:26 BRT] - ::tele 0,44,80,42,12
+[29 maio 2021 at 05:50:26 BRT] - ::tele 0,44,80,43,17
+[29 maio 2021 at 05:50:27 BRT] - ::tele 0,44,80,44,22
+[29 maio 2021 at 05:50:28 BRT] - ::tele 0,44,80,45,16
+[29 maio 2021 at 05:50:30 BRT] - ::tele 0,44,80,45,11
+[29 maio 2021 at 05:50:30 BRT] - ::tele 0,44,80,44,5
+[29 maio 2021 at 05:50:30 BRT] - ::tele 0,44,79,44,63
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,63
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,63
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,63
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,58
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,58
+[29 maio 2021 at 05:50:31 BRT] - ::tele 0,44,79,44,58
+[29 maio 2021 at 05:50:32 BRT] - ::tele 0,44,79,44,52
+[29 maio 2021 at 05:50:33 BRT] - ::tele 0,44,79,44,47
+[29 maio 2021 at 05:50:34 BRT] - ::tele 0,44,79,44,42
+[29 maio 2021 at 05:50:35 BRT] - ::tele 0,44,79,43,35
+[29 maio 2021 at 05:50:36 BRT] - ::tele 0,44,79,36,30
+[29 maio 2021 at 05:50:38 BRT] - ::tele 0,44,79,33,28
+[29 maio 2021 at 05:50:39 BRT] - ::tele 0,44,79,34,16
+[29 maio 2021 at 05:50:39 BRT] - ::tele 0,44,79,32,14
+[29 maio 2021 at 05:50:41 BRT] - ::tele 0,44,79,31,6
+[29 maio 2021 at 05:50:43 BRT] - ::tele 0,44,79,31,10
+[29 maio 2021 at 05:50:43 BRT] - ::tele 0,44,79,31,10
+[29 maio 2021 at 05:50:43 BRT] - ::tele 0,44,79,31,11
+[29 maio 2021 at 05:50:43 BRT] - ::tele 0,44,79,31,15
+[29 maio 2021 at 05:50:43 BRT] - ::tele 0,44,79,31,15
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,31,15
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,31,19
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,32,19
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,32,19
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,32,19
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,33,24
+[29 maio 2021 at 05:50:44 BRT] - ::tele 0,44,79,33,24
+[29 maio 2021 at 05:50:45 BRT] - ::tele 0,44,79,38,37
+[29 maio 2021 at 05:50:46 BRT] - ::tele 0,44,79,38,37
+[29 maio 2021 at 05:50:47 BRT] - ::tele 0,44,79,43,50
+[29 maio 2021 at 05:50:48 BRT] - ::tele 0,44,79,48,63
+[29 maio 2021 at 05:50:48 BRT] - ::tele 0,44,80,53,12
+[29 maio 2021 at 05:50:49 BRT] - ::tele 0,44,80,48,22
+[29 maio 2021 at 05:50:51 BRT] - ::tele 0,44,80,48,8
+[29 maio 2021 at 05:50:51 BRT] - ::tele 0,44,80,48,8
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,48,62
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,48,62
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,48,62
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,48,62
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,47,49
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,47,49
+[29 maio 2021 at 05:50:52 BRT] - ::tele 0,44,79,47,50
+[29 maio 2021 at 05:50:53 BRT] - ::tele 0,44,79,47,51
+[29 maio 2021 at 05:50:54 BRT] - ::tele 0,44,79,46,39
+[29 maio 2021 at 05:50:55 BRT] - ::tele 0,44,79,41,34
+[29 maio 2021 at 05:50:56 BRT] - ::tele 0,44,79,33,29
+[29 maio 2021 at 05:50:57 BRT] - ::tele 0,44,79,31,26
+[29 maio 2021 at 05:50:58 BRT] - ::tele 0,44,79,31,19
+[29 maio 2021 at 05:51:02 BRT] - ::tele 0,44,79,30,30
+[29 maio 2021 at 05:51:04 BRT] - ::tele 0,44,79,30,35
+[29 maio 2021 at 05:51:25 BRT] - ::tele 0,44,79,18,43
+[29 maio 2021 at 05:51:43 BRT] - ::tele 0,44,79,17,54
+[29 maio 2021 at 05:51:43 BRT] - ::tele 0,44,80,15,2
+[29 maio 2021 at 05:51:44 BRT] - ::tele 0,44,80,15,2
+[29 maio 2021 at 05:51:44 BRT] - ::tele 0,44,80,13,14
+[29 maio 2021 at 05:51:44 BRT] - ::tele 0,44,80,13,14
+[29 maio 2021 at 05:51:44 BRT] - ::tele 0,44,80,13,14
+[29 maio 2021 at 05:51:44 BRT] - ::tele 0,44,80,11,25
+[29 maio 2021 at 05:51:45 BRT] - ::tele 0,44,80,11,25
+[29 maio 2021 at 05:51:45 BRT] - ::tele 0,44,80,11,25
+[29 maio 2021 at 05:51:45 BRT] - ::tele 0,44,80,11,25
+[29 maio 2021 at 05:51:45 BRT] - ::tele 0,44,80,9,36
+[29 maio 2021 at 05:51:45 BRT] - ::tele 0,44,80,9,36
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,9,36
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,7,46
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,7,46
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,8,46
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,7,57
+[29 maio 2021 at 05:51:46 BRT] - ::tele 0,44,80,7,57
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,80,7,57
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,80,7,57
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,81,6,1
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,81,6,1
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,81,6,1
+[29 maio 2021 at 05:51:47 BRT] - ::tele 0,44,81,5,13
+[29 maio 2021 at 05:51:48 BRT] - ::tele 0,44,81,5,13
+[29 maio 2021 at 05:51:49 BRT] - ::tele 0,44,81,3,3
+[29 maio 2021 at 05:51:49 BRT] - ::tele 0,44,80,1,57
+[29 maio 2021 at 05:51:50 BRT] - ::tele 0,44,80,1,57
+[29 maio 2021 at 05:51:50 BRT] - ::tele 0,43,80,63,47
+[29 maio 2021 at 05:51:51 BRT] - ::tele 0,43,80,52,50
+[29 maio 2021 at 05:51:52 BRT] - ::tele 0,43,80,41,53
+[29 maio 2021 at 05:51:53 BRT] - ::tele 0,43,80,48,46
+[29 maio 2021 at 05:52:17 BRT] - ::tele 0,43,80,48,52
+[29 maio 2021 at 05:52:19 BRT] - ::tele 0,43,80,49,46
+[29 maio 2021 at 05:52:36 BRT] - ::tele 1,43,80,47,44
+[29 maio 2021 at 05:52:41 BRT] - ::teleto manoel
+[29 maio 2021 at 05:52:46 BRT] - ::tele 0,44,79,21,51
+[29 maio 2021 at 05:52:47 BRT] - ::tele 0,44,79,23,61
+[29 maio 2021 at 05:52:47 BRT] - ::tele 0,44,80,23,10
+[29 maio 2021 at 05:52:48 BRT] - ::tele 0,44,80,25,20
+[29 maio 2021 at 05:52:49 BRT] - ::tele 0,44,80,27,29
+[29 maio 2021 at 05:52:50 BRT] - ::tele 0,48,54,7,55
+[29 maio 2021 at 05:52:50 BRT] - ::tele 0,48,54,6,54
+[29 maio 2021 at 05:52:54 BRT] - ::teleto manoel
+[29 maio 2021 at 05:52:56 BRT] - ::tele 0,44,80,25,12
+[29 maio 2021 at 05:52:56 BRT] - ::tele 0,44,80,25,14
+[29 maio 2021 at 05:52:56 BRT] - ::tele 0,44,80,24,14
+[29 maio 2021 at 05:52:56 BRT] - ::tele 0,44,80,21,24
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,20,24
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,18,24
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,14,34
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,14,34
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,16,35
+[29 maio 2021 at 05:52:57 BRT] - ::tele 0,44,80,11,44
+[29 maio 2021 at 05:52:58 BRT] - ::tele 0,44,80,11,45
+[29 maio 2021 at 05:52:58 BRT] - ::tele 0,44,80,11,45
+[29 maio 2021 at 05:52:58 BRT] - ::tele 0,44,80,8,55
+[29 maio 2021 at 05:52:58 BRT] - ::tele 0,44,80,9,56
+[29 maio 2021 at 05:52:58 BRT] - ::tele 0,44,80,11,57
+[29 maio 2021 at 05:52:59 BRT] - ::tele 0,44,81,10,2
+[29 maio 2021 at 05:52:59 BRT] - ::tele 0,44,81,10,2
+[29 maio 2021 at 05:52:59 BRT] - ::tele 0,44,81,10,2
+[29 maio 2021 at 05:52:59 BRT] - ::tele 0,44,81,11,16
+[29 maio 2021 at 05:52:59 BRT] - ::tele 0,44,81,11,16
+[29 maio 2021 at 05:53:00 BRT] - ::tele 0,44,81,9,3
+[29 maio 2021 at 05:53:00 BRT] - ::tele 0,44,81,9,4
+[29 maio 2021 at 05:53:00 BRT] - ::tele 0,44,80,7,54
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,7,54
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,7,54
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,7,54
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,5,41
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,6,41
+[29 maio 2021 at 05:53:01 BRT] - ::tele 0,44,80,6,41
+[29 maio 2021 at 05:53:03 BRT] - ::tele 0,43,80,52,47
+[29 maio 2021 at 05:53:04 BRT] - ::tele 0,44,80,0,46
+[29 maio 2021 at 05:53:08 BRT] - ::tele 0,43,80,50,45
+[29 maio 2021 at 05:53:17 BRT] - ::tele 0,43,80,46,30
+[29 maio 2021 at 05:53:19 BRT] - ::tele 0,43,80,42,15
+[29 maio 2021 at 05:53:19 BRT] - ::tele 0,43,80,42,15
+[29 maio 2021 at 05:53:19 BRT] - ::tele 0,43,80,38,0
+[29 maio 2021 at 05:53:19 BRT] - ::tele 0,43,80,38,0
+[29 maio 2021 at 05:53:20 BRT] - ::tele 0,43,80,38,0
+[29 maio 2021 at 05:53:20 BRT] - ::tele 0,43,79,34,49
+[29 maio 2021 at 05:53:20 BRT] - ::tele 0,43,79,34,49
+[29 maio 2021 at 05:53:21 BRT] - ::tele 0,43,79,30,34
+[29 maio 2021 at 05:53:21 BRT] - ::tele 0,43,79,26,19
+[29 maio 2021 at 05:53:21 BRT] - ::tele 0,43,79,26,19
+[29 maio 2021 at 05:53:21 BRT] - ::tele 0,43,79,26,19
+[29 maio 2021 at 05:53:21 BRT] - ::tele 0,43,79,26,19
+[29 maio 2021 at 05:53:22 BRT] - ::tele 0,43,79,22,4
+[29 maio 2021 at 05:53:23 BRT] - ::tele 0,43,78,27,58
+[29 maio 2021 at 05:53:23 BRT] - ::tele 0,43,78,27,58
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,27,58
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,27,58
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,32,48
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,32,48
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,32,48
+[29 maio 2021 at 05:53:24 BRT] - ::tele 0,43,78,32,48
+[29 maio 2021 at 05:53:25 BRT] - ::tele 0,43,78,37,38
+[29 maio 2021 at 05:53:25 BRT] - ::tele 0,43,78,37,38
+[29 maio 2021 at 05:53:25 BRT] - ::tele 0,43,78,37,38
+[29 maio 2021 at 05:53:25 BRT] - ::tele 0,43,77,43,55
+[29 maio 2021 at 05:53:26 BRT] - ::tele 0,43,77,49,46
+[29 maio 2021 at 05:53:26 BRT] - ::tele 0,43,77,49,44
+[29 maio 2021 at 05:53:29 BRT] - ::tele 0,43,77,37,37
+[29 maio 2021 at 05:53:30 BRT] - ::tele 0,43,77,24,29
+[29 maio 2021 at 05:53:31 BRT] - ::tele 0,43,77,11,22
+[29 maio 2021 at 05:53:32 BRT] - ::tele 0,43,77,21,17
+[29 maio 2021 at 05:53:33 BRT] - ::tele 0,43,77,15,10
+[29 maio 2021 at 05:53:34 BRT] - ::tele 0,43,77,6,8
+[29 maio 2021 at 05:53:34 BRT] - ::tele 0,43,77,6,5
+[29 maio 2021 at 05:53:34 BRT] - ::tele 0,43,77,6,3
+[29 maio 2021 at 05:53:34 BRT] - ::tele 0,43,77,7,2
+[29 maio 2021 at 05:53:35 BRT] - ::tele 0,43,77,6,2
+[29 maio 2021 at 05:53:35 BRT] - ::tele 0,42,76,61,57
+[29 maio 2021 at 05:53:35 BRT] - ::tele 0,42,76,48,61
+[29 maio 2021 at 05:53:41 BRT] - ::tele 0,42,76,42,44
+[29 maio 2021 at 05:53:43 BRT] - ::tele 0,42,76,34,37
+[29 maio 2021 at 05:53:44 BRT] - ::tele 0,42,76,26,30
+[29 maio 2021 at 05:53:45 BRT] - ::tele 0,42,76,22,21
+[29 maio 2021 at 05:53:45 BRT] - ::tele 0,42,76,23,21
+[29 maio 2021 at 05:53:45 BRT] - ::tele 0,42,76,19,13
+[29 maio 2021 at 05:53:45 BRT] - ::tele 0,42,76,18,13
+[29 maio 2021 at 05:53:45 BRT] - ::tele 0,42,76,18,13
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,76,14,5
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,76,14,5
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,76,14,5
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,76,14,5
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,75,10,63
+[29 maio 2021 at 05:53:46 BRT] - ::tele 0,42,75,10,63
+[29 maio 2021 at 05:53:47 BRT] - ::tele 0,42,75,10,63
+[29 maio 2021 at 05:53:47 BRT] - ::tele 0,42,75,5,55
+[29 maio 2021 at 05:53:47 BRT] - ::tele 0,42,75,5,55
+[29 maio 2021 at 05:53:47 BRT] - ::tele 0,42,75,5,55
+[29 maio 2021 at 05:53:47 BRT] - ::tele 0,42,75,1,47
+[29 maio 2021 at 05:53:49 BRT] - ::tele 0,41,75,60,38
+[29 maio 2021 at 05:53:49 BRT] - ::tele 0,41,75,60,38
+[29 maio 2021 at 05:53:51 BRT] - ::tele 0,41,75,51,28
+[29 maio 2021 at 05:53:51 BRT] - ::tele 0,41,75,51,28
+[29 maio 2021 at 05:53:52 BRT] - ::tele 0,41,75,42,25
+[29 maio 2021 at 05:53:53 BRT] - ::tele 0,41,75,29,23
+[29 maio 2021 at 05:53:53 BRT] - ::tele 0,41,75,17,25
+[29 maio 2021 at 05:53:55 BRT] - ::tele 0,41,75,24,29
+[29 maio 2021 at 05:54:09 BRT] - ::teleto manoel
+[29 maio 2021 at 05:54:11 BRT] - ::tele 0,44,80,28,21
+[29 maio 2021 at 05:54:13 BRT] - ::tele 0,44,80,30,33
+[31 maio 2021 at 03:35:59 BRT] - ::item 21512 1
+[01 junho 2021 at 07:06:44 BRT] - ::tele 0,48,54,17,38
+[01 junho 2021 at 07:06:44 BRT] - ::tele 0,48,54,17,38
+[01 junho 2021 at 07:06:46 BRT] - ::god 
+[01 junho 2021 at 07:06:47 BRT] - ::tele 0,48,54,16,41
+[01 junho 2021 at 07:06:48 BRT] - ::tele 0,48,54,13,41
+[03 junho 2021 at 06:14:42 BRT] - ::teleto kaway
+[03 junho 2021 at 06:15:31 BRT] - ::giveitem kaway 23677 1
+[03 junho 2021 at 06:16:11 BRT] - ::giveitem kaway 10348 1
+[03 junho 2021 at 06:16:18 BRT] - ::giveitem kaway 10346 1
+[03 junho 2021 at 06:16:35 BRT] - ::giveitem kaway 13551 1
+[03 junho 2021 at 06:16:56 BRT] - ::giveitem kaway 21787 1
+[03 junho 2021 at 06:17:14 BRT] - ::giveitem kaway 22358 1
+[03 junho 2021 at 06:17:36 BRT] - ::giveitem kaway 20771 1
+[03 junho 2021 at 06:17:52 BRT] - ::giveitem kaway 23671 1
+[03 junho 2021 at 06:19:17 BRT] - ::giveitem kaway 29102 1
+[03 junho 2021 at 06:19:27 BRT] - ::giveitem kaway 23892 1
+[03 junho 2021 at 06:19:32 BRT] - ::item 23892 1
+[03 junho 2021 at 07:06:15 BRT] - ::tele 0,52,44,6,10
+[03 junho 2021 at 07:06:15 BRT] - ::tele 0,52,44,4,10
+[03 junho 2021 at 07:06:16 BRT] - ::tele 0,52,44,6,10
+[03 junho 2021 at 07:06:17 BRT] - ::tele 0,52,44,6,10
+[03 junho 2021 at 07:06:24 BRT] - ::tele 0,52,44,8,10
+[03 junho 2021 at 07:06:41 BRT] - ::tele 0,52,44,8,9
+[03 junho 2021 at 07:06:55 BRT] - ::tele 0,52,44,6,7
+[03 junho 2021 at 07:07:08 BRT] - ::tele 0,52,44,4,7
+[03 junho 2021 at 07:07:09 BRT] - ::tele 0,52,44,6,9
+[03 junho 2021 at 07:07:10 BRT] - ::tele 0,52,44,5,12
+[03 junho 2021 at 07:07:11 BRT] - ::tele 0,52,44,6,7
+[03 junho 2021 at 07:07:13 BRT] - ::tele 0,52,44,6,11
+[03 junho 2021 at 07:07:13 BRT] - ::tele 0,52,44,7,4
+[03 junho 2021 at 07:07:14 BRT] - ::tele 0,52,44,7,6
+[03 junho 2021 at 07:07:16 BRT] - ::tele 0,52,44,5,11
+[03 junho 2021 at 07:07:17 BRT] - ::tele 0,52,44,6,5
+[03 junho 2021 at 07:07:19 BRT] - ::tele 0,52,44,5,11
+[03 junho 2021 at 07:07:20 BRT] - ::tele 0,52,44,4,14
+[03 junho 2021 at 07:07:21 BRT] - ::tele 0,52,44,5,12
+[03 junho 2021 at 07:07:22 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:23 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:25 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:26 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:27 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:28 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:29 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:30 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:32 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:33 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:34 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:35 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:36 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:38 BRT] - ::tele 0,52,44,4,13
+[03 junho 2021 at 07:07:39 BRT] - ::tele 0,52,44,4,14
+[03 junho 2021 at 07:07:40 BRT] - ::tele 0,52,44,5,14
+[03 junho 2021 at 07:07:52 BRT] - ::teleto kaway
+[03 junho 2021 at 07:08:12 BRT] - ::tele 0,39,56,26,14
+[03 junho 2021 at 07:08:45 BRT] - ::teleto kaway
+[03 junho 2021 at 07:08:59 BRT] - ::teleto kaway
+[03 junho 2021 at 07:09:47 BRT] - ::tele 0,40,56,28,22
+[03 junho 2021 at 07:09:51 BRT] - ::tele 0,40,56,40,24
+[03 junho 2021 at 07:09:51 BRT] - ::tele 0,40,56,48,23
+[03 junho 2021 at 07:09:52 BRT] - ::tele 0,40,56,45,26
+[03 junho 2021 at 07:09:52 BRT] - ::tele 0,40,56,50,27
+[03 junho 2021 at 07:09:52 BRT] - ::tele 0,40,56,50,27
+[03 junho 2021 at 07:09:52 BRT] - ::tele 0,40,56,50,26
+[03 junho 2021 at 07:09:53 BRT] - ::tele 0,40,56,50,26
+[03 junho 2021 at 07:09:53 BRT] - ::tele 0,40,56,55,28
+[03 junho 2021 at 07:09:53 BRT] - ::tele 0,40,56,55,28
+[03 junho 2021 at 07:09:53 BRT] - ::tele 0,40,56,55,27
+[03 junho 2021 at 07:09:53 BRT] - ::tele 0,40,56,61,28
+[03 junho 2021 at 07:09:56 BRT] - ::tele 0,40,56,62,30
+[03 junho 2021 at 07:09:56 BRT] - ::tele 0,40,56,62,30
+[03 junho 2021 at 07:09:56 BRT] - ::tele 0,40,56,62,30
+[03 junho 2021 at 07:09:56 BRT] - ::tele 0,40,56,62,30
+[03 junho 2021 at 07:09:57 BRT] - ::tele 0,41,56,1,38
+[03 junho 2021 at 07:09:57 BRT] - ::tele 0,41,56,2,39
+[03 junho 2021 at 07:09:57 BRT] - ::tele 0,41,56,2,39
+[03 junho 2021 at 07:09:57 BRT] - ::tele 0,41,56,1,39
+[03 junho 2021 at 07:09:57 BRT] - ::tele 0,41,56,5,47
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,7,45
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,7,45
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,7,45
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,12,51
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,12,50
+[03 junho 2021 at 07:09:58 BRT] - ::tele 0,41,56,12,49
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,12,49
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,17,53
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,17,53
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,17,53
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,17,54
+[03 junho 2021 at 07:09:59 BRT] - ::tele 0,41,56,22,58
+[03 junho 2021 at 07:10:00 BRT] - ::tele 0,41,57,20,4
+[03 junho 2021 at 07:10:00 BRT] - ::tele 0,41,57,19,17
+[03 junho 2021 at 07:10:02 BRT] - ::tele 0,41,57,20,27
+[03 junho 2021 at 07:10:02 BRT] - ::tele 0,41,57,20,27
+[03 junho 2021 at 07:10:02 BRT] - ::tele 0,41,57,20,27
+[03 junho 2021 at 07:10:02 BRT] - ::tele 0,41,57,20,27
+[03 junho 2021 at 07:10:03 BRT] - ::tele 0,41,57,21,37
+[03 junho 2021 at 07:10:04 BRT] - ::tele 0,41,57,17,48
+[03 junho 2021 at 07:10:13 BRT] - ::teletome kaway
+[03 junho 2021 at 07:10:15 BRT] - ::teleto kaway
+[03 junho 2021 at 07:12:23 BRT] - ::teleto kaway
+[03 junho 2021 at 07:12:30 BRT] - ::teleto kaway
+[03 junho 2021 at 07:12:44 BRT] - ::teleto kaway
+[03 junho 2021 at 07:13:03 BRT] - ::tele 0,49,54,6,51
+[03 junho 2021 at 07:13:14 BRT] - ::teleto kaway
+[03 junho 2021 at 07:13:25 BRT] - ::teleto kaway
+[03 junho 2021 at 07:33:45 BRT] - ::teleto kaway
+[03 junho 2021 at 07:55:58 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:05 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:16 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:18 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:20 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:22 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:24 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:26 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:29 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:41 BRT] - ::teleto kaway
+[03 junho 2021 at 07:56:47 BRT] - ::teleto kaway
+[03 junho 2021 at 10:58:13 BRT] - ::teleto kaway
+[03 junho 2021 at 10:58:48 BRT] - ::god 
+[05 junho 2021 at 01:58:11 BRT] - ::god 
+[22 junho 2021 at 07:55:00 BRT] - ::hide 
+[22 junho 2021 at 07:55:02 BRT] - ::hide 
+[22 junho 2021 at 07:55:09 BRT] - ::god 
+[22 junho 2021 at 07:58:22 BRT] - ::heal 
+[22 junho 2021 at 08:00:13 BRT] - ::heal 
+[22 junho 2021 at 08:00:17 BRT] - ::heal 
+[22 junho 2021 at 08:00:22 BRT] - ::heal 
+[22 junho 2021 at 08:00:50 BRT] - ::heal 
+[22 junho 2021 at 08:01:23 BRT] - ::heal 
+[22 junho 2021 at 08:01:28 BRT] - ::heal 
+[22 junho 2021 at 08:01:31 BRT] - ::heal 
+[22 junho 2021 at 08:01:35 BRT] - ::heal 
+[22 junho 2021 at 08:01:49 BRT] - ::heal 
+[22 junho 2021 at 08:01:53 BRT] - ::heal 
+[22 junho 2021 at 08:02:01 BRT] - ::heal 
+[22 junho 2021 at 08:02:07 BRT] - ::heal 
+[22 junho 2021 at 08:02:11 BRT] - ::heal 
+[22 junho 2021 at 08:02:19 BRT] - ::heal 
+[22 junho 2021 at 08:02:23 BRT] - ::heal 
+[22 junho 2021 at 08:02:24 BRT] - ::heal 
+[22 junho 2021 at 08:02:28 BRT] - ::heal 
+[22 junho 2021 at 08:02:29 BRT] - ::heal 
+[22 junho 2021 at 08:02:32 BRT] - ::heal 
+[22 junho 2021 at 08:02:36 BRT] - ::god 
+[22 junho 2021 at 08:02:37 BRT] - ::heal 
+[22 junho 2021 at 08:02:42 BRT] - ::heal 
+[22 junho 2021 at 08:02:46 BRT] - ::heal 
+[22 junho 2021 at 08:02:49 BRT] - ::heal 
+[22 junho 2021 at 08:02:53 BRT] - ::heal 
+[22 junho 2021 at 08:02:57 BRT] - ::heal 
+[22 junho 2021 at 08:03:02 BRT] - ::heal 
+[22 junho 2021 at 08:03:12 BRT] - ::heal 
+[22 junho 2021 at 08:03:16 BRT] - ::heal 
+[22 junho 2021 at 08:03:22 BRT] - ::heal 
+[22 junho 2021 at 08:03:40 BRT] - ::item 23531
+[22 junho 2021 at 08:03:45 BRT] - ::heal 
+[22 junho 2021 at 08:03:46 BRT] - ::heal 
+[22 junho 2021 at 08:03:48 BRT] - ::heal 
+[22 junho 2021 at 08:03:49 BRT] - ::heal 
+[22 junho 2021 at 08:03:50 BRT] - ::heal 
+[22 junho 2021 at 08:03:57 BRT] - ::heal 
+[22 junho 2021 at 08:04:00 BRT] - ::heal 
+[22 junho 2021 at 08:04:04 BRT] - ::heal 
+[22 junho 2021 at 08:04:09 BRT] - ::heal 
+[22 junho 2021 at 08:04:13 BRT] - ::heal 
+[22 junho 2021 at 08:04:15 BRT] - ::heal 
+[22 junho 2021 at 08:04:17 BRT] - ::heal 
+[22 junho 2021 at 08:04:21 BRT] - ::heal 
+[22 junho 2021 at 08:04:30 BRT] - ::heal 
+[22 junho 2021 at 08:05:37 BRT] - ::heal 
+[22 junho 2021 at 08:05:42 BRT] - ::heal 
+[22 junho 2021 at 08:05:50 BRT] - ::heal 
+[22 junho 2021 at 08:05:53 BRT] - ::heal 
+[22 junho 2021 at 08:05:57 BRT] - ::heal 
+[22 junho 2021 at 08:06:02 BRT] - ::heal 
+[22 junho 2021 at 08:06:06 BRT] - ::heal 
+[22 junho 2021 at 08:06:12 BRT] - ::heal 
+[22 junho 2021 at 08:06:15 BRT] - ::heal 
+[22 junho 2021 at 08:06:20 BRT] - ::heal 
+[22 junho 2021 at 08:06:25 BRT] - ::heal 
+[22 junho 2021 at 08:06:28 BRT] - ::heal 
+[22 junho 2021 at 08:06:33 BRT] - ::heal 
+[22 junho 2021 at 08:06:36 BRT] - ::heal 
+[22 junho 2021 at 08:06:41 BRT] - ::heal 
+[22 junho 2021 at 08:06:45 BRT] - ::heal 
+[22 junho 2021 at 08:06:49 BRT] - ::heal 
+[22 junho 2021 at 08:06:54 BRT] - ::heal 
+[22 junho 2021 at 08:06:57 BRT] - ::heal 
+[22 junho 2021 at 08:07:02 BRT] - ::heal 
+[22 junho 2021 at 08:07:06 BRT] - ::heal 
+[22 junho 2021 at 08:07:34 BRT] - ::heal 
+[22 junho 2021 at 08:08:07 BRT] - ::heal 
+[22 junho 2021 at 08:08:11 BRT] - ::heal 
+[22 junho 2021 at 08:08:16 BRT] - ::heal 
+[22 junho 2021 at 08:08:19 BRT] - ::heal 
+[22 junho 2021 at 08:08:23 BRT] - ::heal 
+[22 junho 2021 at 08:08:25 BRT] - ::heal 
+[22 junho 2021 at 08:08:26 BRT] - ::heal 
+[22 junho 2021 at 08:08:28 BRT] - ::heal 
+[22 junho 2021 at 08:08:31 BRT] - ::heal 
+[22 junho 2021 at 08:08:33 BRT] - ::heal 
+[22 junho 2021 at 08:08:36 BRT] - ::heal 
+[22 junho 2021 at 08:08:38 BRT] - ::heal 
+[22 junho 2021 at 08:08:41 BRT] - ::heal 
+[22 junho 2021 at 08:08:42 BRT] - ::heal 
+[22 junho 2021 at 08:08:47 BRT] - ::heal 
+[22 junho 2021 at 08:09:05 BRT] - ::heal 
+[22 junho 2021 at 08:09:07 BRT] - ::heal 
+[22 junho 2021 at 08:09:08 BRT] - ::heal 
+[22 junho 2021 at 08:09:10 BRT] - ::heal 
+[22 junho 2021 at 08:09:14 BRT] - ::heal 
+[22 junho 2021 at 08:09:18 BRT] - ::heal 
+[22 junho 2021 at 08:09:23 BRT] - ::heal 
+[22 junho 2021 at 08:09:28 BRT] - ::heal 
+[22 junho 2021 at 08:09:33 BRT] - ::heal 
+[22 junho 2021 at 08:09:41 BRT] - ::heal 
+[22 junho 2021 at 08:09:47 BRT] - ::heal 
+[22 junho 2021 at 08:09:49 BRT] - ::heal 
+[22 junho 2021 at 08:09:53 BRT] - ::heal 
+[22 junho 2021 at 08:09:57 BRT] - ::heal 
+[22 junho 2021 at 08:10:02 BRT] - ::heal 
+[22 junho 2021 at 08:10:07 BRT] - ::heal 
+[22 junho 2021 at 08:10:11 BRT] - ::heal 
+[22 junho 2021 at 08:10:14 BRT] - ::heal 
+[22 junho 2021 at 08:10:24 BRT] - ::heal 
+[22 junho 2021 at 08:10:37 BRT] - ::item 21787 1
+[22 junho 2021 at 08:11:12 BRT] - ::heal 
+[22 junho 2021 at 08:11:15 BRT] - ::heal 
+[22 junho 2021 at 08:11:19 BRT] - ::heal 
+[22 junho 2021 at 08:11:23 BRT] - ::heal 
+[22 junho 2021 at 08:11:27 BRT] - ::heal 
+[22 junho 2021 at 08:11:31 BRT] - ::heal 
+[22 junho 2021 at 08:11:34 BRT] - ::heal 
+[22 junho 2021 at 08:11:36 BRT] - ::heal 
+[22 junho 2021 at 08:11:40 BRT] - ::heal 
+[22 junho 2021 at 08:11:44 BRT] - ::heal 
+[22 junho 2021 at 08:11:51 BRT] - ::heal 
+[22 junho 2021 at 08:11:53 BRT] - ::heal 
+[22 junho 2021 at 08:11:58 BRT] - ::heal 
+[22 junho 2021 at 08:12:03 BRT] - ::heal 
+[22 junho 2021 at 08:12:06 BRT] - ::heal 
+[22 junho 2021 at 08:12:15 BRT] - ::heal 
+[22 junho 2021 at 08:12:20 BRT] - ::heal 
+[22 junho 2021 at 08:12:31 BRT] - ::heal 
+[22 junho 2021 at 08:12:33 BRT] - ::heal 
+[22 junho 2021 at 08:12:42 BRT] - ::heal 
+[22 junho 2021 at 08:12:50 BRT] - ::heal 
+[22 junho 2021 at 08:12:54 BRT] - ::heal 
+[22 junho 2021 at 08:13:04 BRT] - ::heal 
+[22 junho 2021 at 08:13:07 BRT] - ::heal 
+[22 junho 2021 at 08:13:12 BRT] - ::heal 
+[22 junho 2021 at 08:13:34 BRT] - ::heal 
+[22 junho 2021 at 08:14:26 BRT] - ::heal 
+[22 junho 2021 at 08:15:23 BRT] - ::heal 

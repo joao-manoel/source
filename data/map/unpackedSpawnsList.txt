@@ -1,0 +1,80 @@
+//use: Object type rotation - x y plane boolean clip
+//vexi
+41012 10 0 - 2981 3299 0 true
+41012 10 0 - 2981 3293 0 true
+//see text file below
+5085 10 0 - 3090 3520 0 true
+//rune essence mine portals
+7272 10 0 - 2890 4812 0 true
+7272 10 0 - 2914 4832 0 true
+7272 10 0 - 2893 4842 0 true
+7272 10 0 - 2930 4854 0 true
+7272 10 0 - 2923 4818 0 true
+//Tin ore rocks spawned by manoel
+11934 10 0 - 3080 3417 0 true
+//Tin ore rocks spawned by manoel
+11934 10 0 - 3081 3417 0 true
+//null spawned by manoel
+0 10 0 - 3082 3495 0 true
+//null spawned by manoel
+0 10 0 - 3082 3496 0 true
+//Anvil spawned by manoel
+2783 10 0 - 3109 3497 0 true
+//Anvil spawned by manoel
+2783 10 0 - 3107 3497 0 true
+//Loom spawned by manoel
+8717 10 0 - 3079 3488 0 true
+//Spinning wheel spawned by manoel
+25824 10 0 - 3081 3488 0 true
+//Flax spawned by manoel
+2646 10 0 - 3078 3480 0 true
+//Flax spawned by manoel
+2646 10 0 - 3079 3481 0 true
+//Flax spawned by manoel
+2646 10 0 - 3078 3482 0 true
+//Flax spawned by manoel
+2646 10 0 - 3080 3485 0 true
+//Flax spawned by manoel
+2646 10 0 - 3080 3480 0 true
+//Flax spawned by manoel
+2646 10 0 - 3080 3478 0 true
+//Flax spawned by manoel
+2646 10 0 - 3082 3477 0 true
+//Pottery Wheel spawned by manoel
+2642 10 0 - 3105 3497 0 true
+//Closed chest spawned by manoel
+172 10 2 - 3095 3499 0 true
+//Well spawned by manoel
+54639 10 0 - 3083 3500 0 true
+//null spawned by manoel
+0 10 0 - 3106 3501 0 true
+//Pottery Oven spawned by manoel
+11601 10 0 - 3106 3501 0 true
+//null spawned by manoel
+0 10 0 - 3094 3506 0 true
+//null spawned by manoel
+0 10 0 - 3093 3506 0 true
+//null spawned by manoel
+0 10 0 - 3098 3506 0 true
+//Barrel spawned by manoel
+42382 10 0 - 3090 3505 0 true
+//Barrel spawned by manoel
+42382 10 0 - 3089 3505 0 true
+//Portal spawned by manoel
+//2468 10 0 - 3089 3493 0 true
+//Portal spawned by manoel
+//2465 10 0 - 83 80 0 true
+//null spawned by manoel
+2562 10 2 - 3088 3483 0 true
+//null spawned by pwnple
+87716 10 0 - 1893 4370 0 true
+//null spawned by pwnple
+87716 10 0 - 1903 4404 0 true
+//Portal spawned by manoel
+15478 10 1 - 3083 3489 0 true
+//Altar of Zaros spawned by manoel
+47120 10 0 - 3094 3504 0 true
+//null spawned by manoel
+87413 10 0 - 2834 5128 0 true
+//null spawned by manoel
+4578 10 0 - 2508 3633 0 true

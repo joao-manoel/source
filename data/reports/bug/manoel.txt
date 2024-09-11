@@ -1,0 +1,7 @@
+Date: 5th Junho
+Category: lol
+Description: lol
+Combat: Yes
+Controler: No.
+Coords: 3095, 3497, 0 and 12342
+

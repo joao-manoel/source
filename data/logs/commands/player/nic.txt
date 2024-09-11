@@ -1,0 +1,8 @@
+[15 Junho 2020 at 08:03:55 BRT] - ::tele 0,48,54,22,39
+[15 Junho 2020 at 08:05:13 BRT] - ::sz 
+[15 Junho 2020 at 08:05:41 BRT] - ::sendhome sean
+[15 Junho 2020 at 09:32:35 BRT] - ::kick sean
+[17 Junho 2020 at 03:26:08 BRT] - ::sz 
+[17 Junho 2020 at 03:47:03 BRT] - ::sendhome nic
+[17 Junho 2020 at 03:52:14 BRT] - ::sendhome nic
+[17 Junho 2020 at 03:52:23 BRT] - ::sendhome nic

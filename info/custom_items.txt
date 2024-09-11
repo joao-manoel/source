@@ -1,0 +1,25 @@
+24305 -  saradomin`s whisper
+
+inv : 71654
+male : 71648
+
+model inv/71647 male/71648
+
+
+24510 - saradomin`s hiss
+
+inv: 71651 
+male: 71652
+
+model inv/71649 male/71650 / female/71651
+
+24954 - saradomin`s murmur
+
+inv: 71655
+male: 71656
+
+model inv/71652 male/71653
+
+cords
+2587 4200
+1691 4258
