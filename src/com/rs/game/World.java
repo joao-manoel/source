@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
+import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.TimeUnit;
 
 import com.rs.Launcher;
@@ -158,6 +159,25 @@ public final class World {
 	public static void executeAfterLoadRegion(final int regionId, final Runnable event) {
 		executeAfterLoadRegion(regionId, 0, event);
 	}
+
+	public static final void spawnObject(WorldObject object, boolean clip) {
+		int regionId = object.getRegionId();
+		getRegion(regionId).addObject(object);
+		if (clip) {
+			int baseLocalX = object.getX() - ((regionId >> 8) * 64);
+			int baseLocalY = object.getY() - ((regionId & 0xff) * 64);
+			getRegion(regionId).addMapObject(object, baseLocalX, baseLocalY);
+		}
+		synchronized (players) {
+			for (Player p2 : players) {
+				if (p2 == null || !p2.hasStarted() || p2.hasFinished()
+						|| !p2.getMapRegionsIds().contains(regionId))
+					continue;
+				p2.getPackets().sendSpawnedObject(object);
+			}
+		}
+	}
+
 
 	public static void executeAfterLoadRegion(final int regionId, long startTime, final Runnable event) {
 		executeAfterLoadRegion(regionId, startTime, 10000, event);

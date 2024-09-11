@@ -1,6 +1,7 @@
 package com.rs.game;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
@@ -40,7 +41,9 @@ public class Region {
 	private boolean loadedNPCSpawns;
 	private boolean loadedObjectSpawns;
 	private boolean loadedItemSpawns;
+	private List<WorldObject> removedObjects;
 	private int[] musicIds;
+	private List<FloorItem> floorItems;
 
 	public Region(int regionId) {
 		this.regionId = regionId;
@@ -1400,5 +1403,69 @@ public class Region {
 			map = null;
 			setLoadMapStage(0);
 		}
+	}
+	public void addMapObject(WorldObject object, int x, int y) {
+		if (map == null)
+			map = new RegionMap(regionId, false);
+		if (clipedOnlyMap == null)
+			clipedOnlyMap = new RegionMap(regionId, true);
+		int plane = object.getPlane();
+		int type = object.getType();
+		int rotation = object.getRotation();
+		if (x < 0 || y < 0 || x >= map.getMasks()[plane].length
+				|| y >= map.getMasks()[plane][x].length)
+			return;
+		ObjectDefinitions objectDefinition = ObjectDefinitions
+				.getObjectDefinitions(object.getId()); // load here
+
+		if (type == 22 ? objectDefinition.getClipType() != 0 : objectDefinition
+				.getClipType() == 0)
+			return;
+		if (type >= 0 && type <= 3) {
+			map.addWall(plane, x, y, type, rotation,
+					objectDefinition.isProjectileCliped(), true);
+			if (objectDefinition.isProjectileCliped())
+				clipedOnlyMap.addWall(plane, x, y, type, rotation,
+						objectDefinition.isProjectileCliped(), true);
+		} else if (type >= 9 && type <= 21) {
+			int sizeX;
+			int sizeY;
+			if (rotation != 1 && rotation != 3) {
+				sizeX = objectDefinition.getSizeX();
+				sizeY = objectDefinition.getSizeY();
+			} else {
+				sizeX = objectDefinition.getSizeY();
+				sizeY = objectDefinition.getSizeX();
+			}
+			map.addObject(plane, x, y, sizeX, sizeY,
+					objectDefinition.isProjectileCliped(), true);
+			if (objectDefinition.isProjectileCliped())
+				clipedOnlyMap.addObject(plane, x, y, sizeX, sizeY,
+						objectDefinition.isProjectileCliped(), true);
+		} else if (type == 22) {
+			// map.addFloor(plane, x, y);
+		}
+	}
+
+
+
+	public void addObject(WorldObject object) {
+		if (spawnedObjects == null)
+			spawnedObjects = new CopyOnWriteArrayList<WorldObject>();
+		spawnedObjects.add(object);
+	}
+
+	public List<FloorItem> forceGetFloorItems() {
+		if (floorItems == null)
+			floorItems = new CopyOnWriteArrayList<FloorItem>();
+		return floorItems;
+	}
+
+	public List<FloorItem> getFloorItems() {
+		return floorItems;
+	}
+
+	public List<WorldObject> getRemovedObjects() {
+		return removedObjects;
 	}
 }

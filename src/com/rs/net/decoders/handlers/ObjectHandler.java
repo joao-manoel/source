@@ -64,18 +64,8 @@ import com.rs.game.player.actions.skills.woodcutting.Woodcutting;
 import com.rs.game.player.actions.skills.woodcutting.Woodcutting.TreeDefinitions;
 import com.rs.game.player.actions.thieving.ThievesGuildChests;
 import com.rs.game.player.actions.thieving.ThievesGuildDoors;
-import com.rs.game.player.content.CrystalChest;
-import com.rs.game.player.content.DwarfMultiCannon;
-import com.rs.game.player.content.FadingScreen;
-import com.rs.game.player.content.FairyRings;
-import com.rs.game.player.content.GrotwormLair;
-import com.rs.game.player.content.ItemConstants;
-import com.rs.game.player.content.KillScoreBoard;
-import com.rs.game.player.content.Magic;
-import com.rs.game.player.content.SpiritTreeTransport;
-import com.rs.game.player.content.SquealOfFortuneRewards;
-import com.rs.game.player.content.WildernessKills;
-import com.rs.game.player.content.WildernessObelisk;
+import com.rs.game.player.content.*;
+import com.rs.game.player.content.Dungeoneering;
 import com.rs.game.player.content.agility.AgilityFA;
 import com.rs.game.player.actions.skills.prayer.Burying.Bone;
 import com.rs.game.player.actions.skills.runecrafting.CombinationRunes;
@@ -227,6 +217,11 @@ public final class ObjectHandler {
         	player.getActionManager().setAction(new ThievesGuildDoors(object));
         	return;
         }
+		else if (id == 48496) {
+			Dungeoneering.startDungeon(1, 6, 0, player);
+			return;
+
+		}
         //chests
         if (id == 52296 || id == 52299) {
         	player.getActionManager().setAction(new ThievesGuildChests(object));
@@ -305,6 +300,7 @@ public final class ObjectHandler {
 		    player.setNextWorldTile(Settings.DUNG_DOWN);
 			
 		}
+
 		if(id == 51156) {
 			player.getControlerManager().forceStop();
 		    player.setNextWorldTile(Settings.DUNG_DOWN);

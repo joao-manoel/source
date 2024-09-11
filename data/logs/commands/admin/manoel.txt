@@ -4085,3 +4085,6 @@
 [10 setembro 2024 at 01:18:40 AMT] - ::tele 0,53,58,58,8
 [10 setembro 2024 at 01:27:02 AMT] - ::tele 0,53,57,56,51
 [10 setembro 2024 at 01:28:41 AMT] - ::setruby manoel 5000
+[11 setembro 2024 at 01:12:15 AMT] - ::tele 0,53,58,59,11
+[11 setembro 2024 at 01:15:15 AMT] - ::tele 0,53,58,59,12
+[11 setembro 2024 at 01:15:55 AMT] - ::god 

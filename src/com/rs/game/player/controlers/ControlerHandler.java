@@ -96,6 +96,8 @@ public class ControlerHandler {
 					(Class<Controler>) Class.forName(VarrockMuseum.class.getCanonicalName()));
 			handledControlers.put("ZGDControler",
 					(Class<Controler>) Class.forName(ZGDControler.class.getCanonicalName()));
+			handledControlers.put("DungControler",
+					(Class<Controler>) Class.forName(DungControler.class.getCanonicalName()));
 		} catch (Throwable e) {
 			Logger.handle(e);
 		}
